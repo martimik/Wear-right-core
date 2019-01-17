@@ -2,30 +2,82 @@
 
 Tuntikirjaukset ja kulut projektissa XXXXX
 
-### NakkeNakuttaja 1
+### Claudia Viita
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
-| NakkeNakuttaja1 | 1.1.2018 | 7.25h | Suunnittelua 4h, toteutettu 3,25h |
-| NakkeNakuttaja1| 2.1.2018 | 7.25h |
-| NakkeNakuttaja1 | 3.1.2018 | 7.25h |
-| NakkeNakuttaja1 | 4.1.2018 | 7.25h |
-| NakkeNakuttaja1 | 5.1.2018 | 7.25h |
+| Claudia Viita | 17.1.2019 | 7.25h |  |
+| Claudia Viita | - | - |
+| Claudia Viita | - | - |
+| Claudia Viita | - | - |
+| Claudia Viita | - | - |
 
-Yhteensä:36,5h
+Yhteensä: h
 
-### NakkeNakuttaja 2
+### Jesse Heikkinen
 
 
-| Tekijä | Päivämäärä | Tunnit |
-|:-:|:-:|:-:|
-| NakkeNakuttaja2 | 1.1.2018 | 7.25h |
-| NakkeNakuttaja2 | 2.1.2018 | 7.25h |
-| NakkeNakuttaja2 | 3.1.2018 | 7.25h |
-| NakkeNakuttaja2 | 4.1.2018 | 7.25h |
-| NakkeNakuttaja2 | 5.1.2018 | 7.25h |
+| Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
+|:-:|:-:|:-:|:-:|
+| Jesse Heikkinen | 17.1.2019 | 7.25h |
+| Jesse Heikkinen | - | - |
+| Jesse Heikkinen | - | - |
+| Jesse Heikkinen | - | - |
+| Jesse Heikkinen | - | - |
 
-Yhteensä:36,5h
+Yhteensä: h
+
+### Mikko Martikainen
+
+
+| Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
+|:-:|:-:|:-:|:-:|
+| Mikko Martikainen | 17.1.2019 | 7.25h |
+| Mikko Martikainen | - | - |
+| Mikko Martikainen | - | - |
+| Mikko Martikainen | - | - |
+| Mikko Martikainen | - | - |
+
+Yhteensä: h
+
+### Mikko Vornanen
+
+
+| Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
+|:-:|:-:|:-:|:-:|
+| Mikko Vornanen | 17.1.2019 | 7.25h |
+| Mikko Vornanen | - | - |
+| Mikko Vornanen | - | - |
+| Mikko Vornanen | - | - |
+| Mikko Vornanen | - | - |
+
+Yhteensä: h
+
+### Oskari Seppä
+
+
+| Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
+|:-:|:-:|:-:|:-:|
+| Oskari Seppä | 17.1.2019 | 7.25h |
+| Oskari Seppä | - | - |
+| Oskari Seppä | - | - |
+| Oskari Seppä | - | - |
+| Oskari Seppä | - | - |
+
+Yhteensä: h
+
+### Suvi Lauritsalo
+
+
+| Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
+|:-:|:-:|:-:|:-:|
+| Suvi Lauritsalo | 17.1.2019 | 7.25h |
+| Suvi Lauritsalo | - | - |
+| Suvi Lauritsalo | - | - |
+| Suvi Lauritsalo | - | - |
+| Suvi Lauritsalo | - | - |
+
+Yhteensä: h
 
 ### Hankinnat projektille
 
