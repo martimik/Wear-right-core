@@ -6,11 +6,11 @@ Tuntikirjaukset ja kulut projektissa XXXXX
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
-| Claudia Viita | 17.1.2019 | 7.25h |  |
-| Claudia Viita | - | - |
-| Claudia Viita | - | - |
-| Claudia Viita | - | - |
-| Claudia Viita | - | - |
+| Claudia Viita | 17.1.2019 | 7.25h | - |
+| Claudia Viita | - | - | - |
+| Claudia Viita | - | - | - |
+| Claudia Viita | - | - | - |
+| Claudia Viita | - | - | - |
 
 Yhteensä: h
 
@@ -19,11 +19,11 @@ Yhteensä: h
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
-| Jesse Heikkinen | 17.1.2019 | 7.25h |
-| Jesse Heikkinen | - | - |
-| Jesse Heikkinen | - | - |
-| Jesse Heikkinen | - | - |
-| Jesse Heikkinen | - | - |
+| Jesse Heikkinen | 17.1.2019 | 7.25h | - |
+| Jesse Heikkinen | - | - | - |
+| Jesse Heikkinen | - | - | - |
+| Jesse Heikkinen | - | - | - |
+| Jesse Heikkinen | - | - | - |
 
 Yhteensä: h
 
@@ -32,11 +32,11 @@ Yhteensä: h
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
-| Mikko Martikainen | 17.1.2019 | 7.25h |
-| Mikko Martikainen | - | - |
-| Mikko Martikainen | - | - |
-| Mikko Martikainen | - | - |
-| Mikko Martikainen | - | - |
+| Mikko Martikainen | 17.1.2019 | 7.25h | - |
+| Mikko Martikainen | - | - | - |
+| Mikko Martikainen | - | - | - |
+| Mikko Martikainen | - | - | - |
+| Mikko Martikainen | - | - | - |
 
 Yhteensä: h
 
@@ -45,11 +45,11 @@ Yhteensä: h
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
-| Mikko Vornanen | 17.1.2019 | 7.25h |
-| Mikko Vornanen | 16.1.2019 | 4h | Tiimin kotisivuja
-| Mikko Vornanen | - | - |
-| Mikko Vornanen | - | - |
-| Mikko Vornanen | - | - |
+| Mikko Vornanen | 17.1.2019 | 7.25h | - |
+| Mikko Vornanen | 16.1.2019 | 4h | Tiimin kotisivuja |
+| Mikko Vornanen | - | - | - |
+| Mikko Vornanen | - | - | - |
+| Mikko Vornanen | - | - | - |
 
 Yhteensä: h
 
@@ -59,10 +59,10 @@ Yhteensä: h
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
 | Oskari Seppä | 17.1.2019 | 7.25h |
-| Oskari Seppä | - | - |
-| Oskari Seppä | - | - |
-| Oskari Seppä | - | - |
-| Oskari Seppä | - | - |
+| Oskari Seppä | - | - | - |
+| Oskari Seppä | - | - | - |
+| Oskari Seppä | - | - | - |
+| Oskari Seppä | - | - | - |
 
 Yhteensä: h
 
@@ -71,11 +71,11 @@ Yhteensä: h
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
-| Suvi Lauritsalo | 17.1.2019 | 7.25h |
-| Suvi Lauritsalo | - | - |
-| Suvi Lauritsalo | - | - |
-| Suvi Lauritsalo | - | - |
-| Suvi Lauritsalo | - | - |
+| Suvi Lauritsalo | 17.1.2019 | 7.25h | - |
+| Suvi Lauritsalo | - | - | - |
+| Suvi Lauritsalo | - | - | - |
+| Suvi Lauritsalo | - | - | - |
+| Suvi Lauritsalo | - | - | - |
 
 Yhteensä: h
 
