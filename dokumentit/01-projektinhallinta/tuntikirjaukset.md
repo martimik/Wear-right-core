@@ -32,7 +32,7 @@ Yhteensä: h
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
-| Mikko Martikainen | 17.1.2019 | 7.25h | - |
+| Mikko Martikainen | 17.1.2019 | 5h | Projektinhallinta |
 | Mikko Martikainen | - | - | - |
 | Mikko Martikainen | - | - | - |
 | Mikko Martikainen | - | - | - |
