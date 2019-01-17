@@ -46,7 +46,7 @@ Yhteensä: h
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
 | Mikko Vornanen | 17.1.2019 | 7.25h |
-| Mikko Vornanen | - | - |
+| Mikko Vornanen | 16.1.2019 | 4h | Tiimin kotisivuja
 | Mikko Vornanen | - | - |
 | Mikko Vornanen | - | - |
 | Mikko Vornanen | - | - |
