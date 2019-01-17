@@ -18,7 +18,7 @@ Vestibulum ac varius neque. Donec vel sapien libero. Cras fringilla augue quis q
 ## Mitä seuraavaksi
 
 
-* Linkki etappiin / sprinttiin ?
+* [Sprint 2](https://gitlab.labranet.jamk.fi/team-b-2019/core/milestones/8)
 
 Seuraavaaksi vuorossa sprint 2.
 
