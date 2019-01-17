@@ -58,7 +58,7 @@ Yhteensä: h
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
-| Oskari Seppä | 17.1.2019 | 7.25h |
+| Oskari Seppä | 17.1.2019 | 7.25h | - |
 | Oskari Seppä | - | - | - |
 | Oskari Seppä | - | - | - |
 | Oskari Seppä | - | - | - |
