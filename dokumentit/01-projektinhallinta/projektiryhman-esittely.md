@@ -6,9 +6,7 @@
 
 ![](https://openclipart.org/image/300px/svg_to_png/310624/1542815459.png)
 
-* Vastuut
-
-Kotisivut
+* Kotisivut
 
 # Jesse Heikkinen
 
@@ -20,9 +18,7 @@ Kotisivut
 
 ![](https://openclipart.org/image/300px/svg_to_png/310279/1542363453.png)
 
-* Vastuut
-
-Konemestari
+* Konemestari
 
 # Claudia Viita
 
