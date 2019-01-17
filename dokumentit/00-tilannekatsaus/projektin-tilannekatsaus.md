@@ -23,7 +23,7 @@ Vestibulum ac varius neque. Donec vel sapien libero. Cras fringilla augue quis q
 Seuraavaaksi vuorossa sprint 2.
 
 
-### Projektin kokonaiskulut 5.1.201x
+### Projektin kokonaiskulut 5.1.2019
 
 * [Tuntikirjaukset](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/01-projektinhallinta/tuntikirjaukset.md)
 
