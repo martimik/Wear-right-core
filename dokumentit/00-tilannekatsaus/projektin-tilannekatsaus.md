@@ -7,7 +7,7 @@
 
 ## Mitä saatu aikaan
 
-Suspendisse interdum tellus a nulla maximus ullamcorper. Donec eu magna sit amet eros finibus rhoncus. Proin in efficitur justo, nec sagittis mauris. 
+Projektin repositorio pystyetty ja issuet sekä milestonet laitettu kuntoon. Sprint 1 -tehtävien tekoa.
 
 ## Kohdatut ongelmat
 
@@ -19,12 +19,13 @@ Vestibulum ac varius neque. Donec vel sapien libero. Cras fringilla augue quis q
 
 
 * Linkki etappiin / sprinttiin ?
-Pellentesque congue odio ut tellus elementum vulputate et dapibus ante. Nunc tincidunt, nibh sit amet lobortis congue, lectus erat rutrum lacus, nec rhoncus urna erat quis felis. Vestibulum laoreet est diam, in euismod tellus ornare at. Donec in egestas enim. Cras ipsum elit, pulvinar consequat viverra id, dictum condimentum justo.
+
+Seuraavaaksi vuorossa sprint 2.
 
 
 ### Projektin kokonaiskulut 5.1.201x
 
-* [Linkki tuntikirjauksiin?]()
+* [Tuntikirjaukset](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/01-projektinhallinta/tuntikirjaukset.md)
 
 | Kuluerä | määrä |  hinta a | Yhteensä |
 |:---|:---|:---|:---|
