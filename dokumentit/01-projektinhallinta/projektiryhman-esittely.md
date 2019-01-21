@@ -17,8 +17,8 @@
 # Suvi Lauritsalo
 
 ![](https://openclipart.org/image/300px/svg_to_png/310279/1542363453.png)
-![](https://www.facebook.com/suvi.lauritsalo)
-![](https://steamcommunity.com/profiles/76561198099240167/)
+(https://www.facebook.com/suvi.lauritsalo)
+(https://steamcommunity.com/profiles/76561198099240167/)
 
 * Konemestari
 
