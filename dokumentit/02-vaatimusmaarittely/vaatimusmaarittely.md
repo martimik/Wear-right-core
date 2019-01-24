@@ -4,18 +4,12 @@
 
 
 
-# Pukeutumisprojekti
+# TTOS0100 Kurssin harjoitustyö HT1 - [TOIMEKSIANTO KOODI TÄHÄN] 
 
 
-* Jäsenet
-    * Claudia Viita @L4710
-    * Jesse Heikkinen @L4160
-    * Mikko Martikainen @K8936
-    * Mikko Vornanen @L9696
-    * Oskari Seppä @M0375
-    * Suvi Lauritsalo @L4086
-* 2019
-* Versionumero 0.1
+* Nimimerkki/gitlab tunnus
+* Vuosi 
+* Versionumero X.Y
 
 
 ## Sisällysluettelo 
@@ -44,7 +38,13 @@
 
 **Älä käytä tilaajien todellisia nimiä vaan muuta henkilötiedot ja toimeksiantajan viralliset tiedot**
 
-_Pukeutumisprojekti_ on nettisivu/sovellus puhelimelle, joka kertoo, kuinka voit pukeutua sään mukaan.
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
+totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
+dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
+sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, 
+qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
+incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
+quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
 [![](http://img.youtube.com/vi/0zVNZNbphfE/0.jpg)](http://www.youtube.com/watch?v=0zVNZNbphfE "")
 
@@ -223,8 +223,9 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 | US-ID | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|
-| US-01 | Käyttäjänä haluan kirjautua palveluun käyttäen Facebook-tunnuksia, koska se on minulle varsin helppoa | [Kirjautuminen ft1](ft1-ominaisuus.md) |
-| US-01 | Pääkäyttäjänä haluan poistaa käyttämättömät tunnukset, koska en halua säilyttäää vanhoja tunnuksia palvelussa | [Käyttäjärekisteri ft30](ft30-ominaisuus.md) |
+| US-01 | Retkeilijänä haluan saada tietää eri paikkojen säästä hyvissä ajoin etukäteen, koska en viivy kauaa yhdessä paikassa. | [Sääennustus ft6](ft6-ominaisuus.md) |
+| US-02 | Lapsiperheen äitinä haluan, että pääsen näkemään nopeasti lapsille säähän sopivat vaatteet, koska olen hyvin kiireinen ihminen. | [Lasten vaatetus ft9](ft9-ominaisuus.md) |
+| US-01 | Käyttäjänä haluan, että tietoni pysyisi sovelluksen tiedoissa, koska se olisi kätevää. | [Käyttäjätiedot ft2](ft2-ominaisuus.md) |
 
 
 ## Palveluun liittyvät tärkeimmät toiminnalliset vaatimukset (Functional Requirements)
