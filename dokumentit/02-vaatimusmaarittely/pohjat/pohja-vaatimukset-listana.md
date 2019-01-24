@@ -15,7 +15,7 @@ Kun käytetään yhtä ympäristöä keräämään oleellinen tieto on niiden li
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
 | CUSTOMER-REQ-0001 | Customer Requirement | Käyttäjänä haluan kirjautua käyttäen Facebook-tunnuksia, ettei tarvise häslätä | [Kirjautuminen ft1](ft1-ominaisuus.md) | 
-| CUSTOMER-REQ-0002 | Customer Requirement |||
+| CUSTOMER-REQ-0002 | Customer Requirement | Sovelluksen tulee olla helppokäyttöinen, että lapset ja vanhukset voivat käyttää sitä ||
 | CUSTOMER-REQ-0003 | Customer Requirement |||
 | CUSTOMER-REQ-0004 | Customer Requirement |||
 | CUSTOMER-REQ-0005 | Customer Requirement |||
@@ -26,7 +26,7 @@ Kun käytetään yhtä ympäristöä keräämään oleellinen tieto on niiden li
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
 | BUSINESS-REQ-0001 | Business Requirement | Palvelun kirjautuminen tulee olla helppoa, että voimme saavuttaa laajan käyttäjäkunnan = 35% kohderyhmästä | [Kirjautuminen ft1](ft1-ominaisuus.md) | 
-| BUSINESS-REQ-0002 | Business Requirement |||
+| BUSINESS-REQ-0002 | Business Requirement | Palvelun tulee päivittää itsensä ja ilmoittaa virheistä, jotta ne pystytään korjaamaan ||
 | BUSINESS-REQ-0003 | Business Requirement |||
 | BUSINESS-REQ-0004 | Business Requirement |||
 | BUSINESS-REQ-0005 | Business Requirement |||
@@ -78,16 +78,16 @@ järjestelmävaatimuksiin. Teknisiä vaatimuksia voivat olla esim:
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
-| FUNCTIONAL-REQ-C0001 | Functional Requirement | Käyttäjänä (Asiakas Profiilit 1-4) voin kirjautua käyttäen Facebook-tunnuksia | [Kirjautuminen ft1](ft1-ominaisuus.md) |
-| FUNCTIONAL-REQ-C0002 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0003 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0004 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0005 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0006 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0007 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0008 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0009 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0010 | Functional Requirement |||
+| FUNCTIONAL-REQ-C0001 | Functional Requirement | Käyttäjä voi kirjautua käyttäen Facebook-tunnuksia | [Kirjautuminen ft1](ft1-ominaisuus.md) |
+| FUNCTIONAL-REQ-C0002 | Functional Requirement | Käyttäjä pystyy luomaan tunnukset, joilla kirjautua palveluun | xxx |
+| FUNCTIONAL-REQ-C0003 | Functional Requirement | Käyttäjä voi luoda oman profiilin | zzz |
+| FUNCTIONAL-REQ-C0004 | Functional Requirement | Käyttäjä pystyy luomaan sivuprofiileja (esim. lapsille) | xxx |
+| FUNCTIONAL-REQ-C0005 | Functional Requirement | Käyttäjä pystyy suunnittelemaan matkan ja saamaan tietoja | zzz |
+| FUNCTIONAL-REQ-C0006 | Functional Requirement | Käyttäjä saa tietoonsa senhetkisen säätiedon ja pukeutumisohjeen | xxx |
+| FUNCTIONAL-REQ-C0007 | Functional Requirement | Käyttäjä pystyy tallentamaan suosikkikohteita | xxx |
+| FUNCTIONAL-REQ-C0008 | Functional Requirement | | xxx |
+| FUNCTIONAL-REQ-C0009 | Functional Requirement | | xxx |
+| FUNCTIONAL-REQ-C0010 | Functional Requirement | | xxx |
 
 
 ### Ei-Toiminnalliset vaatimukset
