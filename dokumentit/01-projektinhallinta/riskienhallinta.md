@@ -9,7 +9,7 @@
 
 | RISKI ID |	Kuvaus | Vakavuus | Todennäköisyys | Kuka vastaa | Miten toimitaan, jos riski "eskaloituu" | 
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| RIS01 | Ryhmän jäsen sairastuu flunssaan |  V3 |  HessuHopo | Ilmoita tiiminvetäjälle ja tarvittaesssa asiakkaalle. |
+| RIS01 | Ryhmän jäsen sairastuu  |  V4 |   | Ilmoita tiimille. |
 | RISXX | [Riskikohtainen alasivu jos tarpeen]() | | | |
 | RISXX | | | | |
 | RISXX | | | | |
