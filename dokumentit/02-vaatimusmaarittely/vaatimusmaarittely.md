@@ -114,7 +114,7 @@ __Kerätään kaikki sidosryhmät yhteen kuvaan ja pohditaan erityisesti mikä o
 
 **Muista kirjata kuvauksiin erityisesti sidosryhmän motivaatio! Eli miksi sidosryhmä syy käyttää/soveltaa palvelua**
 
-* [Profile 1](stakeholder-profile1.md)
+* [Profiili 1](profiilit/stakeholder-profile1.md)
 * [Profile 2](stakeholder-profile2.md)
 * [Profile 3](stakeholder-profile3.md)
 
