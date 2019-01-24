@@ -25,7 +25,7 @@ Projektiin liittyvässä kirjallisessa viestinnässä käytetään JAMKin raport
 
 Sisäisellä viestinnällä tarkoitetaan tässä viestintää projektiryhmän sisällä. Sen tavoitteena on välittää projektiin liittyvää informaatiota kaikille ryhmän jäsenille ja näin tukea ryhmän yhteistyötä ja edesauttaa ryhmän identiteetin muodostumista. Lisäksi sisäinen viestintä toimii kaiken ulkoisen viestinnän perustana. projektin sisäisessä viestinnässä käytetään sekä formaaleja että epävirallisia kanavia. Projektiryhmä kokoontuu torstaiaamuisin työtilaan, jossa suunnitellaan tulevan viikon tehtävät ja edellisen käydään läpi edellisen viikon tapahtumat. Kaikki projektiin liittyvä dokumentaatio säilytetään GitLab-ympäristössä, jota ryhmäläisten tulee aktiivisesti seurata.
 Sekä sisäisen että ulkoisen viestinnän tukena käytetään lisäksi seuraavia apuvälineitä:
--	[Gitlab-ympäristö, johon sisällytetään dokumentaatiot projektin toteutuksesta.] (http://team-b-2019.pages.labranet.jamk.fi/core/01-projektinhallinta/viestintasuunnitelma/)
+-	[Gitlab-ympäristö, johon sisällytetään dokumentaatiot projektin toteutuksesta.](http://team-b-2019.pages.labranet.jamk.fi/core/01-projektinhallinta/viestintasuunnitelma/)
 -	Whatsapp ryhmän sisäisenä, ensisijaisena viestintävälineenä.
 -	Microsoft Teams.
 
