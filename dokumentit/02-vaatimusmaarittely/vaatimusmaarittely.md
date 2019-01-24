@@ -217,6 +217,16 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 * [Käyttötapaus 1 - Uusi asiakas luo tunnuksen]()
 * [Käyttötapaus 2 - Uusi asiaks poistaa tunnukset]()
 
+
+## Alustavat User Storyt
+
+
+| US-ID | Kuvaus | Ominaisuus johon vaikuttaa |								
+|:-:|:-:|:-:|
+| US-01 | Käyttäjänä haluan kirjautua palveluun käyttäen Facebook-tunnuksia, koska se on minulle varsin helppoa | [Kirjautuminen ft1](ft1-ominaisuus.md) |
+| US-01 | Pääkäyttäjänä haluan poistaa käyttämättömät tunnukset, koska en halua säilyttäää vanhoja tunnuksia palvelussa | [Käyttäjärekisteri ft30](ft30-ominaisuus.md) |
+
+
 ## Palveluun liittyvät tärkeimmät toiminnalliset vaatimukset (Functional Requirements)
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
