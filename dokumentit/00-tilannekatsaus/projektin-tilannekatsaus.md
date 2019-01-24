@@ -7,13 +7,14 @@
 
 ## Mitä saatu aikaan
 
-Projektin repositorio pystyetty ja issuet sekä milestonet laitettu kuntoon. Sprint 1 -tehtävien tekoa.
+Projektin repositorio pystyetty ja issuet sekä milestonet laitettu kuntoon. Sprint 1 -tehtävtävät tehty.
+Toimeksiantoon on tutustuttu. Sprint 2 -tehtävien tekoa.
 
 ## Kohdatut ongelmat
 
 * Lista "issueista" ?
 
-Vestibulum ac varius neque. Donec vel sapien libero. Cras fringilla augue quis quam pretium, nec volutpat enim vulputate. 
+
 
 ## Mitä seuraavaksi
 
