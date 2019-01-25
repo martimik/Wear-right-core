@@ -4,6 +4,6 @@
 
 http://team-b-2019.pages.labranet.jamk.fi/core
 
-## Team's website
+### Team's website
 
 http://team-b-2019.pages.labranet.jamk.fi/site/
