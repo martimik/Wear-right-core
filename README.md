@@ -4,4 +4,6 @@
 
 http://team-b-2019.pages.labranet.jamk.fi/core
 
-testedit
+## Team's website
+
+http://team-b-2019.pages.labranet.jamk.fi/site/
