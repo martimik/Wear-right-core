@@ -6,8 +6,8 @@ Tuntikirjaukset ja kulut projektissa XXXXX
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
-| Claudia Viita | 17.1.2019 | 4.5h | Sprint 01-E0 |
-| Claudia Viita | - | - | - |
+| Claudia Viita | 17.1.2019 | 5h | Sprint 01-E0 |
+| Claudia Viita | 24.1.2019 | 5h | Sprint 2 |
 | Claudia Viita | - | - | - |
 | Claudia Viita | - | - | - |
 | Claudia Viita | - | - | - |
