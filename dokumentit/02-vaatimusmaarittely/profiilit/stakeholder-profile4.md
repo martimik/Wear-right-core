@@ -8,7 +8,7 @@
 
 ## Persoona
 
-![](https://openclipart.org/image/300px/svg_to_png/293286/Unknown-With-Background.png)
+![](https://openclipart.org/image/300px/svg_to_png/225683/Elliot.png)
 
 * Jukka Pajula
 * 25v
