@@ -95,12 +95,7 @@ vaan hän näkee sen suoraan sovelluksesta sekä tarvittavat vaatteet lapsikohta
 
 ## Yleinen sidosryhmäkuva (Stakeholder map)
 
-
-__Kerätään kaikki sidosryhmät yhteen kuvaan ja pohditaan erityisesti mikä on ko. ryhmän/edustajan motivaatio liittyen palveluun__
-
-
-![](https://camo.githubusercontent.com/0d665c81987cc940b4d93c0dfdfcf0128d1d5754/68747470733a2f2f7777772e6c7563696463686172742e636f6d2f7075626c69635365676d656e74732f766965772f30303736373365342d333361362d346131312d623465312d6163366461633130306537352f696d6167652e706e67)
-
+![](kuvat/Sidosryhmäkartta.jpg)
 
 
 ## Tunnistetut sidosryhmäkuvaukset (Stakeholders) 
