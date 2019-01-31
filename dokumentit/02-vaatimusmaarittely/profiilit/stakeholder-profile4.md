@@ -3,7 +3,8 @@
 
 ## Ryhmä
 
-* Asiakas
+* Uhka
+
 
 ## Persoona
 
@@ -14,14 +15,13 @@
 * Jukka on ICT-insinööri Etelä-Suomesta. Jukka tekee työkseen järjestelmien penetraatiotestausta. Mutta vapaa-ajallaan hän on black-hat hakkeri.
 
 
-
 ## Motiivi käyttää palvelua? 
 
 Jukka harrastaa nettissivujen hakkerointia ja on aina kiinnostunut uusista nettipalveluista, koska ne tuovat mukanaan uusia haasteita.
 
+
 ## Arvot  
 
-* -
 
 ## Välineet ja kyvyt etc.
 
