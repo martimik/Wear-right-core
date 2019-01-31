@@ -50,7 +50,9 @@ Käyttäjän on mahdollista luoda itselleen sivuprofiileja, jolloin palvelu anta
 Palvelun avulla on myös mahdollista suunnitella matka sekä saada pukeutumisohjeet kyseiselle ajalle paikkakuntakohtaisesti.
 
 Projektista laaditaan asianmukainen dokumentaatio ja työn edistymistä seurataan ylläpidettävällä seurannalla. Projektin tavoitteena on kehittää tuote,
-joka voi olla keskeneräinen, mutta antaa kuvan siitä millainen tuote tulisi olemaan. 
+joka voi olla keskeneräinen, mutta antaa kuvan siitä millainen tuote tulisi olemaan. Suunnitelma hyväksytetään toimeksiantajalla ennen toteutusta. 
+
+Toteutuksessa käytettävien teknologioiden sekä palvelujen kartoittaminen tapahtuu ryhmän toimesta. 
 
 [![](http://img.youtube.com/vi/0zVNZNbphfE/0.jpg)](http://www.youtube.com/watch?v=0zVNZNbphfE "")
 
