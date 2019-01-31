@@ -19,8 +19,8 @@ Yhteensä: h
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
-| Jesse Heikkinen | 17.1.2019 | 7.25h | - |
-| Jesse Heikkinen | - | - | - |
+| Jesse Heikkinen | 17.1.2019 | 5h | Sprint 01-E0 |
+| Jesse Heikkinen | 24.1.2019 | 5h | Sprint 02 |
 | Jesse Heikkinen | - | - | - |
 | Jesse Heikkinen | - | - | - |
 | Jesse Heikkinen | - | - | - |
