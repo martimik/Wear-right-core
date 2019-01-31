@@ -7,8 +7,8 @@
 
 ## Mitä saatu aikaan
 
-Projektin repositorio pystyetty ja issuet sekä milestonet laitettu kuntoon. Sprint 1 -tehtävtävät tehty.
-Toimeksiantoon on tutustuttu. Sprint 2 -tehtävien tekoa.
+Projektin repositorio pystyetty ja issuet sekä milestonet laitettu kuntoon. Sprint 1 -tehtävät tehty.
+Toimeksiantoon on tutustuttu. Sprint 2 -tehtävät tehty. Sprint 3 -tehtävien tekoa.
 
 ## Kohdatut ongelmat
 
