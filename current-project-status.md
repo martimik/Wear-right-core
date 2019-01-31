@@ -8,7 +8,7 @@
 
 # Miten homma etenee / Current Progress
 
-Asiakas/Sidosryhmäprofiilien ja palvelun MockUpin teko.
+Asiakas/Sidosryhmäprofiilien ja palvelun MockUpin teko. Käytettävien teknologioiden sekä palvelujen kartoitus.
 
 
 # Ongelmakohdat / Problems ahead
