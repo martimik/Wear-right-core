@@ -322,15 +322,9 @@ Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhte
 
 ## Palvelu MockUp-prototyyppi
 
-__Kokonaispalvelun MockUp-kuva?__
+Tässä on palvelun prototyyppi:
 
-
-
-qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
-quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
-
-![](https://openclipart.org/image/800px/svg_to_png/236916/1452485143.png&disposition=attachment)
+[WR wear-right](https://www.fluidui.com/editor/live/preview/cF9TeGhTZkFtcE04NGZCUHc5NTNMa3N4M1RwSDNrUzVOVg==)
 
 
 ## Tärkeimmät tunnistetut ominaisuudet/piirteet (Features)
