@@ -79,23 +79,18 @@ Palvelun tehtävä pääasiassa on vaatetuksen suunnittelu sään mukaan. Vaatet
 
 ## Valitut asiakastarinat
 
-**Kerro palvelun käytöstä eri asiakasprofiilien/sidoryhmäedustajinen näkökulmasta**
-
-[![](http://img.youtube.com/vi/m8WEoyyFUww/0.jpg)](http://www.youtube.com/watch?v=m8WEoyyFUww "")
-
-[![](http://img.youtube.com/vi/MCs4dRPtOJU/0.jpg)](http://www.youtube.com/watch?v=MCs4dRPtOJU "")
-
-
-A: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
-sed 
+Lasse Lehtinen: Lassen työ vie häntä eri puolille suomea lyhyellä varoitus ajalla ja joskus pitemmäksikin aikaa. Lasse tykkää harrastaa ulkoilma
+lajeja mm. hiihtämistä ja tennistä, joten työmatkat ovat tähän otollisia, koska iltaisin Lassella on hyvää aikaa nauttia harrastuksistaan.
+Lasse joutuu kuitenkin aina ennen työmatkojaan seuraamaan säätiedotuksia hyvin tarkkaan ja joskus jopa useammalta eri paikkakunnalta. Tämän takia
+Lasse käyttää Wear-Right web-sovellusta. Lasse näkee sovelluksesta suoraan minkälaisia vaatteita hän tarvitsee työmatkalle mukaan ja minkälaista
+säätä matkalle on luvassa. Kaiken tämän Lasse näkee yhdestä samasta palvelusta.
 
 
-B: quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, 
-qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
-quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+Minna Järvenpää: Minnalla aamut ovat kiireisä. Hänen täytyy tehdä aamupalat lapsille, pitää huoli heidän aamutoimistaan ja tarkistaa päivän sää ja pukea
+heidät oikein sekä pakata mukaan tarvittavat vaatteet mikäli sää päivän aikana muuttuu. Kaiken tämän Minna joutuu tekemään ennen oman työpäivänsä alkamista.
+Minna on kuitenkin keksinyt tavan säästää aikaa aamuisin käyttämällä Wear-Right web-sovellusta. Sovelluksen avulla Minna näkee aamuisin suoraan mitä 
+vaatteita lapset tarvitsevat päällensä ja mukaansa päiväkotiin ja kouluun. Enää Minnan ei tarvitse käydä hakemassa itse tuntikohtaista säätiedotusta joka aamu
+vaan hän näkee sen suoraan sovelluksesta sekä tarvittavat vaatteet lapsikohtaisesti.
 
 
 ## Yleinen sidosryhmäkuva (Stakeholder map)
