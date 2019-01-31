@@ -7,7 +7,7 @@
 
 ## Persoona
 
-![](https://openclipart.org/image/300px/svg_to_png/293286/Unknown-With-Background.png)
+![](https://openclipart.org/image/300px/svg_to_png/28947/milovanderlinden-woman.png)
 
 * Minna Järvenpää
 * 44v
