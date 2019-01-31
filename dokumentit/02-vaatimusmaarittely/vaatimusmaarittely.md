@@ -49,6 +49,8 @@ _WR Wear-right_ on palvelu, joka tarjoaa ohjeistusta pukeutumiseen sään mukaan
 Käyttäjän on mahdollista luoda itselleen sivuprofiileja, jolloin palvelu antaa pukeutumissuositukset myös niille.
 Palvelun avulla on myös mahdollista suunnitella matka sekä saada pukeutumisohjeet kyseiselle ajalle paikkakuntakohtaisesti.
 
+Projektista laaditaan asianmukainen dokumentaatio ja työn edistymistä seurataan ylläpidettävällä seurannalla. Projektin tavoitteena on kehittää tuote,
+joka voi olla keskeneräinen, mutta antaa kuvan siitä millainen tuote tulisi olemaan. 
 
 [![](http://img.youtube.com/vi/0zVNZNbphfE/0.jpg)](http://www.youtube.com/watch?v=0zVNZNbphfE "")
 
