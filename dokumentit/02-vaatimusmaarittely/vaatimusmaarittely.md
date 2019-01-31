@@ -100,16 +100,18 @@ vaan hän näkee sen suoraan sovelluksesta sekä tarvittavat vaatteet lapsikohta
 
 ## Tunnistetut sidosryhmäkuvaukset (Stakeholders) 
 
-[![](http://img.youtube.com/vi/VmotZXBdrDs/0.jpg)](http://www.youtube.com/watch?v=VmotZXBdrDs "")
+* [Asiakas](profiilit/stakeholder-profile1.md)
 
+Asiakas käyttää palvelua helpottaakseen pukeutumissuunnittelua. Asiakas hyötyy palvelun käytöstä ajallisesti.
 
-**Kuvaa valitut sidosryhmät ja niihin liittyvät profiilikuvaukset** 
+* [Uhka](profiilit/stakeholder-profile4.md)
 
-**Muista kirjata kuvauksiin erityisesti sidosryhmän motivaatio! Eli miksi sidosryhmä syy käyttää/soveltaa palvelua**
+Palvelun uhkana ovat black-hat hakkerit. Hakkerit kaatavat sivuja harrastuksenaan tai rahallisen hyödyn takia.
 
-* [Profiili 1](profiilit/stakeholder-profile1.md)
-* [Profiili 2](profiilit/stakeholder-profile2.md)
-* [Profiili 3](profiilit/stakeholder-profile3.md)
+* [Kehittäjä](profiilit/stakeholder-profile5.md)
+
+Palvelun kehittäjät kehittävät palvelua, joko tekemällä palvelua valmiiksi tai palvelun tekemisen jälkeen
+kehittämällä palvelua paremmaksi
 
 
 ## Palvelu/asiakaspolku (Customer Journey/Path)
