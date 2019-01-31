@@ -3,7 +3,6 @@
 [![](http://img.youtube.com/vi/jH43MPe1Ceg/0.jpg)](http://www.youtube.com/watch?v=jH43MPe1Ceg "")
 
 
-
 # WR Wear-right
 
 * Team Hydralist
@@ -18,10 +17,7 @@
 * Versionumero 0.1
 
 
-
 ## Sisällysluettelo 
-
-**Pidä sisällysluettelo kunnossa, eli päivitä sitä tarpeen mukaan! Huomaa MarkDown-ankkurilinkitys**
 
 * [Tuotteen kuvaus](#Johdatus)
 * [Palvelukuvaus](#Palvelukuvaus)
@@ -41,10 +37,6 @@
 
 # Johdatus
 
-**Kerro millaisesta projektista on kyse, hieman taustaa ja aiheeseen olennaisesti liittyviä asioita?**
-
-**Älä käytä tilaajien todellisia nimiä vaan muuta henkilötiedot ja toimeksiantajan viralliset tiedot**
-
 _WR Wear-right_ on palvelu, joka tarjoaa ohjeistusta pukeutumiseen sään mukaan. Sovellus suunnittelee pukeutumisen paikkakuntakohtaisesti sekä iän ja sukupuolen mukaan. 
 Käyttäjän on mahdollista luoda itselleen sivuprofiileja, jolloin palvelu antaa pukeutumissuositukset myös niille.
 Palvelun avulla on myös mahdollista suunnitella matka sekä saada pukeutumisohjeet kyseiselle ajalle paikkakuntakohtaisesti.
@@ -54,31 +46,20 @@ joka voi olla keskeneräinen, mutta antaa kuvan siitä millainen tuote tulisi ol
 
 Toteutuksessa käytettävien teknologioiden sekä palvelujen kartoittaminen tapahtuu ryhmän toimesta. 
 
-[![](http://img.youtube.com/vi/0zVNZNbphfE/0.jpg)](http://www.youtube.com/watch?v=0zVNZNbphfE "")
-
 
 ## Vaatimusmäärittelytyön tilaaja
 
-__Sidosryhmä/Yritys/Yhteisö ilman henkilön nimeä!__
-
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
+WR - Wear-Right
 
 ## Vaatimusmäärittelyn toimittaja
 
-__Kerro lyhyesti itsestäsi (tarvittaessa pseudonyyminä) taiesim. kuvitteellisen yrityksen työntekijänä__
-
-quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+Ryhmä B - Team hydralist, joka koostuu viidestä toisen vuoden tieto- ja viestintätekniikan opiskelijasta.
 
 
 # Palvelukuvaus
 
-**Mitä palvelun avulla voidaan tehdä? Mikä sen tehtävä on sidosryhmän kannalta?**
-
-Palvelun tehtävä pääasiassa on vaatetuksen suunnittelu sään mukaan. Vaatetukseen vaikuttaa sään lisäksi myös henkilön ikä ja sukupuoli. Sovelluksessa on myös mahdollista suunnitella matka jonka mukaan palvelu päättelee vaatteiden tarpeen eri päiville ja paikkakunnille.
-
-
-[![](http://img.youtube.com/vi/fOlmrsp2iRc/0.jpg)](http://www.youtube.com/watch?v=fOlmrsp2iRc "")
+Palvelun pääasiallinen tehtävä on näyttää säätiedot halutulta ajalta ja suunnitella vaatetus tilanteen mukaan. Vaatetukseen vaikuttaa sään lisäksi myös henkilön ikä ja sukupuoli, jotka käyttäjä määrittelee profiilin luomisen yhteydessä.
+Toisena pääominaisuutena käyttäjän on mahdollista luoda sivuprofiilejä, joiden vaatetuksen palvelu myös suunnittelee. Sovelluksessa on myös mahdollista suunnitella matka jonka mukaan palvelu päättelee vaatteiden tarpeen eri päiville ja paikkakunnille.
 
 
 ## Valitut asiakastarinat
