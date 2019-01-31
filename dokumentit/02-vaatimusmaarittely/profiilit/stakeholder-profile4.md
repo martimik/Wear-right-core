@@ -25,5 +25,5 @@ Jukka harrastaa nettissivujen hakkerointia ja on aina kiinnostunut uusista netti
 
 ## Välineet ja kyvyt etc.
 
-* - Tietokone
-* - Ymmärrys tietoturvasta
+* Tietokone
+* Ymmärrys tietoturvasta
