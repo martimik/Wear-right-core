@@ -7,7 +7,7 @@
 
 ## Persoona
 
-![](https://openclipart.org/download/244863/Nurse-Avatar.svg)
+![](http://media.openclipart.org/people/GDJ/400px-Nurse-Avatar.png)
 
 * Sirpa Sirviö
 * 35v
