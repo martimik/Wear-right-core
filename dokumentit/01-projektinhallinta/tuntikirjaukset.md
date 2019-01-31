@@ -33,12 +33,12 @@ Yhteensä: h
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
 | Mikko Martikainen | 17.1.2019 | 5h | Projektinhallinta |
-| Mikko Martikainen | - | - | - |
-| Mikko Martikainen | - | - | - |
+| Mikko Martikainen | 24.1.2019 | 5h | Sprint 02 |
+| Mikko Martikainen | 31.1.2019 | 4h | Sprint 03 |
 | Mikko Martikainen | - | - | - |
 | Mikko Martikainen | - | - | - |
 
-Yhteensä: h
+Yhteensä: 14h
 
 ### Mikko Vornanen
 
