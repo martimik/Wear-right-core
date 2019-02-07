@@ -1,79 +1,98 @@
 # Arkkitehtuuri ja tekniset ratkaisut
 
-Tämä dokumentti on "elävä"-dokumentti, joka päivittyy jatkuvasti. Se on nykymuodossaan vain karkea runko, jota "voi" käyttää projektien teknisen dokumentoinnin pohjana. Rakennetta saa ja pitää muokata! Tavoitteena on luoda dokumentti, joka yhdistää suunnitteludokumentaation saumattomasti yhteen projektin muun dokumentaation kanssa. Tekijä ei ota mitään vastuuta dokumentin sisällöstä.
+## WR - Wear Right
 
-tv:NarsuMan
+Versionumero: 0.1
 
-## Otsikko
+Luokittelu: Julkinen
 
-Versionumero
-
-Luokittelu (Salainen/Julkinen etc..)
-
-Vastuuhenkilö
-
-
-
+Vastuuhenkilö: 
 
 
 ## Johdatus
 
-* Johdatus dokumenttiin..
-
-
+* Tässä dokumentissa esitellään alustavasti projektissa käytettävät teknologiat sekä tekninen arkkitehtuuri.
 
 
 ## Yleiskuvaus
 
-* Esittele lyhyesti tuote tai kohde
-* Dokumentin tehtävä on avata esim. jatkokehittäjälle käsitys siitä miten tuote on toteutettu (Pelkkä lähdekoodi ei riitä)
-* Millaisia välineitä/työkaluja ja ympäristöjä tarvitaan, jos aioitaa kehitää tuotetta eteenpäin
+<!--- Esittele lyhyesti tuote tai kohde
+Dokumentin tehtävä on avata esim. jatkokehittäjälle käsitys siitä miten tuote on toteutettu (Pelkkä lähdekoodi ei riitä)
+Millaisia välineitä/työkaluja ja ympäristöjä tarvitaan, jos aioitaa kehitää tuotetta eteenpäin --->
+
+* Projektin toteutuksessa palvelinarkkitehtuurilla haetaan clientille välitettävät säätiedot, jossa ne esitetään käyttäjälle vue.js:n avulla. Säätiedot haetaan dark sky / openweathermap-rajapinnasta. 
 
 
 ## Käytetyt teknologiat
 
-  * JAVA / Java Script ?
-  * HABA kieli
-  * Perustelut miksi! 
+### Vue.js 2.6.2 Framework
 
+- Käytetään front-end "käyttöliittymän" luomiseen ja hallintaan.
+
+### Node.js 8.11.0
+
+- Käytetään palvelinpuolen ratkaisuna säätietojen hakemiseen rajapinnasta sekä tiedon välittämiseen käyttäjäclientille.
+
+### Tietokanta
+
+- MySql / MariaDB
+
+### Rajapinnat
+
+- Dark sky / openweathermap
+
+### Kielet
+
+- Javascript
+
+### CMS formaatti
+
+- Json
   
 ## Tuotekehitysympäristöjen kuvaukset
 
-Kuvaa ainakin seuraavat:
+### Kehitysympäristö
 
-* Kehitysympäristö
-* Testausympäristö
-* Ajo/suoritusympäristö
-* Demoympäristö
+Kehitysympäristönä toimii IT:n tarjoamat tietokonelaitteet ja välineet, sekä kehittäjien henkilökohtaiset laitteet. 
 
-Eli miten nuo eri ympäristöt on toteutettu ko. projektissa
+### Testausympäristö (TBD)
+
+Testausympäristö määritellään myöhemmin.
+
+### Ajo/suoritusympäristö (TBD)
+
+Ajo/suoritusympäristö määritellään myöhemmin.
+
+### Demoympäristö (TBD)
+
+Demoympäristö määritellään myöhemmin.
 
 ## Käytetyt työvälineet ja niiden versionumerot
 
-* Kääntäjä xyz v1.0.1
-* debuggeri zky v2.05
-* Firefox 123
-* Perustelut miksi! 
+### Kääntäjät
 
+* Bracets v.xxx
+* Visual studio v.xxx
 
+### Clientit
+
+* Firefox / Google Chrome 
 
 ## Tärkeimmät tekniset ratkaisut joihin tuote nojaa
 
-
-  * Käytetyt kirjastot(library)/kehikot(Framework) (JQuery v 23456, JAVA EE 8 + Spring ZZZ, React IO)   
-  * Muut jipot ja kikat
-  * Perustelut miksi! 
+  * Vue.js 2.6.2 Framework
+  * Node.js 8.11.0
   
-
 ## Yleinen ohjelmsto arkkitehtuuri
 
-  * 
   * Palvelut
   
 
 ## Palvelujen/n rajapinnat (Interfaces)
 
-  * [Esimerkki elävästä elämästä](https://virkailija.opintopolku.fi/koodisto-service/swagger/index.html)
+### Dark sky / openweathermap
+
+Rajapinnasta haetaan säätiedot, jotka toimivat palvelun pohjana.
 
 ## Suoritysympäristön (tuotanto) kuvaus
 
@@ -88,10 +107,5 @@ ER-kaavio
 
 
 ## 
-
-
-
-
-
 
 TBD
