@@ -1,5 +1,6 @@
 Tuntikirjaukset ja kulut projektissa Wear-Right
 
+
 ### Claudia Viita
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
@@ -12,8 +13,8 @@ Tuntikirjaukset ja kulut projektissa Wear-Right
 
 Yhteensä: 16h
 
-### Jesse Heikkinen
 
+### Jesse Heikkinen
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
@@ -25,8 +26,8 @@ Yhteensä: 16h
 
 Yhteensä: 14h
 
-### Mikko Martikainen
 
+### Mikko Martikainen
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
@@ -38,8 +39,8 @@ Yhteensä: 14h
 
 Yhteensä: 14h
 
-### Mikko Vornanen
 
+### Mikko Vornanen
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
@@ -53,8 +54,8 @@ Yhteensä: 14h
 
 Yhteensä: 29.25h
 
-### Oskari Seppä
 
+### Oskari Seppä
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
@@ -66,8 +67,8 @@ Yhteensä: 29.25h
 
 Yhteensä: 7.25h
 
-### Suvi Lauritsalo
 
+### Suvi Lauritsalo
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
@@ -79,6 +80,7 @@ Yhteensä: 7.25h
 
 Yhteensä: 7.25h
 
+
 ### Hankinnat projektille
 
 | Hankinnatä | Päivämäärä | Hinta |
@@ -86,7 +88,7 @@ Yhteensä: 7.25h
 | - | - | - |
 | - | - | - |
 | - | - | - |
-
+| - | - | - |
 
 Yhteensä: 40€  
 
@@ -95,9 +97,6 @@ Yhteensä: 40€
 
 | Kuluerä | määrä |  hinta a | Yhteensä |
 |:-:|:-:|:-:|:-:|
-| Työtunnit | 73 | 50 € | 3650€ |   
-| Hankinnat | 4 | 10 € | 40 € |
-| *Yhteensä:* |- | - | 3690 € |
-
-
-Tai sitten [Toggl](https://www.toggl.com)
+| Työtunnit | 85.75 | 50 € | 4282.5€ |   
+| Hankinnat | 0 | 0 € | 0 € |
+| *Yhteensä:* |- | - | 4282.5 € |
