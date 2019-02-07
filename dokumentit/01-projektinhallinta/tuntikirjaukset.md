@@ -101,3 +101,27 @@ Yhteensä: 40€
 
 
 Tai sitten [Toggl](https://www.toggl.com)
+
+
+## Työmääräarvio
+
+Yhteensä: 120h/henkilö
+
+* Määrittely: ~16h
+  * Vaatimusmäärittely
+* Suunnittelu: ~16h
+  * Mockup
+  * Muut dokumentit
+* Toteutus: ~48h
+  * Backend
+    * APIt
+    * Viestintä
+    * Kannat
+    * Muut
+  * Frontend
+    * Ulkoasu
+    * Viestintä
+    * Käyttöliittymä
+    * Muut
+* Testaus: ~32h
+* Dokumentointi: ~8h
