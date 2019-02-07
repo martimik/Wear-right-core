@@ -69,7 +69,7 @@ Ja valvoo, että projekti etenee hänen haluamaansa suuntaan.
 
 **Claudia Viita**
 
-* Projektin testausvastaava/UI design
+* UI design
 
 **Jesse Heikkinen**
 
@@ -77,7 +77,7 @@ Ja valvoo, että projekti etenee hänen haluamaansa suuntaan.
 
 **Suvi Lauritsalo**
 
-* Koodaus
+* Projektin testausvastaava
 
 **Oskari Seppä**
 
