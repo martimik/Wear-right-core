@@ -101,7 +101,7 @@ gantt
         dateFormat  YYYY-MM-DD
         title GANTT Diagram for Wear-Right
         section A section
-        S0            :  des1, 2014-01-08, 1w
+        S0            :  des1, 2019-01-08, 2019-01-15
         S1            :  des2, after des1, 1w
         S2            :  des3, after des2, 1w
         S3            :  des4, after des3, 1w
