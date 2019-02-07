@@ -5,7 +5,7 @@
 | RIS01 | Ryhmän jäsen sairastuu  |  V4 |   | Ilmoita tiimille. |
 | RIS02 | Ryhmän jäsen keskeyttää kurssin suorituksen | V2 |  | Sovitaan uudesta työnjaosta projektiryhmän kesken |
 | RIS03 | Projektissa käytettävä säätiedon rajapinta suljetaan | V2 |  | Sovitaan projektiryhmän kesken uudesta käytettävästä rajapinnasta |
-| RISXX | | | | |
+| RIS04 | Projektin lähdekoodia hukkuu | V1 |  | Kartoitetaan tilanne projektiryhmän kesken ja sovitaan kuinka tilanne korjataan |
 | RISXX | | | | |
 | RISXX | | | | |
 | RISXX | | | | |
