@@ -1,6 +1,4 @@
-[![](http://img.youtube.com/vi/eBJpw7Emew8/0.jpg)](http://www.youtube.com/watch?v=eBJpw7Emew8 "")
-
-Tuntikirjaukset ja kulut projektissa XXXXX
+Tuntikirjaukset ja kulut projektissa Wear-Right
 
 ### Claudia Viita
 
@@ -12,7 +10,7 @@ Tuntikirjaukset ja kulut projektissa XXXXX
 | Claudia Viita | - | - | - |
 | Claudia Viita | - | - | - |
 
-Yhteensä: h
+Yhteensä: 16h
 
 ### Jesse Heikkinen
 
@@ -25,7 +23,7 @@ Yhteensä: h
 | Jesse Heikkinen | 7.2.2019 | - | Sprint 04 |
 | Jesse Heikkinen | - | - | - |
 
-Yhteensä: h
+Yhteensä: 14h
 
 ### Mikko Martikainen
 
@@ -66,7 +64,7 @@ Yhteensä: 29.25h
 | Oskari Seppä | - | - | - |
 | Oskari Seppä | - | - | - |
 
-Yhteensä: h
+Yhteensä: 7.25h
 
 ### Suvi Lauritsalo
 
@@ -79,16 +77,16 @@ Yhteensä: h
 | Suvi Lauritsalo | - | - | - |
 | Suvi Lauritsalo | - | - | - |
 
-Yhteensä: h
+Yhteensä: 7.25h
 
 ### Hankinnat projektille
 
 | Hankinnatä | Päivämäärä | Hinta |
 |:-:|:-:|:-:|
-| Kahvia  | 1.1.2018 | 10€ |
-| Kahvia  | 2.1.2018 | 10€ |
-| Kahvia  | 3.1.2018 | 10€ |
-| Kahvia  | 4.1.2018 | 10€ |
+| - | - | - |
+| - | - | - |
+| - | - | - |
+
 
 Yhteensä: 40€  
 
