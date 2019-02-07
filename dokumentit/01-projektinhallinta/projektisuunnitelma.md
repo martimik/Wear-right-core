@@ -100,7 +100,7 @@ pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin org
 gantt
         dateFormat  YYYY-MM-DD
         title GANTT Diagram for Wear-Right
-        section A section
+        section Sprints
         S0            :  des1, 2019-01-08, 2019-01-15
         S1            :  des2, after des1, 1w
         S2            :  des3, after des2, 1w
