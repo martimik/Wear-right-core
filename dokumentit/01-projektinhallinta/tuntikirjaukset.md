@@ -8,7 +8,7 @@ Tuntikirjaukset ja kulut projektissa Wear-Right
 | Claudia Viita | 17.1.2019 | 5h | Sprint 01-E0 |
 | Claudia Viita | 24.1.2019 | 5h | Sprint 2 |
 | Claudia Viita | 31.1.2019 | 6h | Palvelun MockUp |
-| Claudia Viita | - | - | - |
+| Claudia Viita | 7.2.2019 | - | - |
 | Claudia Viita | - | - | - |
 
 Yhteensä: 16h
