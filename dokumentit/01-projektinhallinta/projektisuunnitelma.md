@@ -149,12 +149,12 @@ Projektissa käytetään Git:iä ja GitLab:iä versionhallintaan ja dokumentoinn
 
 ## 4.1 Väli- ja lopputulosten hyväksymismenettely
 
-Tähän kirjataan se hyväksymismenettely, mikä projektissa on sovittu.
+Väli- ja lopputuloksen hyväksynnän suorittaa projektin ohjaaja sekä toimeksiantaja.
 
 
 ## 4.2 Muutosten hallinta
 
-Kuvataan muutosten hallintaproseduuri projektinkäytäntöihin tai projektin tuloksiin liittyvien muutosten osalta. 
+Mahdollisista muutoksista sovitaan projektiryhmän sisäisesti ja tarvittaessa hyväksytetään projektin ohjaajalla sekä toimeksiantajalla.
 
 
 ## 4.3 Dokumentointi
@@ -164,11 +164,9 @@ Dokumentointi tallennetaan omaan GitLab repositorioonsa (core). Kaikki dokumenti
 
 ## 4.4 Riskien hallinta
 
-Listataan riskit, arvioidaan niiden vakavuus ja todennäköisyys ja koetetaan miettiä toimenpiteet kuinka 
-vakavimmat/todennäköisimmät riskit voitaisiin ehkäistä jo ennalta. Lisäksi olisi hyvä olla suunnitelma kuinka toimitaan, 
-jos riski toteutuu.
+Riskien hallinta löytyy alla olevasta linkistä.
 
-Liitä seuraava osio tähän mukaan: [Riskienhallintataulukko]()
+[Riskienhallintataulukko](riskienhallinta.md)
 
 
 ## 4.5 Katselmointikäytäntö
@@ -190,15 +188,12 @@ Linkit katselmointipöytäkirja pohjiin
 
 ## 4.7 Suunnitelmien tarkistus- ja päivitysajankohdat 
 
-Projektisuunnitelman avulla reagoidaan poikkeamiin ja ympäristömuutoksiin, joten sitä päivitetään projektin aikana. 
-Tähän kohtaan kirjataan ne ajankohdat, jolloin suunnitelman ajantasaisuus ainakin on tarkistettava.
+Projektisuunnitelman ajantasaisuus tarkistetaan aina jokaisen sprintin alussa.
 
 
 ## 4.8 Projektin keskeyttämiskriteerit
 
-Oikeaoppiseen projektisuunnitelmaan kuuluu myös projektin keskeyttämiskriteerit. Näitä ei kuitenkaan opiskelijaprojekteissa käytetä,
-koska projekteissa käytetään tietty tuntimäärä tuloksen tekoon ja tulos luovutetaan sellaisena, kun se opintojakson päättyessä on. 
-Projektiryhmä tekee kuitenkin jatkokehityssuunnitelman, josta mahdollinen uusi projekti jatkaa.
+Projektilla ei ole keskeyttämiskriteereitä vaan se luovutetaan sellaisenaan kurssin loputtua.
 
 
 # 5. Tiedonvälitys ja projektin etenemisen seuranta (viestintäsuunnitelma)
@@ -219,17 +214,17 @@ tulee projektisuunnitelmaan liittää myös asennussuunnitelma ja käyttöönott
 
 ## 6.2 Projektin tuottaman aineiston taltiointi, arkistointi ja säilytysaika
 
-Aineston säilytyksysestä ei ole vielä selvyyttä.
+Aineisto säilyy JAMK:n gitlab palvelimella JAMK:n omien käytäntöjen määrittämän ajan.
 
 
 ## 6.3 Projektin virallinen päättäminen
 
-Projekti päättyy p.k.vvvv, jolloin kurssi loppuu.
+Projekti päättyy 27.4.2019, jolloin projektin loppuraportti palautetaan projektin ohjaajalle.
 
 
 ## 6.4 Lopetustilaisuus
 
-Ei tiedossa.
+Palautetaan loppuraportti projektin ohjaajalle.
 
 
 ## 6.5 Projektin loppuraportti
