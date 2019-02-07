@@ -1,12 +1,14 @@
 ## 1 Projektin ja lopputuotteen kuvaus
 
-Tässä dokumentissa kuvataan Wear-Right-projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota. Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.
+Tässä dokumentissa kuvataan Wear-Right-projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota.
+Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.
 
 
 ## 1.1 Tausta ja lähtökohdat
 
-Projektin tavoitteena on luoda sovellus, jonka avulla pystytään helposti katsomaan sään mukainen pukeutuminen halutulle sijainnille tai useammalle sijainneille yhdellä kertaa.
-Projekti toteutetaan osana Jyväskylän ammattikorkeakoulun informaatioteknologian instituutin järjestämän <TTOS0800-TTOS0900 Ohjelmistoprojekti ja Järjestelmätestaus> ‑opintojaksoa.
+Projektin tavoitteena on luoda sovellus, jonka avulla pystytään helposti katsomaan sään mukainen pukeutuminen halutulle
+sijainnille tai useammalle sijainneille yhdellä kertaa. Projekti toteutetaan osana Jyväskylän ammattikorkeakoulun
+informaatioteknologian instituutin järjestämän <TTOS0800-TTOS0900 Ohjelmistoprojekti ja Järjestelmätestaus> ‑opintojaksoa.
 
 
 ## 1.2 Tavoitteet ja tehtävät
@@ -29,23 +31,25 @@ Projektiryhmän tehtävänä on pitää eri tahot tietoisina projektin tilantees
 
 ## 1.4 Oikeudet
 
-Projektin oikeuksista ei ole vielä päätetty.
+Projektin oikeudet kuuluvat toimeksiantajalle sopimuksen mukaan.
 
 
 ## 1.5 Termit ja määritelmät
 
-Ei vielä selitettäviä termiä.
+Ei selitettäviä termejä.
 
 
 # 2. Projektiorganisaatio
 
 ## 2.1 Organisaation esittely
 
-Projektin organisaation kuuluu Jyväskylän ammattikorkeakoulun opettajia, projektihenkilökunnan opiskelijoita, projektiryhmän ohjaajat sekä toimeksiantajan edustajat. Organisaatiokaavio on esitetty liitteessä <X>.”
+Projektin organisaation kuuluu Jyväskylän ammattikorkeakoulun opettajia, projektihenkilökunnan opiskelijoita,
+projektiryhmän ohjaajat sekä toimeksiantajan edustajat. Organisaatiokaavio on esitetty liitteessä <X>.”
 
 **Projektiryhmä**
 
-Projektiryhmä suorittaa projektille asetetut tehtävät ja tavoitteet käytettävissä olevien resurssien puitteissa. Projektille nimitetty projektin-johtaja toimii roolissan koko projekttin ajan.
+Projektiryhmä suorittaa projektille asetetut tehtävät ja tavoitteet käytettävissä olevien resurssien puitteissa.
+Projektille nimitetty projektin-johtaja toimii roolissan koko projekttin ajan.
 
 **Projektin ohjaaja**
 
@@ -53,18 +57,35 @@ Projektin ohjaajana toimii Marko "Narsu" Rintamäki. Projektin ohjaajaa ohjeista
 
 **Toimeksiantajan edustaja**
 
-Ei vielä selvillä.
+Toimeksiantajan edustajana toimii toimeksiantaja itse. Hän huolehtii omien vaatimuksiensa välittämisestä projektin suhteen projektiryhmälle.
+Ja valvoo, että projekti etenee hänen haluamaansa suuntaan.
 
 
 ## 2.2 Vastuut ja päätöksentekoprosessi
 
 **Mikko Vornanen**
 
-* Projektiryhmän julkisen nettisivun ylläpitö ja kehitys.
+* Projektiryhmän julkisen nettisivun ylläpitö ja kehitys/Programming lead
 
 **Claudia Viita**
 
-* Projektin testausvastaava
+* Projektin testausvastaava/UI design
+
+**Jesse Heikkinen**
+
+* Koodaus
+
+**Suvi Lauritsalo**
+
+* Koodaus
+
+**Oskari Seppä**
+
+* Koodaus
+
+**Mikko Martikainen**
+
+* Koodaus
 
 
 # 3. Projektin ajalliset tavoitteet	
