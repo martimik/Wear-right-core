@@ -60,9 +60,9 @@ Yhteensä: 29.25h
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
 | Oskari Seppä | 17.1.2019 | 7.25h | - |
-| Oskari Seppä | - | - | - |
-| Oskari Seppä | - | - | - |
-| Oskari Seppä | - | - | - |
+| Oskari Seppä | 24.1.2019 | 5h | Sprint 02 |
+| Oskari Seppä | 31.1.2019 | 5h | Sprint 03 |
+| Oskari Seppä | 7.1.2019 | - | - |
 | Oskari Seppä | - | - | - |
 
 Yhteensä: 7.25h
