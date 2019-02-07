@@ -98,7 +98,7 @@ Projekti koostuu neljästä eri vaiheesta: Aloitusvaihe, Käynnistysvaihe, Toteu
 
 Projektin alotusvaiheeseen kuului kurssien esittely ja projektiryhmien muodostaminen.
 
-### Käynnistys 16.1.2019 – p.k.vvvv (X h)
+### Käynnistys 16.1.2019 – 19.2.2019 (X h)
 
 Projektin käynnistämiseen kuuluu olennaisesti projektisuunnittelu ja suunnitteludokumenttien laatiminen sekä yhteydenpitokäytänteiden 
 luominen toimeksiantajayrityksen kanssa. Vaiheen aikana tehdään esim. ryhmän webbisivut, tutustutaan tarkemmin toimeksiantoon, 
@@ -106,12 +106,12 @@ aloitetaan kohdealueeseen perehtyminen ja laaditaan projektisuunnitelma yhteisty
 Vaiheen aikana muodostetaan johtoryhmä, pidetään 1. johtoryhmän kokous sekä allekirjoitetaan projektisopimus.
 ”Vaiheen tuloksia ovat ryhmän imagon (nimi, logo ym.) luominen, webbisivut tms. sekä projektisopimus liitteineen.
 
-### Toteutus p.k.vvvv – p.k.vvvv (X h)
+### Toteutus 19.2.2019 – 9.4.2019 (X h)
 
 Toteutusvaiheessa aloitetaan projektin koodaaminen ja toteuttaminen käytännössä. Myös projektin testaaminen ja vikojen korjaaminen
 kuuluu tähän vaiheeseen.
 
-### Lopetus p.k.vvvv – p.k.vvvv (X h)
+### Lopetus 9.4.2019 – 30.4.2019 (X h)
 
 Lopettamisvaihe sisältää projektin päättämiseen liittyvät toimenpiteet. Vaiheen aikana projektiryhmä laatii 
 projektin loppuraportin ja esityksen johtoryhmälle. Vaiheen aikana luovutetaan projektin tulos toimeksiantajalle, 
