@@ -1,6 +1,5 @@
-[![](http://img.youtube.com/vi/eBJpw7Emew8/0.jpg)](http://www.youtube.com/watch?v=eBJpw7Emew8 "")
+Tuntikirjaukset ja kulut projektissa Wear-Right
 
-Tuntikirjaukset ja kulut projektissa XXXXX
 
 ### Claudia Viita
 
@@ -8,53 +7,55 @@ Tuntikirjaukset ja kulut projektissa XXXXX
 |:-:|:-:|:-:|:-:|
 | Claudia Viita | 17.1.2019 | 5h | Sprint 01-E0 |
 | Claudia Viita | 24.1.2019 | 5h | Sprint 2 |
-| Claudia Viita | - | - | - |
+| Claudia Viita | 31.1.2019 | 6h | Palvelun MockUp |
 | Claudia Viita | - | - | - |
 | Claudia Viita | - | - | - |
 
-Yhteensä: h
+Yhteensä: 16h
+
 
 ### Jesse Heikkinen
-
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
 | Jesse Heikkinen | 17.1.2019 | 5h | Sprint 01-E0 |
 | Jesse Heikkinen | 24.1.2019 | 5h | Sprint 02 |
-| Jesse Heikkinen | - | - | - |
-| Jesse Heikkinen | - | - | - |
+| Jesse Heikkinen | 31.1.2019 | 4h | Sprint 03 |
+| Jesse Heikkinen | 7.2.2019 | - | Sprint 04 |
 | Jesse Heikkinen | - | - | - |
 
-Yhteensä: h
+Yhteensä: 14h
+
 
 ### Mikko Martikainen
-
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
 | Mikko Martikainen | 17.1.2019 | 5h | Projektinhallinta |
-| Mikko Martikainen | - | - | - |
-| Mikko Martikainen | - | - | - |
+| Mikko Martikainen | 24.1.2019 | 5h | Sprint 02 |
+| Mikko Martikainen | 31.1.2019 | 4h | Sprint 03 |
 | Mikko Martikainen | - | - | - |
 | Mikko Martikainen | - | - | - |
 
-Yhteensä: h
+Yhteensä: 14h
+
 
 ### Mikko Vornanen
-
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
 | Mikko Vornanen | 17.1.2019 | 7.25h | - |
 | Mikko Vornanen | 16.1.2019 | 4h | Tiimin kotisivuja |
-| Mikko Vornanen | - | - | - |
-| Mikko Vornanen | - | - | - |
+| Mikko Vornanen | 22.1.2019 | 3h | Tiimin kotisivuja |
+| Mikko Vornanen | 24.1.2019 | 5h | Sprint 02 |
+| Mikko Vornanen | 31.1.2019 | 5h | Sprint 03 |
+| Mikko Vornanen | 1.2.2019 | 5h| Avoimien säärajapintojen testausta |
 | Mikko Vornanen | - | - | - |
 
-Yhteensä: h
+Yhteensä: 29.25h
+
 
 ### Oskari Seppä
-
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
@@ -64,10 +65,10 @@ Yhteensä: h
 | Oskari Seppä | - | - | - |
 | Oskari Seppä | - | - | - |
 
-Yhteensä: h
+Yhteensä: 7.25h
+
 
 ### Suvi Lauritsalo
-
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
@@ -77,16 +78,17 @@ Yhteensä: h
 | Suvi Lauritsalo | - | - | - |
 | Suvi Lauritsalo | - | - | - |
 
-Yhteensä: h
+Yhteensä: 7.25h
+
 
 ### Hankinnat projektille
 
 | Hankinnatä | Päivämäärä | Hinta |
 |:-:|:-:|:-:|
-| Kahvia  | 1.1.2018 | 10€ |
-| Kahvia  | 2.1.2018 | 10€ |
-| Kahvia  | 3.1.2018 | 10€ |
-| Kahvia  | 4.1.2018 | 10€ |
+| - | - | - |
+| - | - | - |
+| - | - | - |
+| - | - | - |
 
 Yhteensä: 40€  
 
@@ -95,13 +97,11 @@ Yhteensä: 40€
 
 | Kuluerä | määrä |  hinta a | Yhteensä |
 |:-:|:-:|:-:|:-:|
-| Työtunnit | 73 | 50 € | 3650€ |   
-| Hankinnat | 4 | 10 € | 40 € |
-| *Yhteensä:* |- | - | 3690 € |
-
+| Työtunnit | 85.75 | 50 € | 4287.5€ |   
+| Hankinnat | 0 | 0 € | 0 € |
+| *Yhteensä:* |- | - | 4287.5 € |
 
 Tai sitten [Toggl](https://www.toggl.com)
-
 
 ## Työmääräarvio
 

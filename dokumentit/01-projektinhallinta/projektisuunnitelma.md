@@ -1,9 +1,6 @@
-[![](http://img.youtube.com/vi/x3MH8_7oOcE/0.jpg)](http://www.youtube.com/watch?v=x3MH8_7oOcE "")
-
-
 ## 1 Projektin ja lopputuotteen kuvaus
 
-Tässä dokumentissa kuvataan X-projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota. Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.
+Tässä dokumentissa kuvataan Wear-Right-projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota. Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.
 
 
 ## 1.1 Tausta ja lähtökohdat
@@ -18,7 +15,7 @@ Projekti toteutetaan osana Jyväskylän ammattikorkeakoulun informaatioteknologi
 * Tuottaa toimiva demo (Proof Of Concept)
 * Dokumentoida tehty työ
 * Tuottaa toimiva sovellus tehdyn demon perusteella
-* Testata sovellusta ja korjata mahdolliset bugit
+* Testata sovellusta ja korjata mahdolliset viat
 * Toimittaa valmis tuote toimeksiantajalle
 
 Projektiryhmän tehtävänä on pitää eri tahot tietoisina projektin tilanteesta.
@@ -65,6 +62,10 @@ Ei vielä selvillä.
 
 * Projektiryhmän julkisen nettisivun ylläpitö ja kehitys.
 
+**Claudia Viita**
+
+* Projektin testausvastaava
+
 
 # 3. Projektin ajalliset tavoitteet	
 
@@ -82,22 +83,25 @@ Projektin käynnistämiseen kuuluu olennaisesti projektisuunnittelu ja suunnitte
 luominen toimeksiantajayrityksen kanssa. Vaiheen aikana tehdään esim. ryhmän webbisivut, tutustutaan tarkemmin toimeksiantoon, 
 aloitetaan kohdealueeseen perehtyminen ja laaditaan projektisuunnitelma yhteistyössä toimeksiantajan edustajien kanssa. 
 Vaiheen aikana muodostetaan johtoryhmä, pidetään 1. johtoryhmän kokous sekä allekirjoitetaan projektisopimus.
-”Vaiheen tuloksia ovat ryhmän imagon (nimi, logo ym.) luominen, webbisivut tms. sekä projektisopimus liitteineen.”
+”Vaiheen tuloksia ovat ryhmän imagon (nimi, logo ym.) luominen, webbisivut tms. sekä projektisopimus liitteineen.
 
 ###Toteutus p.k.vvvv – p.k.vvvv (X h)
 
+Toteutusvaiheessa aloitetaan projektin koodaaminen ja toteuttaminen käytännössä. Myös projektin testaaminen ja vikojen korjaaminen
+kuuluu tähän vaiheeseen.
+
 ###Lopetus p.k.vvvv – p.k.vvvv (X h)
 
-”Lopettamisvaihe sisältää projektin päättämiseen liittyvät toimenpiteet. Vaiheen aikana projektiryhmä laatii 
+Lopettamisvaihe sisältää projektin päättämiseen liittyvät toimenpiteet. Vaiheen aikana projektiryhmä laatii 
 projektin loppuraportin ja esityksen johtoryhmälle. Vaiheen aikana luovutetaan projektin tulos toimeksiantajalle, 
-pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. Lopettamisvaiheen tuloksena on projektin loppuraportti.”
+pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin organisaatio. Lopettamisvaiheen tuloksena on projektin loppuraportti.
 
 ```mermaid
 gantt
         dateFormat  YYYY-MM-DD
-        title Adding GANTT diagram functionality to mermaid
-        section A section
-        S0            :  des1, after des0, 1w
+        title GANTT Diagram for Wear-Right
+        section Sprints
+        S0            :  des1, 2019-01-08, 2019-01-15
         S1            :  des2, after des1, 1w
         S2            :  des3, after des2, 1w
         S3            :  des4, after des3, 1w

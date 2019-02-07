@@ -1,35 +1,32 @@
-# Projektin tilannekatsaus
+# Status
+
+* Date: 31.1.2019
+* Team: Team Hydralist
+* Cumulative-working-hours: 144
+* Current-bill: 1 000 000€
 
 
-[![](http://img.youtube.com/vi/W9_H2HOl-1U/0.jpg)](http://www.youtube.com/watch?v=W9_H2HOl-1U "")
+# Miten homma etenee / Current Progress
+
+Asiakas/Sidosryhmäprofiilien ja palvelun MockUpin teko. Käytettävien teknologioiden sekä palvelujen kartoitus.
 
 
+# Ongelmakohdat / Problems ahead
 
-## Mitä saatu aikaan
-
-Projektin repositorio pystyetty ja issuet sekä milestonet laitettu kuntoon. Sprint 1 -tehtävtävät tehty.
-Toimeksiantoon on tutustuttu. Sprint 2 -tehtävien tekoa.
-
-## Kohdatut ongelmat
-
-* Lista "issueista" ?
+*
 
 
+# Mitä seuraavaksi / What next
 
-## Mitä seuraavaksi
+* Sprint 4
+  * Valitaan ryhmästä testausvastaava
+  * Valmistaudutaan E1-katselmointiin
+  * Esikatselmoidaan riskisuunnitelma, viestisuunnitelma
+
+[Issuet](https://gitlab.labranet.jamk.fi/team-b-2019/core/boards/1212?milestone_title=Sprint%2004&)
 
 
-* [Sprint 2](https://gitlab.labranet.jamk.fi/team-b-2019/core/milestones/8)
+# Tärkeitä linkkejä / Useful links
 
-Seuraavaaksi vuorossa sprint 2.
-
-
-### Projektin kokonaiskulut 5.1.2019
-
-* [Tuntikirjaukset](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/01-projektinhallinta/tuntikirjaukset.md)
-
-| Kuluerä | määrä |  hinta a | Yhteensä |
-|:---|:---|:---|:---|
-| Työtunnit | 73 | 50 € | 3650€ |   
-| Hankinnat | 4 | 10 € | 40 € |
-| *Yhteensä:* |- | - | 3690 € |
+* [Tuntikirjaus](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/01-projektinhallinta/tuntikirjaukset.md)
+* [Kotisivu](http://team-b-2019.pages.labranet.jamk.fi/site/#/)
