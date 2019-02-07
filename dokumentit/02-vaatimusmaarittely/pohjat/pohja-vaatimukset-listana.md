@@ -43,14 +43,7 @@ Tähän kerätään järjestelmän/palvelun vaatimuksia korkealla tasolla.
 
 **Tekniset vaatimukset**
 
-Tekniset vaatimukset esitetään yleensä erillään ohjelmiston vaatimuksista. Ne liittyvät oleellisen osana
-järjestelmävaatimuksiin. Teknisiä vaatimuksia voivat olla esim:
-
-* Suoritusympäristö (Linux, Windows, Pilvi etc)
-* Muisti (4GB, 16GB ?)
-* Suoritin (Intel/AMD/ARM ?)
-* Tietokanta (MySQL, DynamoDB, Orient etc?)
-* Ajoalustan ratkaisut JAVA VM, Docker Container ?
+* Selain joka pystyy ajamaan javascriptiä (Chrome, Firefox, yms..)
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
