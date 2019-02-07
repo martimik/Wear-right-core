@@ -1,7 +1,5 @@
 # Palvelun/tuotteen vaatimusmäärittely
 
-[![](http://img.youtube.com/vi/jH43MPe1Ceg/0.jpg)](http://www.youtube.com/watch?v=jH43MPe1Ceg "")
-
 
 # WR Wear-right
 
@@ -35,6 +33,7 @@
 * [Testaus ja laadunvarmistus]()
 * [Lähteet]()
 
+
 # Johdatus
 
 _WR Wear-right_ on palvelu, joka tarjoaa ohjeistusta pukeutumiseen sään mukaan. Sovellus suunnittelee pukeutumisen paikkakuntakohtaisesti sekä iän ja sukupuolen mukaan. 
@@ -50,6 +49,7 @@ Toteutuksessa käytettävien teknologioiden sekä palvelujen kartoittaminen tapa
 ## Vaatimusmäärittelytyön tilaaja
 
 WR - Wear-Right
+
 
 ## Vaatimusmäärittelyn toimittaja
 
@@ -129,6 +129,7 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 Esim. Canvanizer https://canvanizer.com
 
+
 # Vaatimukset, käyttötapaukset ja ominaisuudet
 
 ## Tuotteen järjestelmävaatimukset ja mahdolliset rajoitukset (Key Requirements and restrictions)
@@ -152,6 +153,7 @@ Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.
 | SYSTEM-REQ-0004 | System Requirement |||
 | SYSTEM-REQ-0005 | System Requirement |||
 
+
 # Oleelliset huomioitavat rajoitteet
 
 | Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
@@ -166,8 +168,6 @@ Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.
 
 
 ## Tärkeimmät käyttötapaukset (General Use Cases)
-
-
 
 **Millaisia ovat tärkeimmät käyttötapaukset (Use Caset) tuotteeseen/palveluun liittyen? Muista, ettei käyttötapauksella ei tarkoiteta käyttökohdetta/soveltamiskohdetta**
 
