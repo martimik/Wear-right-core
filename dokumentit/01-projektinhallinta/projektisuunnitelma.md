@@ -99,9 +99,9 @@ pidetään viimeinen johtoryhmän kokous viikolla X sekä puretaan projektin org
 ```mermaid
 gantt
         dateFormat  YYYY-MM-DD
-        title Adding GANTT diagram functionality to mermaid
+        title GANTT Diagram for Wear-Right
         section A section
-        S0            :  des1, after des0, 1w
+        S0            :  des1, 2014-01-8, 1w
         S1            :  des2, after des1, 1w
         S2            :  des3, after des2, 1w
         S3            :  des4, after des3, 1w
