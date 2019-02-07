@@ -19,7 +19,6 @@ Asiakas/Sidosryhmäprofiilien ja palvelun MockUpin teko. Käytettävien teknolog
 # Mitä seuraavaksi / What next
 
 * Sprint 4
-  * Valitaan ryhmästä testausvastaava
   * Valmistaudutaan E1-katselmointiin
   * Esikatselmoidaan riskisuunnitelma, viestisuunnitelma
 
