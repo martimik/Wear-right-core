@@ -47,11 +47,13 @@ Yhteensä: 14h
 |:-:|:-:|:-:|:-:|
 | Mikko Vornanen | 17.1.2019 | 7.25h | - |
 | Mikko Vornanen | 16.1.2019 | 4h | Tiimin kotisivuja |
-| Mikko Vornanen | - | - | - |
-| Mikko Vornanen | - | - | - |
+| Mikko Vornanen | 22.1.2019 | 3h | Tiimin kotisivuja |
+| Mikko Vornanen | 24.1.2019 | 5h | Sprint 02 |
+| Mikko Vornanen | 31.1.2019 | 5h | Sprint 03 |
+| Mikko Vornanen | 1.2.2019 | 5h| Avoimien säärajapintojen testausta |
 | Mikko Vornanen | - | - | - |
 
-Yhteensä: h
+Yhteensä: 29.25h
 
 ### Oskari Seppä
 
