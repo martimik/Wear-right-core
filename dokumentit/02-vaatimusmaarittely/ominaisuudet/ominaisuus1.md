@@ -25,13 +25,13 @@ Sukupuoli, Ikä. Nämä oikeellisesti syötettyään hän pääsee käyttämää
 
 ### Alustavat käyttäjätarinat (User Storys)
 
-* [As a user, I want to create a profile for myself, so I can quickly see a suitable outfit for the weather](team-b-2019/core/issues/135)
-* [As a user, I want my keep my information in the program, so that I don't have to write them again](team-b-2019/core/issues/134)
+* [As a user, I want to create a profile for myself, so I can quickly see a suitable outfit for the weather](https://gitlab.labranet.jamk.fi/team-b-2019/core/issues/135)
+* [As a user, I want my keep my information in the program, so that I don't have to write them again](https://gitlab.labranet.jamk.fi/team-b-2019/core/issues/134)
 
 
 ### Käyttöliittymänäkymä/mock 
 
-![](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/02-vaatimusmaarittely/kuvat/profiilin-luonti.PNG)
+![](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/02-vaatimusmaarittely/kuvat/profiilin-luonti.png)
 
 
 ### Testaus / mahdolliset hyväksyntä kriteerit 
