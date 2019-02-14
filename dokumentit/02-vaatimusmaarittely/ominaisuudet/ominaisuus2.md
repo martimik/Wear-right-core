@@ -1,67 +1,40 @@
-# Ominaisuus -pohja
-
-[![](http://img.youtube.com/vi/45aSdlg6NK0/0.jpg)](http://www.youtube.com/watch?v=45aSdlg6NK0 "")
-
+# Ominaisuus 2 - Sivuprofiilit
 
 | | |
 |:-:|:-:|
-| Ominaisuus ID |esim. FT0101 |
-| Osajärjestelmä, mihin ominaisuus liittyy | esim laskutus |
-| Ominaisuuden vastuuhenkilö | esim. Mauri Myyrä |
-| Status | esim. hyväksytty |
+| Ominaisuus ID | FT02 |
+| Osajärjestelmä | Tekninen |
+| Ominaisuuden vastuuhenkilö | - |
+| Status | Ei aloitettu |
 
 ### Kuvaus
 
-*Kerro mitä ominaisuudella tarkoitetaan ja mitä sen avulla saavutetaan*
-
-Sed non nisi id ligula interdum mattis. Fusce vel ullamcorper nunc. Nulla pharetra dui ut enim semper semper. 
-Aenean ut leo tortor. Fusce felis nibh, malesuada vitae nibh at, rhoncus feugiat leo. Nam vehicula vitae ligula 
-vitae condimentum. Ut maximus metus nec lorem ultrices elementum.
-
+Käyttäjä voi oman profiilin lisäksi tehdä sivuprofiileja, joille asuvalinnat voivat olla erilaisia iän ja sukupuolen mukaan. 
 
 ### Ominaisuuteen liittyvät rajaukset, vaatimukset käyttötapaukset
 
-*Kerätään tähän kaikki oleelliset asiat, jotka liittyvät ominaisuuden määrittelyyn tai osaltaan määrittävät sitä*
-
 | | |
 |:-:|:-:|
-| [Use Case 1](FT1-kayttotapaus.md) | |
-| [Use Case 2](FT2-kayttotapaus.md) | |
-| [Vaatimus ReqID]() |  | 
-| [Vaatimus ReqID]() |  | 
-| [Vaatimus ReqID]() |  | 
+| FUNCTIONAL-REQ-C0002 | |
 
 ### Alustavat käyttäjätarinat (User Storys)
 
-*Kirjataan User Storyt alustavasti tähän*
-
-* Käyttäjän haluan, että voin.....
-* Ylläpitäjänä haluan, että voin.....
-
-**Nämä kannattaa siirtää pian issue kuvauksiksi*
-
-esim. #8 #2
+[#131 - As a user, I want to create one or more profiles because I need to see the outfits for multiple persons](#131)
 
 
 ### Käyttöliittymänäkymä/mock 
 
-*Tähän kuva/mockup -linkki, joka liittyy oleellisesti ominaisuuteen/toiminnallisuuteen*
 
-![](https://openclipart.org/image/300px/svg_to_png/247488/1461589195.png)
+![Mock](../kuvat/sivuprofiilien-teko.png)
+
+[Mockup](https://www.fluidui.com/editor/live/preview/cF9TeGhTZkFtcE04NGZCUHc5NTNMa3N4M1RwSDNrUzVOVg==)
 
 
 ### Testaus / mahdolliset hyväksyntä kriteerit 
 
-*Kirjataan muutamia huomiota testauksen kannalta*
-
 | Testitapaus  | Testin lähde  | Kuka vastaa  |
 |:-: | :-:|:-:|
-| [Testitapaus 1]()  | vaatimus id?   |   |
-| [Testitapaus 2]()  | vaatimus id?   |   |
-| [Testitapaus 3]()  | vaatimus id?   |   |
-| [Testitapaus 4]()  | vaatimus id?   |   |
-| | |
-
+| -  | -   |   |
 
 
 
