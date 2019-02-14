@@ -2,15 +2,11 @@
 
 | RISKI ID |	Kuvaus | Vakavuus | Todennäköisyys | Kuka vastaa | Miten toimitaan, jos riski "eskaloituu" | 
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| RIS01 | Ryhmän jäsen sairastuu  |  V4 |  | Ilmoita tiimille. |
-| RIS02 | Ryhmän jäsen keskeyttää kurssin suorituksen | V2 |  | Sovitaan uudesta työnjaosta projektiryhmän kesken |
-| RIS03 | Projektissa käytettävä säätiedon rajapinta suljetaan | V2 |  | Sovitaan projektiryhmän kesken uudesta käytettävästä rajapinnasta |
-| RIS04 | Projektin lähdekoodia hukkuu | V1 |  | Kartoitetaan tilanne projektiryhmän kesken ja sovitaan kuinka tilanne korjataan |
-| RIS05 | Kehitysvaiheen aika ei riitä jokaiseen ominaisuuteen | V3 | | Rajataan kehitys tärkeimpiin ominaisuuksiin |
-| RISXX | | | | |
-| RISXX | | | | |
-| RISXX | | | | |
-| RISXX | | | | |
+| RIS01 | Ryhmän jäsen sairastuu  |  V4 | 100% | Ilmoita tiimille. |
+| RIS02 | Ryhmän jäsen keskeyttää kurssin suorituksen | V2 | ~5% | Sovitaan uudesta työnjaosta projektiryhmän kesken |
+| RIS03 | Projektissa käytettävä säätiedon rajapinta suljetaan | V2 | <1% | Sovitaan projektiryhmän kesken uudesta käytettävästä rajapinnasta |
+| RIS04 | Projektin lähdekoodia hukkuu | V1 | <1% | Kartoitetaan tilanne projektiryhmän kesken ja sovitaan kuinka tilanne korjataan |
+| RIS05 | Kehitysvaiheen aika ei riitä jokaiseen ominaisuuteen | V3 | ~75% | Rajataan kehitys tärkeimpiin ominaisuuksiin |
 
 ### Vakauvuusluokan kuvaukset
 
