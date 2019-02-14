@@ -101,12 +101,8 @@ kehittämällä palvelua paremmaksi
 
 ## Palvelu/asiakaspolku (Customer Journey/Path)
 
-[![](http://img.youtube.com/vi/O04EYNKmEXc/0.jpg)](http://www.youtube.com/watch?v=O04EYNKmEXc "")
-
 
 **Käy läpi yksittäinen asiakaspolku piirtäen se esim Swimlane/BluePrint/tilakone -kuvauksena. Asiakaspolku voi olla aluksi tekstimuotoinen ja se piirretään sen pohjalta**
-
-[![](http://img.youtube.com/vi/TLFBPQQ95ZE/0.jpg)](http://www.youtube.com/watch?v=TLFBPQQ95ZE "")
 
 
 **Asiakaspolun voi kirjoittaa auki käyttäen aiemmin määriteltyjä profiileja..** 
@@ -140,8 +136,6 @@ tekstiä
 
 Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan kokonaisuuteen
 
-[![](http://img.youtube.com/vi/s6v0g1Ut-SY/0.jpg)](http://www.youtube.com/watch?v=s6v0g1Ut-SY "")
-
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
 | SYSTEM-REQ-0001 | System Requirement | Kirjatumispalvelulla on oltava itsenäinen kolmannen osapuolen toimittama varmistusjärjestelmä | [Kirjautuminen ft1](ft1-ominaisuus.md) |
@@ -167,13 +161,6 @@ Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.
 ## Tärkeimmät käyttötapaukset (General Use Cases)
 
 **Millaisia ovat tärkeimmät käyttötapaukset (Use Caset) tuotteeseen/palveluun liittyen? Muista, ettei käyttötapauksella ei tarkoiteta käyttökohdetta/soveltamiskohdetta**
-
-
-[![](http://img.youtube.com/vi/rADU4vWTfyY/0.jpg)](http://www.youtube.com/watch?v=rADU4vWTfyY "")
-
-[![](http://img.youtube.com/vi/BjQAWfBMpcw/0.jpg)](http://www.youtube.com/watch?v=BjQAWfBMpcw "")
-
-[![](http://img.youtube.com/vi/Yj7LBkL5oEE/0.jpg)](http://www.youtube.com/watch?v=Yj7LBkL5oEE "")
 
 
 tekstiä
@@ -302,13 +289,11 @@ Tässä on palvelun prototyyppi:
 
 ## Tärkeimmät tunnistetut ominaisuudet/piirteet (Features)
 
-[![](http://img.youtube.com/vi/eTeUxYSdCxA/0.jpg)](http://www.youtube.com/watch?v=eTeUxYSdCxA "")
 
 tekstiä
 
 **Mieti ovatko kaikki ominaisuudet tarpeellisia?**
 
-[![](http://img.youtube.com/vi/pIDSK21PE9M/0.jpg)](http://www.youtube.com/watch?v=pIDSK21PE9M "")
 
 
 | Ominaisuus | Prioriteetti | Muuta |
@@ -323,10 +308,6 @@ tekstiä
 ## Hyväksyntätestit
 
 **Kiinnitetään alustavat hyväksyntätestit vaatimuksiin taulukon muodossa**
-
-[![](http://img.youtube.com/vi/EYEc8C57lbo/0.jpg)](http://www.youtube.com/watch?v=EYEc8C57lbo "")
-
-[![](http://img.youtube.com/vi/F2M93uWWXk8/0.jpg)](http://www.youtube.com/watch?v=F2M93uWWXk8 "")
 
 
 | VaatimusID | Testitapaus | Kuvaus |  |								
@@ -376,7 +357,6 @@ gantt
 
 ### Yleinen sijoittelunäkymä (Deployment diagram )
 
-[![](http://img.youtube.com/vi/tLuiQ9p8RkU/0.jpg)](http://www.youtube.com/watch?v=tLuiQ9p8RkU "")
 
 # Arkkitehtuuriin/teknologiaan liityvät vaatimukset
 
