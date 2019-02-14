@@ -26,13 +26,8 @@
 
 | Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
 |:-:|:-:|:-:|:-:|
-| CONSTRAINT-REQ-S00000 | Constrain | Palvelu ei saa tallentaa käyttäjätietoja pilveen vaan ne on tallennettava lokaalisti | [Kirjautuminen ft1](ft1-ominaisuus.md) |
-| CONSTRAINT-REQ-S00001 | Constrain |||
-| CONSTRAINT-REQ-S00002 | Constrain |||
-| CONSTRAINT-REQ-S00003 | Constrain |||
-| CONSTRAINT-REQ-S00004 | Constrain |||
-| CONSTRAINT-REQ-S00005 | Constrain |||
-| CONSTRAINT-REQ-S00006 | Constrain |||
+| CONSTRAINT-REQ-S00000 | Constrain | Palveluun ei tallenneta henkilötietoja  | [Kirjautuminen ft1](ft1-ominaisuus.md) |
+
 
 
 # Järjestelmätason /Ohjelmiston vaatimukset
@@ -59,16 +54,15 @@ Tähän kerätään järjestelmän/palvelun vaatimuksia korkealla tasolla.
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
-| FUNCTIONAL-REQ-C0001 | Functional Requirement | Käyttäjä voi hakea pukeutumisohjeita haluamalleen kaupungille | [Kirjautuminen ft1](ft1-ominaisuus.md) |
-| FUNCTIONAL-REQ-C0002 | Functional Requirement | Käyttäjä pystyy luomaan tunnukset, joilla kirjautua palveluun | xxx |
-| FUNCTIONAL-REQ-C0003 | Functional Requirement | Käyttäjä voi luoda oman profiilin | zzz |
-| FUNCTIONAL-REQ-C0004 | Functional Requirement | Käyttäjä pystyy luomaan sivuprofiileja (esim. lapsille) | xxx |
-| FUNCTIONAL-REQ-C0005 | Functional Requirement | Käyttäjä pystyy suunnittelemaan matkan ja saamaan tietoja | zzz |
-| FUNCTIONAL-REQ-C0006 | Functional Requirement | Käyttäjä saa tietoonsa senhetkisen säätiedon ja pukeutumisohjeen | xxx |
-| FUNCTIONAL-REQ-C0007 | Functional Requirement | Käyttäjä pystyy tallentamaan suosikkikohteita | xxx |
-| FUNCTIONAL-REQ-C0008 | Functional Requirement | Käyttäjä pystyy poistamaan sivuprofiileja| xxx |
-| FUNCTIONAL-REQ-C0009 | Functional Requirement | Käyttäjä pystyy katsomaan pukeutumisohjeita tunneittain | xxx |
-| FUNCTIONAL-REQ-C0010 | Functional Requirement | Käyttäjä pystyy katsomaan pukeutumisohjeita haluamalleen ajanjaksolle | xxx |
+| FUNCTIONAL-REQ-C0001 | Functional Requirement | Käyttäjä pystyy luomaan oman profiilin | [Kirjautuminen ft1](ft1-ominaisuus.md) |
+| FUNCTIONAL-REQ-C0002 | Functional Requirement | Käyttäjä pystyy luomaan yhden tai useampia sivuprofiileja ||
+| FUNCTIONAL-REQ-C0003 | Functional Requirement | Päänäkymässä näkyy ajankohtainen sää ||
+| FUNCTIONAL-REQ-C0004 | Functional Requirement | Päänäkymässä näkyy pukeutumissuositukset ||
+| FUNCTIONAL-REQ-C0005 | Functional Requirement | Käyttäjä voi hakea sään haluamaansa kaupunkiin||
+| FUNCTIONAL-REQ-C0006 | Functional Requirement | Käyttäjä voi suunnitella matkan ja saa pukeutumisohjeen matkalle ||
+| FUNCTIONAL-REQ-C0007 | Functional Requirement | Käyttäjä voi katsoa sään haluamalleen ajankohdalle ||
+| FUNCTIONAL-REQ-C0008 | Functional Requirement | Sovellus tarkistaa paikkakuntien oikeellisuuden ||
+| FUNCTIONAL-REQ-C0009 | Functional Requirement | Vaatesuositukset päivittyvät käyttäjän iän mukaisesti||
 
 
 ### Ei-Toiminnalliset vaatimukset
@@ -77,38 +71,24 @@ Tähän kerätään järjestelmän/palvelun vaatimuksia korkealla tasolla.
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
-| SECURITY-REQ-0001 | Non-Functional Security |||								
-| SECURITY-REQ-0002 | Non-Functional Security |||
-| SECURITY-REQ-0003 | Non-Functional Security |||
-| SECURITY-REQ-0004 | Non-Functional Security |||
-| SECURITY-REQ-0005 | Non-Functional Security |||
-| SECURITY-REQ-0006 | Non-Functional Security |||
-| SECURITY-REQ-0007 | Non-Functional Security |||
-| SECURITY-REQ-0008 | Non-Functional Security |||
-| SECURITY-REQ-0009 | Non-Functional Security |||
-| SECURITY-REQ-0010 | Non-Functional Security |||
+| SECURITY-REQ-0001 | Non-Functional Security | Käyttäjien sijaintitietoja ei saa päätyä palvelun ulkopuolelle  |  |
+| SECURITY-REQ-0002 | Non-Functional Security | Säätietoja ei haeta rajapinnasta käyttäjätasolla | [Kirjautuminen ft1](ft1-ominaisuus.md) |	
 
 **Suorituskyky**
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
-| PERFORMANCE-REQ-0000 | Non-Functional Performance |||								
-| PERFORMANCE-REQ-0001 | Non-Functional Performance |||
-| PERFORMANCE-REQ-0002 | Non-Functional Performance |||
-| PERFORMANCE-REQ-0003 | Non-Functional Performance |||
-| PERFORMANCE-REQ-0004 | Non-Functional Performance |||
-| PERFORMANCE-REQ-0005 | Non-Functional Performance |||
+| PERFORMANCE-REQ-0000 | Non-Functional Performance | Säätietoja voi hakea 100 henkilöä minuutin aikana |  |
+| PERFORMANCE-REQ-0001 | Non-Functional Performance | Säätietojen hakemisessa ei kestä yli 2 sek ||
+| PERFORMANCE-REQ-0002 | Non-Functional Performance | Sivun latautumisessa ei kestä yli 2 sek ||
+
 
 **Käytettävyys**
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
-| USABILITY-REQ-0000 | Non-Functional Usability | Käyttöliittymän on oltava selkeä myös värisokeille |  [Kirjautuminen ft1](ft1-ominaisuus.md) | |	
-| USABILITY-REQ-0001 | Non-Functional Usability |||
-| USABILITY-REQ-0002 | Non-Functional Usability |||
-| USABILITY-REQ-0003 | Non-Functional Usability |||
-| USABILITY-REQ-0004 | Non-Functional Usability |||
-| USABILITY-REQ-0005 | Non-Functional Usability |||
+| USABILITY-REQ-0000 | Non-Functional Usability |  Käyttöliittymä on yksinkertainen ja helppo käyttää | | |
+| USABILITY-REQ-0001 | Non-Functional Usability | Käyttöliittymän on oltava selkeä myös värisokeille | | |
 
 **Palautuminen**
 

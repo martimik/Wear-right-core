@@ -158,7 +158,7 @@ Lasse Lehtisen asiakaspolku. Hän aikoo lähteä työmatkalle.
 | FUNCTIONAL-REQ-C0003 | Functional Requirement | Päänäkymässä näkyy ajankohtainen sää ||
 | FUNCTIONAL-REQ-C0004 | Functional Requirement | Päänäkymässä näkyy pukeutumissuositukset ||
 | FUNCTIONAL-REQ-C0005 | Functional Requirement | Käyttäjä voi hakea sään haluamaansa kaupunkiin||
-| FUNCTIONAL-REQ-C0006 | Functional Requirement | Käyttäjä voi suunnitella matkan ||
+| FUNCTIONAL-REQ-C0006 | Functional Requirement | Käyttäjä voi suunnitella matkan ja saa pukeutumisohjeen matkalle ||
 | FUNCTIONAL-REQ-C0007 | Functional Requirement | Käyttäjä voi katsoa sään haluamalleen ajankohdalle ||
 | FUNCTIONAL-REQ-C0008 | Functional Requirement | Sovellus tarkistaa paikkakuntien oikeellisuuden ||
 | FUNCTIONAL-REQ-C0009 | Functional Requirement | Vaatesuositukset päivittyvät käyttäjän iän mukaisesti||
@@ -188,7 +188,8 @@ Lasse Lehtisen asiakaspolku. Hän aikoo lähteä työmatkalle.
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
-| USABILITY-REQ-0000 | Non-Functional Usability |  Käyttöliittymä on yksinkertainen ja helppo käyttää |  [Kirjautuminen ft1](ft1-ominaisuus.md) | |	
+| USABILITY-REQ-0000 | Non-Functional Usability |  Käyttöliittymä on yksinkertainen ja helppo käyttää | | |
+| USABILITY-REQ-0001 | Non-Functional Usability | Käyttöliittymän on oltava selkeä myös värisokeille | | |
 
 ### Testattavuus
 
