@@ -1,68 +1,38 @@
-# Ominaisuus -pohja
-
-[![](http://img.youtube.com/vi/45aSdlg6NK0/0.jpg)](http://www.youtube.com/watch?v=45aSdlg6NK0 "")
-
+# Ominaisuus 4 - Sääinfo
 
 | | |
 |:-:|:-:|
-| Ominaisuus ID |esim. FT0101 |
-| Osajärjestelmä, mihin ominaisuus liittyy | esim laskutus |
-| Ominaisuuden vastuuhenkilö | esim. Mauri Myyrä |
-| Status | esim. hyväksytty |
+| Ominaisuus ID | FT04 |
+| Osajärjestelmä | Rajapinnat |
+| Ominaisuuden vastuuhenkilö | - |
+| Status | Ei aloitettu |
 
 ### Kuvaus
 
-*Kerro mitä ominaisuudella tarkoitetaan ja mitä sen avulla saavutetaan*
+* [Julkaisusuunnitelman ominaisuus](../../04-julkaisusuunnitelma/Featuret/Sääinfo.md)
 
-Sed non nisi id ligula interdum mattis. Fusce vel ullamcorper nunc. Nulla pharetra dui ut enim semper semper. 
-Aenean ut leo tortor. Fusce felis nibh, malesuada vitae nibh at, rhoncus feugiat leo. Nam vehicula vitae ligula 
-vitae condimentum. Ut maximus metus nec lorem ultrices elementum.
+Infolaatikko sivuilla, josta näkee valitun päivän ja siitä valitun tunnin säätiedot.
 
 
 ### Ominaisuuteen liittyvät rajaukset, vaatimukset käyttötapaukset
 
-*Kerätään tähän kaikki oleelliset asiat, jotka liittyvät ominaisuuden määrittelyyn tai osaltaan määrittävät sitä*
-
 | | |
 |:-:|:-:|
-| [Use Case 1](FT1-kayttotapaus.md) | |
-| [Use Case 2](FT2-kayttotapaus.md) | |
-| [Vaatimus ReqID]() |  | 
-| [Vaatimus ReqID]() |  | 
-| [Vaatimus ReqID]() |  | 
+| PERFORMANCE-REQ-0001 | Säätietojen hakemisessa ei kestä yli 2 sek |
+| FUNCTIONAL-REQ-C0007 | Käyttäjä voi katsoa sään haluamalleen ajankohdalle |
 
 ### Alustavat käyttäjätarinat (User Storys)
 
-*Kirjataan User Storyt alustavasti tähän*
-
-* Käyttäjän haluan, että voin.....
-* Ylläpitäjänä haluan, että voin.....
-
-**Nämä kannattaa siirtää pian issue kuvauksiksi*
-
-esim. #8 #2
+[#132 - As a camper, I want to see the forecast for different places, because I don't stay in the same location for long](#132)
 
 
 ### Käyttöliittymänäkymä/mock 
 
-*Tähän kuva/mockup -linkki, joka liittyy oleellisesti ominaisuuteen/toiminnallisuuteen*
-
-![](https://openclipart.org/image/300px/svg_to_png/247488/1461589195.png)
+![sääinfo](../kuvat/saainfo.png)
 
 
 ### Testaus / mahdolliset hyväksyntä kriteerit 
 
-*Kirjataan muutamia huomiota testauksen kannalta*
-
 | Testitapaus  | Testin lähde  | Kuka vastaa  |
 |:-: | :-:|:-:|
 | [Testitapaus 1]()  | vaatimus id?   |   |
-| [Testitapaus 2]()  | vaatimus id?   |   |
-| [Testitapaus 3]()  | vaatimus id?   |   |
-| [Testitapaus 4]()  | vaatimus id?   |   |
-| | |
-
-
-
-
-
