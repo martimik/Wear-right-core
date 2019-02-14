@@ -7,5 +7,3 @@ kuin Ensisisäänkirjautuminen, mutta ilman paikkakuntaa, koska paikkakunta on a
 ### Vaatimukset
 
 * Sivuprofiilin lisäys ja poisto
-* Käyttäjä voi vaihtaa vaateinfossa profiilia ja vaihdettu profiili näyttää  
-sopivan pukeutumisen kyseisellä profiilille (esim. vauva, lapsi tai seniori)
