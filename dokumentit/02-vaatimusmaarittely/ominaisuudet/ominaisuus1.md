@@ -1,6 +1,4 @@
 # Profiilin luonti
-[![](http://img.youtube.com/vi/45aSdlg6NK0/0.jpg)](http://www.youtube.com/watch?v=45aSdlg6NK0 "")
-
 
 | | |
 |:-:|:-:|
@@ -33,7 +31,7 @@ Sukupuoli, Ikä. Nämä oikeellisesti syötettyään hän pääsee käyttämää
 
 ### Käyttöliittymänäkymä/mock 
 
-![](https://gitlab.labranet.jamk.fi/team-b-2019/core/tree/master/dokumentit/02-vaatimusmaarittely/kuvat/profiilin-luonti)
+![](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/02-vaatimusmaarittely/kuvat/profiilin-luonti.PNG)
 
 
 ### Testaus / mahdolliset hyväksyntä kriteerit 
