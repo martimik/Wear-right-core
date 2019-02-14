@@ -121,7 +121,7 @@ Lasse Lehtisen asiakaspolku. Hän aikoo lähteä työmatkalle.
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
 | SYSTEM-REQ-0001 | System Requirement | Palvelun täytyy tallentaa tietoja tietokoneen paikalliseen muistiin | |
-| SYSTEM-REQ-0002 | System Requirement | Sovellus tukee eri selaimia | [Kirjautuminen ft1](ft1-ominaisuus.md) |
+| SYSTEM-REQ-0002 | System Requirement | Sovellus tukee eri selaimia | |
 | SYSTEM-REQ-0003 | System Requirement | Sovellus skaalautuu mobiiliin | |
 | SYSTEM-REQ-0004 | System Requirement | Sovellus saa säätiedot avoimesta rajapinnasta ||
 
@@ -131,12 +131,6 @@ Lasse Lehtisen asiakaspolku. Hän aikoo lähteä työmatkalle.
 | Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
 |:-:|:-:|:-:|:-:|
 | CONSTRAINT-REQ-S00000 | Constrain | Palveluun ei tallenneta henkilötietoja  | [Kirjautuminen ft1](ft1-ominaisuus.md) |
-| CONSTRAINT-REQ-S00001 | Constrain |||
-| CONSTRAINT-REQ-S00002 | Constrain |||
-| CONSTRAINT-REQ-S00003 | Constrain |||
-| CONSTRAINT-REQ-S00004 | Constrain |||
-| CONSTRAINT-REQ-S00005 | Constrain |||
-| CONSTRAINT-REQ-S00006 | Constrain |||
 
 
 ## Tärkeimmät käyttötapaukset (General Use Cases)
@@ -220,11 +214,6 @@ Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhte
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
 | USABILITY-REQ-0000 | Non-Functional Usability |  Käyttöliittymä on yksinkertainen ja helppo käyttää |  [Kirjautuminen ft1](ft1-ominaisuus.md) | |	
-| USABILITY-REQ-0001 | Non-Functional Usability |||
-| USABILITY-REQ-0002 | Non-Functional Usability |||
-| USABILITY-REQ-0003 | Non-Functional Usability |||
-| USABILITY-REQ-0004 | Non-Functional Usability |||
-| USABILITY-REQ-0005 | Non-Functional Usability |||
 
 ### Testattavuus
 
@@ -255,11 +244,10 @@ tekstiä
 
 | Ominaisuus | Prioriteetti | Muuta |
 | :-: | :-: | :-: |
-| [Ominaisuus 1 - Feature 1](ominaisuudet/ominaisuus1.md) | Pakollinen | |
-| [Ominaisuus 2](ominaisuudet/ominaisuus2.md) | Pakollinen | |
-| [Ominaisuus 3](ominaisuudet/ominaisuus3.md) | Pakollinen | |
-| [Ominaisuus 4](ominaisuudet/ominaisuus4.md) | Tärkeä | |
-| [Ominaisuus 5](ominaisuudet/ominaisuus5.md) | Nice to Have | |
+| [Ominaisuus 1 - profiilin luonti ](ominaisuudet/ominaisuus1.md) | Pakollinen | |
+| [Ominaisuus 2 - sivuprofiilit](ominaisuudet/ominaisuus2.md) | Pakollinen | |
+| [Ominaisuus 3 - Matkan suunnittelu](ominaisuudet/ominaisuus3.md) | Tärkeä | |
+| [Ominaisuus 4 - Sääinfo](ominaisuudet/ominaisuus4.md) | Pakollinen | |
 
 
 ## Hyväksyntätestit
