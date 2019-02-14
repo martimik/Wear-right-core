@@ -130,19 +130,9 @@ Esim. Canvanizer https://canvanizer.com
 
 ## Tuotteen järjestelmävaatimukset ja mahdolliset rajoitukset (Key Requirements and restrictions)
 
-__Kirjaa tähän tärkeimmät vaatimukset suunnitteltuun palveluun liittyen__
-
-tekstiä 
-
-Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan kokonaisuuteen
-
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
-| SYSTEM-REQ-0001 | System Requirement | Kirjatumispalvelulla on oltava itsenäinen kolmannen osapuolen toimittama varmistusjärjestelmä | [Kirjautuminen ft1](ft1-ominaisuus.md) |
-| SYSTEM-REQ-0002 | System Requirement | Palvelun tärkeimpien palvelujen on oltava vähintään kahdennettu N+1 | |
-| SYSTEM-REQ-0003 | System Requirement |||
-| SYSTEM-REQ-0004 | System Requirement |||
-| SYSTEM-REQ-0005 | System Requirement |||
+| SYSTEM-REQ-0001 | System Requirement | Palvelun täytyy tallentaa tietoja tietokoneen paikalliseen muistiin | |
 
 
 # Oleelliset huomioitavat rajoitteet
@@ -198,12 +188,6 @@ Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.
 | FUNCTIONAL-REQ-C0002 | Functional Requirement | Käyttäjä pystyy luomaan yhden tai useampia sivuprofiileja ||
 | FUNCTIONAL-REQ-C0003 | Functional Requirement | Päänäkymässä näkyy ajankohtainen sää ||
 | FUNCTIONAL-REQ-C0004 | Functional Requirement | Päänäkymässä näkyy pukeutumissuositukset ||
-| FUNCTIONAL-REQ-C0005 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0006 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0007 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0008 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0009 | Functional Requirement |||
-| FUNCTIONAL-REQ-C0010 | Functional Requirement |||
 
 
 ## Palveluun liittyvät tärkeimmät ei-toiminnalliset vaatimukset (Non Functional Requirements)
@@ -216,42 +200,16 @@ tekstiä
 
 ### Suorituskyky? (Performance)
 
-
-
-tekstiä
-
-Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan taulukkoon..
-
-
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
-| PERFORMANCE-REQ-0000 | Non-Functional Performance | Kirjautuminen on mahdollista yhtäaikaa 100 käyttäjällä (100 request/s) | [Kirjautuminen ft1](ft1-ominaisuus.md) |								
-| PERFORMANCE-REQ-0001 | Non-Functional Performance |||
-| PERFORMANCE-REQ-0002 | Non-Functional Performance |||
-| PERFORMANCE-REQ-0003 | Non-Functional Performance |||
-| PERFORMANCE-REQ-0004 | Non-Functional Performance |||
-| PERFORMANCE-REQ-0005 | Non-Functional Performance |||
+| PERFORMANCE-REQ-0000 | Non-Functional Performance | Säätietoja voi hakea 100 henkilöä minuutin aikana |  |
 
 
 ### Tietoturva?
 
-tekstiä
-
-Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan taulukkoon..
-
-
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
-| SECURITY-REQ-0001 | Non-Functional Security | Salasanassa on käytettävä vähintään MD5-tason salausta, koska standardi XY112 sitä edellyttää | [Kirjautuminen ft1](ft1-ominaisuus.md) |								
-| SECURITY-REQ-0002 | Non-Functional Security |||
-| SECURITY-REQ-0003 | Non-Functional Security |||
-| SECURITY-REQ-0004 | Non-Functional Security |||
-| SECURITY-REQ-0005 | Non-Functional Security |||
-| SECURITY-REQ-0006 | Non-Functional Security |||
-| SECURITY-REQ-0007 | Non-Functional Security |||
-| SECURITY-REQ-0008 | Non-Functional Security |||
-| SECURITY-REQ-0009 | Non-Functional Security |||
-| SECURITY-REQ-0010 | Non-Functional Security |||
+| SECURITY-REQ-0001 | Non-Functional Security | Käyttäjien sijaintitietoja ei saa päätyä palvelun ulkopuolelle  |  |
 
 ### Käytettävyys
 
@@ -360,27 +318,9 @@ gantt
 
 # Arkkitehtuuriin/teknologiaan liityvät vaatimukset
 
-### Tekniset vaatimukset 
-
 | Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
 |:-:|:-:|:-:|:-:|
-| REQ00x | Vaatimus? | Yllläpito | Kuka vastaa | 
-| REQ00x | Vaatimus? | Tekninen | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
-
-### Ylläpito (Maintenance)
-
-_Tähän kirjataan vaatimuksia, joiden merkitys tulee esiin vasta tuotteen julkaisun jälkeen. Miten tuotteen ylläpidettävyyttä parannetaan? Mitä pitää ottaa huomioon, että ylläpidettävyys on helpompaa__
-
-| Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
-|:-:|:-:|:-:|:-:|
-| REQ00x | Vaatimus? | Yllläpito | Kuka vastaa | 
-| REQ00x | Vaatimus? | Tekninen | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
+| REQ001 | Palvelinohjelmiston pitää vikatilanteessa käynnistyä uudelleen | Yllläpito |  |
 
 ### Tietokantakuvaus (Database ER-diagram)
 
