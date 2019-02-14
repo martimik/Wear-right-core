@@ -101,29 +101,17 @@ kehittämällä palvelua paremmaksi
 
 ## Palvelu/asiakaspolku (Customer Journey/Path)
 
+Sirpa Sirviön asiakaspolku. Hän haluaa lähteä ulkoilemaan koiransa kanssa.
+![](kuvat/Asiakaspolku1.png)
 
-**Käy läpi yksittäinen asiakaspolku piirtäen se esim Swimlane/BluePrint/tilakone -kuvauksena. Asiakaspolku voi olla aluksi tekstimuotoinen ja se piirretään sen pohjalta**
+Minna Järvenpään asiakaspolku. Hänellä on kiire pukea lapsensa päiväkotiin ja kouluun.
+![](kuvat/Asiakaspolku2.png)
 
+Kolmas aiakaspolku. Asiakas haluaa lisätä itselleen paikkakuntia suosikkeihin.
+![](kuvat/Asiakaspolku3.png)
 
-**Asiakaspolun voi kirjoittaa auki käyttäen aiemmin määriteltyjä profiileja..** 
-
-Esim. 
-
-Sed ut [Profile 1](stakeholder-profile1.md) perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui [Profile 1](stakeholder-profile1.md) ratione voluptatem sequi nesciunt. 
-Neque porro quisquam est, [Profile 3](stakeholder-profile3.md)
-qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
-quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
-
-**Polkuja kannattaa määritellä useampia useita eri tilanteiden pohjalta. Yhteen kuvaukseen ei kannata upottaa liikaa tapahtumia**
-
-
-* Mieti onko mahdollista hyödynnetään jotain ulkopuolista palvelua kuvauksen apuna?
-
-Esim. Canvanizer https://canvanizer.com
+Lasse Lehtisen asiakaspolku. Hän aikoo lähteä työmatkalle.
+![](kuvat/Asiakaspolku4.png)
 
 
 # Vaatimukset, käyttötapaukset ja ominaisuudet
