@@ -180,10 +180,10 @@ Linkit katselmointipöytäkirja pohjiin
 
 ## 4.6 Projektisuunnitelmaa täydentävät suunnitelmat
 
-* Vaatimusmäärittely
-* Riskienhallintasuunnitelma
+* [Vaatimusmäärittely](../02-vaatimusmaarittely/vaatimusmaarittely.md)
+* [Riskienhallintasuunnitelma](riskienhallinta.md)
+* [Viestintäsuunnitelma](viestintasuunnitelma.md)
 * Toimeksiantajan video
-* Viestintä suunnitelma
 
 
 ## 4.7 Suunnitelmien tarkistus- ja päivitysajankohdat 
@@ -231,6 +231,16 @@ Palautetaan loppuraportti projektin ohjaajalle.
 
 TODO
 
+
+## Linkit
+
+* [Vaatimusmäärittely](../02-vaatimusmaarittely/vaatimusmaarittely.md)
+* [Riskienhallintasuunnitelma](riskienhallinta.md)
+* [Viestintäsuunnitelma](viestintasuunnitelma.md)
+* [Sopimus](projektisopimus.md)
+* [Tarjous (.docx)](../06-tarjoukset-ja-laskutus/tarjous-Wear_Right.docx)
+* [Testauksen yleissuunnitelma](../05-testaushallinta/yleistestaussuunnitelma.md)
+* [Ryhmän esittelyt](http://team-b-2019.pages.labranet.jamk.fi/site/)
 
 ## Liitteet
 
