@@ -1,4 +1,4 @@
-# Profiilin luonti
+# Ominaisuus 1 - Profiilin luonti
 
 | | |
 |:-:|:-:|
@@ -31,7 +31,7 @@ Sukupuoli, Ikä. Nämä oikeellisesti syötettyään hän pääsee käyttämää
 
 ### Käyttöliittymänäkymä/mock 
 
-![](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/02-vaatimusmaarittely/kuvat/profiilin-luonti.PNG)
+![](../kuvat/profiilin-luonti.PNG)
 
 
 ### Testaus / mahdolliset hyväksyntä kriteerit 

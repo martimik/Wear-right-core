@@ -1,4 +1,4 @@
-# Ominaisuus -pohja
+# Ominaisuus - Matkan suunnittelu
 
 [![](http://img.youtube.com/vi/45aSdlg6NK0/0.jpg)](http://www.youtube.com/watch?v=45aSdlg6NK0 "")
 
@@ -6,48 +6,33 @@
 | | |
 |:-:|:-:|
 | Ominaisuus ID |esim. FT0101 |
-| Osajärjestelmä, mihin ominaisuus liittyy | esim laskutus |
-| Ominaisuuden vastuuhenkilö | esim. Mauri Myyrä |
-| Status | esim. hyväksytty |
+| Osajärjestelmä, mihin ominaisuus liittyy |  |
+| Ominaisuuden vastuuhenkilö | Koko tiimi |
+| Status | Hyväksytty |
 
 ### Kuvaus
 
-*Kerro mitä ominaisuudella tarkoitetaan ja mitä sen avulla saavutetaan*
-
-Sed non nisi id ligula interdum mattis. Fusce vel ullamcorper nunc. Nulla pharetra dui ut enim semper semper. 
-Aenean ut leo tortor. Fusce felis nibh, malesuada vitae nibh at, rhoncus feugiat leo. Nam vehicula vitae ligula 
-vitae condimentum. Ut maximus metus nec lorem ultrices elementum.
+Käyttäjä voi luoda itselleen useita sijainteja sisältäviä matkoja ja valita niille päivät.
+Luodun matkan säätietoja voi tarkistella sliderin avulla, joka liikkuu matkan päivien kohdalla
 
 
 ### Ominaisuuteen liittyvät rajaukset, vaatimukset käyttötapaukset
 
-*Kerätään tähän kaikki oleelliset asiat, jotka liittyvät ominaisuuden määrittelyyn tai osaltaan määrittävät sitä*
-
 | | |
 |:-:|:-:|
-| [Use Case 1](FT1-kayttotapaus.md) | |
-| [Use Case 2](FT2-kayttotapaus.md) | |
-| [Vaatimus ReqID]() |  | 
-| [Vaatimus ReqID]() |  | 
-| [Vaatimus ReqID]() |  | 
+| US-01 | Retkeilijänä haluan saada tietää eri paikkojen säästä hyvissä ajoin etukäteen, koska en viivy kauaa yhdessä paikassa.|
+| FUNCTIONAL-REQ-C0006 | Käyttäjä voi suunnitella matkan | 
+| FUNCTIONAL-REQ-C0007 | Käyttäjä voi katsoa sään haluamalleen ajankohdalle | 
+| FUNCTIONAL-REQ-C0008 | Sovellus tarkistaa paikkakuntien oikeellisuuden |
 
 ### Alustavat käyttäjätarinat (User Storys)
 
-*Kirjataan User Storyt alustavasti tähän*
-
-* Käyttäjän haluan, että voin.....
-* Ylläpitäjänä haluan, että voin.....
-
-**Nämä kannattaa siirtää pian issue kuvauksiksi*
-
-esim. #8 #2
+* [As a camper, I want to see the forecast for different places, because I don't stay in the same location for long](https://gitlab.labranet.jamk.fi/team-b-2019/core/issues/132)
 
 
 ### Käyttöliittymänäkymä/mock 
 
-*Tähän kuva/mockup -linkki, joka liittyy oleellisesti ominaisuuteen/toiminnallisuuteen*
-
-![](https://openclipart.org/image/300px/svg_to_png/247488/1461589195.png)
+![](../kuvat/matkan-suunnittelu.PNG)
 
 
 ### Testaus / mahdolliset hyväksyntä kriteerit 
