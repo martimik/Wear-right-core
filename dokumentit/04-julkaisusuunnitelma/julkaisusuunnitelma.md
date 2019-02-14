@@ -31,17 +31,17 @@ Versio 1.0
 
 | Ominaisuus | Versio | Testattavissa | Julkaistaan |
 |:-:|:-:|:-:|:-:|
-| [Ensikirjautuminen](/Featuret/Ensikirjautuminen.md) | 1.0 | 25.02.2019 | 10.03.2019 |
-| [Päivä-slider]() | 1.0 | 25.02.2019 | 10.03.2019 |
-| [Tunti-slider]() | 1.0 | 25.02.2019 | 10.03.2019 |
-| [Sääinfo]() | 1.0 | 25.02.2019 | 10.03.2019 |
-| [Tietojen päivitys]() | 1.0 | 29.02.2019 | 06.03.2019 |
-| [Vaateinfo(tekstinä)]() | 1.0 | 03.03.2019 | 10.03.2019 |
-| [Suosikkipaikkakunta]() | 1.0 | 03.03.2019 | 10.03.2019 |
-| [Vaateinfo(kuvina)]() | 1.0 | 30.03.2019 | TBD |
-| [Sivuprofiilit]() | 1.0 | 15.03.2019 | 01.04.2019 |
-| [Sivuprofiilivaateinfo(tekstinä)]() | 1.0 | 15.03.2019 | 01.04.2019 |
-| [Sivuprofiilivaateinfo(kuvina)]() | 1.0 | 30.03.2019 | TBD|
-| [Matkat]() | 1.0 | 30.03.2019 | TBD |
+| [Ensikirjautuminen](Featuret/Ensikirjautuminen.md) | 1.0 | 25.02.2019 | 10.03.2019 |
+| [Päivä-slider](Featuret/Päivä-slider.md) | 1.0 | 25.02.2019 | 10.03.2019 |
+| [Tunti-slider](Featuret/Tunti-slider.md) | 1.0 | 25.02.2019 | 10.03.2019 |
+| [Sääinfo](Featuret/Sääinfo.md) | 1.0 | 25.02.2019 | 10.03.2019 |
+| [Tietojen päivitys](Featuret/Tietojenpäivitys.md) | 1.0 | 29.02.2019 | 06.03.2019 |
+| [Vaateinfo(tekstinä)](Featuret/Vaateinfo(tekstinä).md) | 1.0 | 03.03.2019 | 10.03.2019 |
+| [Suosikkipaikkakunta](Featuret/Suosikkipaikkakunta.md) | 1.0 | 03.03.2019 | 10.03.2019 |
+| [Vaateinfo(kuvina)](Featuret/Vaateinfo(kuvina).md) | 1.0 | 30.03.2019 | TBD |
+| [Sivuprofiilit](Featuret/Sivuprofiilit.md) | 1.0 | 15.03.2019 | 01.04.2019 |
+| [Sivuprofiilivaateinfo(tekstinä)](Featuret/Sivuprofiilivaateinfo(tekstinä).md) | 1.0 | 15.03.2019 | 01.04.2019 |
+| [Sivuprofiilivaateinfo(kuvina)](Featuret/Sivuprofiilivaateinfo(kuvina).md) | 1.0 | 30.03.2019 | TBD|
+| [Matkat](Featuret/Matkat.md) | 1.0 | 30.03.2019 | TBD |
 
 
