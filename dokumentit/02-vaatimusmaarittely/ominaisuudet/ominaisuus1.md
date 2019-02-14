@@ -1,53 +1,39 @@
-# Ominaisuus -pohja
-
+# Profiilin luonti
 [![](http://img.youtube.com/vi/45aSdlg6NK0/0.jpg)](http://www.youtube.com/watch?v=45aSdlg6NK0 "")
 
 
 | | |
 |:-:|:-:|
 | Ominaisuus ID |esim. FT0101 |
-| Osajärjestelmä, mihin ominaisuus liittyy | esim laskutus |
-| Ominaisuuden vastuuhenkilö | esim. Mauri Myyrä |
-| Status | esim. hyväksytty |
+| Osajärjestelmä, mihin ominaisuus liittyy | Kirjautuminen |
+| Ominaisuuden vastuuhenkilö | Koko tiimi |
+| Status | Hyväksytty |
 
 ### Kuvaus
 
-*Kerro mitä ominaisuudella tarkoitetaan ja mitä sen avulla saavutetaan*
-
-Sed non nisi id ligula interdum mattis. Fusce vel ullamcorper nunc. Nulla pharetra dui ut enim semper semper. 
-Aenean ut leo tortor. Fusce felis nibh, malesuada vitae nibh at, rhoncus feugiat leo. Nam vehicula vitae ligula 
-vitae condimentum. Ut maximus metus nec lorem ultrices elementum.
+Lomake jossa käyttäjä ensimmäisellä käyttökerrallaan kyseisellä laitteella
+syöttää seuraavat tiedot Nimi, Paikkakunta (tai hakee paikkatiedot, jos hän niin haluaa). Nämä tiedot tallennetaan sovellukseen paikallisesti.
+Sukupuoli, Ikä. Nämä oikeellisesti syötettyään hän pääsee käyttämään sivustoa.
 
 
 ### Ominaisuuteen liittyvät rajaukset, vaatimukset käyttötapaukset
 
-*Kerätään tähän kaikki oleelliset asiat, jotka liittyvät ominaisuuden määrittelyyn tai osaltaan määrittävät sitä*
-
 | | |
 |:-:|:-:|
-| [Use Case 1](FT1-kayttotapaus.md) | |
-| [Use Case 2](FT2-kayttotapaus.md) | |
-| [Vaatimus ReqID]() |  | 
-| [Vaatimus ReqID]() |  | 
-| [Vaatimus ReqID]() |  | 
+| [Use Case 1](FT1-kayttotapaus.md) | Uusi asiakas luo tunnuksen |
+| FUNCTIONAL-REQ-C0001 | Käyttäjä pystyy luomaan oman profiilin | 
+| CONSTRAINT-REQ-S00000 | Palveluun ei tallenneta henkilötietoja | 
+| US-01 | Käyttäjänä haluan, että tietoni pysyisi sovelluksen tiedoissa, koska se olisi kätevää. | 
 
 ### Alustavat käyttäjätarinat (User Storys)
 
-*Kirjataan User Storyt alustavasti tähän*
-
-* Käyttäjän haluan, että voin.....
-* Ylläpitäjänä haluan, että voin.....
-
-**Nämä kannattaa siirtää pian issue kuvauksiksi*
-
-esim. #8 #2
+* [As a user, I want to create a profile for myself, so I can quickly see a suitable outfit for the weather](team-b-2019/core/issues/135)
+* [As a user, I want my keep my information in the program, so that I don't have to write them again](team-b-2019/core/issues/134)
 
 
 ### Käyttöliittymänäkymä/mock 
 
-*Tähän kuva/mockup -linkki, joka liittyy oleellisesti ominaisuuteen/toiminnallisuuteen*
-
-![](https://openclipart.org/image/300px/svg_to_png/247488/1461589195.png)
+![](https://gitlab.labranet.jamk.fi/team-b-2019/core/tree/master/dokumentit/02-vaatimusmaarittely/kuvat/profiilin-luonti)
 
 
 ### Testaus / mahdolliset hyväksyntä kriteerit 
