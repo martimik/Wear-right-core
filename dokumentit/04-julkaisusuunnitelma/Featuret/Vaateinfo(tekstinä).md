@@ -1,7 +1,7 @@
 ## Sisältö
 
 Käyttäjän valitseman päivän ja siitä valitun tunnin mukaan sivun alalaidassa  
-päivittyy kuva, jossa on siihen säähän sopiva vaatetus
+päivittyy (kuva), jossa on siihen säähän sopiva vaatetus listattuna tekstinä
 
 ### Vaatimukset
 
