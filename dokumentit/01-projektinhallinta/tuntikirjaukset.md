@@ -8,7 +8,7 @@ Tuntikirjaukset ja kulut projektissa Wear-Right
 | Claudia Viita | 17.1.2019 | 5h | Sprint 01-E0 |
 | Claudia Viita | 24.1.2019 | 5h | Sprint 2 |
 | Claudia Viita | 31.1.2019 | 6h | Palvelun MockUp |
-| Claudia Viita | 7.2.2019 | - | - |
+| Claudia Viita | 7.2.2019 |  | - |
 | Claudia Viita | - | - | - |
 
 Yhteensä: 16h
@@ -21,10 +21,10 @@ Yhteensä: 16h
 | Jesse Heikkinen | 17.1.2019 | 5h | Sprint 01-E0 |
 | Jesse Heikkinen | 24.1.2019 | 5h | Sprint 02 |
 | Jesse Heikkinen | 31.1.2019 | 4h | Sprint 03 |
-| Jesse Heikkinen | 7.2.2019 | - | Sprint 04 |
-| Jesse Heikkinen | - | - | - |
+| Jesse Heikkinen | 7.2.2019 | 4h | Sprint 04 |
+| Jesse Heikkinen | 14.2.2019 | - | Sprint 05 |
 
-Yhteensä: 14h
+Yhteensä: 18h
 
 
 ### Mikko Martikainen
