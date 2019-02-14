@@ -1,5 +1,3 @@
-## Sisältö 
-
 ## Sisältö
 
 Käyttäjän valitseman päivän ja siitä valitun tunnin mukaan sivun alalaidassa  
