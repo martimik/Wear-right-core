@@ -265,32 +265,7 @@ tekstiä
 
 ## Julkaisun suunnitelma
 
-
-
-Perinteinen listaus
-
-| Aika + Ominaisuuus | Kuvaus | Vastuu | Prioriteetti |
-|:-:|:-:|:-:|:-:|
-| 1.9.2019 [Ominaisuus 1](pohjat/pohja-ominaisuus.md) | | |
-| 1.10.2019 [Ominaisuus 2](pohjat/pohja-ominaisuus.md) | | |
-| 15.11.2019 [Ominaisuus 3](pohjat/pohja-ominaisuus.md) | | |
-| 5.12.2019 [Ominaisuus 4](pohjat/pohja-ominaisuus.md) | | |
-
-
-
-Tutustu Mermaid skriptiin?
-
-```mermaid
-gantt
-        dateFormat  YYYY-MM-DD
-        title GANTT -kaavio julkaisusuunnitelman pohjaksi?
-        section A section
-        Lorem Ipsumit alkuun            :done,    des1, 2019-01-06,2019-01-08
-        Parem poxum               :active,  des2, 2019-01-09, 3d
-        Tirem taxum               :         des3, after des2, 5d
-        Quatro Station               :         des4, after des3, 5d
-        
-```
+[Julkaisusuunnitelma](../04-julkaisusuunnitelma/julkaisusuunnitelma.md)
 
 
 # Palvelun/ohjelmiston arkkitehtuuri 
