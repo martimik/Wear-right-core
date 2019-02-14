@@ -255,11 +255,11 @@ tekstiä
 
 | Ominaisuus | Prioriteetti | Muuta |
 | :-: | :-: | :-: |
-| [Ominaisuus 1 - Feature 1](pohjat/pohja-ominaisuus.md) | Tärkeä | |
-| [Ominaisuus 2](pohjat/pohja-ominaisuus.md) | Tärkeä | |
-| [Ominaisuus 3](pohjat/pohja-ominaisuus.md) | Pakollinen | |
-| [Ominaisuus 4](pohjat/pohja-ominaisuus.md) | Nice to Have | |
-| [Ominaisuus 5](pohjat/pohja-ominaisuus.md) | | |
+| [Ominaisuus 1 - Feature 1](ominaisuudet/ominaisuus1.md) | Pakollinen | |
+| [Ominaisuus 2](ominaisuudet/ominaisuus1.md) | Pakollinen | |
+| [Ominaisuus 3](ominaisuudet/ominaisuus1.md) | Pakollinen | |
+| [Ominaisuus 4](ominaisuudet/ominaisuus1.md) | Tärkeä | |
+| [Ominaisuus 5](ominaisuudet/ominaisuus1.md) | Nice to Have | |
 
 
 ## Hyväksyntätestit
