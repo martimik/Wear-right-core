@@ -135,13 +135,6 @@ Lasse Lehtisen asiakaspolku. Hän aikoo lähteä työmatkalle.
 
 ## Tärkeimmät käyttötapaukset (General Use Cases)
 
-**Millaisia ovat tärkeimmät käyttötapaukset (Use Caset) tuotteeseen/palveluun liittyen? Muista, ettei käyttötapauksella ei tarkoiteta käyttökohdetta/soveltamiskohdetta**
-
-
-tekstiä
-
-**Esimerkit**
-
 * [Käyttötapaus 1 - Uusi asiakas luo tunnuksen]()
 * [Käyttötapaus 2 - Uusi asiaks poistaa tunnukset]()
 
@@ -158,15 +151,6 @@ tekstiä
 
 ## Palveluun liittyvät tärkeimmät toiminnalliset vaatimukset (Functional Requirements)
 
-tekstiä
-
-**Mitä ovat toiminnalliset vaatimukset?**
-
-
-
-
-Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan kokonaisuuteen
-
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
 |:-:|:-:|:-:|:-:|
 | FUNCTIONAL-REQ-C0001 | Functional Requirement | Käyttäjä pystyy luomaan oman profiilin | [Kirjautuminen ft1](ft1-ominaisuus.md) |
@@ -182,11 +166,6 @@ Voit esittää ne taulukossa tai viitata [yhteen](pohjat/pohja-vaatimuslistalle.
 
 ## Palveluun liittyvät tärkeimmät ei-toiminnalliset vaatimukset (Non Functional Requirements)
 
-__Mitä olivat ei-toiminnalliset vaatimukset?__
-
-Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan taulukkoon..
-
-tekstiä
 
 ### Suorituskyky? (Performance)
 
@@ -205,10 +184,6 @@ tekstiä
 | SECURITY-REQ-0002 | Non-Functional Security | Säätietoja ei haeta rajapinnasta käyttäjätasolla | [Kirjautuminen ft1](ft1-ominaisuus.md) |	
 
 ### Käytettävyys
-
-tekstiä
-
-Voit esittää eri vaatimuksia erillisessä taulukossa tai viitata tässä [yhteen](pohjat/pohja-vaatimuslistalle.md) laajempaan taulukkoon..
 
 
 | VaatimusID | Tyyppi | Kuvaus | Ominaisuus johon vaikuttaa |								
@@ -234,12 +209,6 @@ Tässä on palvelun prototyyppi:
 
 
 ## Tärkeimmät tunnistetut ominaisuudet/piirteet (Features)
-
-
-tekstiä
-
-**Mieti ovatko kaikki ominaisuudet tarpeellisia?**
-
 
 
 | Ominaisuus | Prioriteetti | Muuta |
@@ -309,16 +278,12 @@ tekstiä
 
 ### Kaikki vaatimukset listattuna
 
-**Tähän osaan voidaan linkittää vaatimuslista, josta kaikki tunnistetut vaatimukset löytyvät**
 
 * [Linkki vaatimuslistaan](pohjat/vaatimuslista.md)
 
 
 ### Dokumentit, standardit ja lähteet
 
-tekstiä
-
-*Lähteet/Standardit/Suositukset*
 
 | ID | Linkki |  |  
 |:-:|:-:|:-:|
