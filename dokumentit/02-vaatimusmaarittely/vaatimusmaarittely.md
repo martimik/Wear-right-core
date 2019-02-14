@@ -242,9 +242,6 @@ Tässä on palvelun prototyyppi:
 
 
 
-
-
-
 ### Yleinen sijoittelunäkymä (Deployment diagram )
 
 
@@ -280,7 +277,7 @@ Tässä on palvelun prototyyppi:
 ### Kaikki vaatimukset listattuna
 
 
-* [Linkki vaatimuslistaan](pohjat/vaatimuslista.md)
+* [Linkki vaatimuslistaan](pohjat/pohja-vaatimukset-listana.md)
 
 
 ### Dokumentit, standardit ja lähteet
