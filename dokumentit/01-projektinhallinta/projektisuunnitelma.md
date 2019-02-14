@@ -1,6 +1,6 @@
 ## 1 Projektin ja lopputuotteen kuvaus
 
-Tässä dokumentissa kuvataan Wear-Right-projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota.
+Tässä dokumentissa kuvataan Wear Right -projektin taustaa, tavoitteita, tehtäviä, vaihejakoa, resursseja ja organisaatiota.
 Vaihejaon yhteydessä on kuvattu jokainen vaihe erikseen lyhyesti.
 
 
@@ -171,11 +171,8 @@ Riskien hallinta löytyy alla olevasta linkistä.
 
 ## 4.5 Katselmointikäytäntö
 
-Luetellaan ja alustavasti aikataulutetaan projektin tuloskatselmukset laaditun toteutussuunnitelman pohjalta. 
-Esitetään luettelomaisesti, mitä katselmuksia pidetään, alustava ajankohta, käsiteltävät asiat, osallistujat 
-sekä käytännöt katselmointimateriaalin toimittamisesta (mitä, milloin, miten).
-
-Linkit katselmointipöytäkirja pohjiin
+Projektilla on neljä etappia, joissa projektin etenemistä katselmoidaan (E1, E2, E3, E4). Ensimmäinen etappi E1 on viikolla 8.
+Tätä seuraa E2 viikolla 11, E3 viikolla 13 ja E4 viikolla 15.
 
 
 ## 4.6 Projektisuunnitelmaa täydentävät suunnitelmat
@@ -205,11 +202,8 @@ Projektin etenemistä seurataan viikkottaisella tapaamisella projektin tekoa var
 
 ## 6.1 Lopputuotteen luovutus, käyttöönotto
 
-Projektin lopputuote tulee myös dokumentoida järkevällä tasolla. Osana lopputuotetta saattaa olla asiakkaalle tarjottavaa 
-käyttöönottokoulutusta ja mahdollisesti asennus- tai käyttöönotto­palvelua. Mikäli koulutuksen rooli projektin kannalta on huomattava 
-(esimerkiksi ohjelmiston käyttäjät eivät ole olleet mukana projektissa ja eivät tiedä miten järjestelmä toimii) 
-tulee projektisuunnitelmaan liittää suunnitelma asiakkaalle tarjottavasta koulutuksesta. Lisäksi jos on tarpeen, 
-tulee projektisuunnitelmaan liittää myös asennussuunnitelma ja käyttöönottosuunnitelma.
+Lopputuote luovutetaan toimeksiantajalle kurssin päätyttyä. Tähän kuuluu lopullisen tuotteen lähdekoodin lisäksi
+kaikki projektin aikana tuotettu dokumentaatio, projektin loppudokumeentatio ja mahdollinen käytönopastus lopputuotteelle.
 
 
 ## 6.2 Projektin tuottaman aineiston taltiointi, arkistointi ja säilytysaika
@@ -229,7 +223,7 @@ Palautetaan loppuraportti projektin ohjaajalle.
 
 ## 6.5 Projektin loppuraportti
 
-TODO
+Tehdään ennen tuotteen luovuttamista toimeksiantajalle.
 
 
 ## Linkit
