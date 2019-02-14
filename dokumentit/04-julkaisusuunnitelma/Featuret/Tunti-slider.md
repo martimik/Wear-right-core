@@ -7,4 +7,3 @@ olevan tunnin säätietoja hänen paikkakunnallaan.
 
 * Säärajapinnasta tulevat tiedot ovat kolmen tunnin välein alkaen keskiyöstä.
 * Tämän päivän tiedot alkavat lähimpänä olevasta saatavilla olevasta tuntitiedosta
-* Säätietoja on saatavilla tasan 5 vuorokautta, eli vuorokausia tulee 2 vajaata ja 3 täyttä
