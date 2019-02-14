@@ -31,7 +31,7 @@ Versio 1.0
 
 | Ominaisuus | Versio | Testattavissa | Julkaistaan |
 |:-:|:-:|:-:|:-:|
-| [Ensikirjautuminen]() | 1.0 | 25.02.2019 | 10.03.2019 |
+| [Ensikirjautuminen](/Featuret/Ensikirjautuminen.md) | 1.0 | 25.02.2019 | 10.03.2019 |
 | [Päivä-slider]() | 1.0 | 25.02.2019 | 10.03.2019 |
 | [Tunti-slider]() | 1.0 | 25.02.2019 | 10.03.2019 |
 | [Sääinfo]() | 1.0 | 25.02.2019 | 10.03.2019 |
