@@ -256,10 +256,10 @@ tekstiä
 | Ominaisuus | Prioriteetti | Muuta |
 | :-: | :-: | :-: |
 | [Ominaisuus 1 - Feature 1](ominaisuudet/ominaisuus1.md) | Pakollinen | |
-| [Ominaisuus 2](ominaisuudet/ominaisuus1.md) | Pakollinen | |
-| [Ominaisuus 3](ominaisuudet/ominaisuus1.md) | Pakollinen | |
-| [Ominaisuus 4](ominaisuudet/ominaisuus1.md) | Tärkeä | |
-| [Ominaisuus 5](ominaisuudet/ominaisuus1.md) | Nice to Have | |
+| [Ominaisuus 2](ominaisuudet/ominaisuus2.md) | Pakollinen | |
+| [Ominaisuus 3](ominaisuudet/ominaisuus3.md) | Pakollinen | |
+| [Ominaisuus 4](ominaisuudet/ominaisuus4.md) | Tärkeä | |
+| [Ominaisuus 5](ominaisuudet/ominaisuus5.md) | Nice to Have | |
 
 
 ## Hyväksyntätestit
