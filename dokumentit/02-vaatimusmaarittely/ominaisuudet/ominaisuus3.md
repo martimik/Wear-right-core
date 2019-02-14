@@ -1,8 +1,5 @@
 # Ominaisuus - Matkan suunnittelu
 
-[![](http://img.youtube.com/vi/45aSdlg6NK0/0.jpg)](http://www.youtube.com/watch?v=45aSdlg6NK0 "")
-
-
 | | |
 |:-:|:-:|
 | Ominaisuus ID |esim. FT0101 |
