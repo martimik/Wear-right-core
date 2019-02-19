@@ -1,10 +1,4 @@
-# Projektin etusivu
-
-
-Tämä sivusto sisältää esimerkin projektityöympäristöstä, jota voidaan käyttää esim. ohjelmistoprojektin runkona.
-Voit tarvitessasi luoda vastaavan projektin rakenteen käyttämällä valmista [EXPORT-tiedostoa](http://open-project-framework.pages.labranet.jamk.fi/opf-site/).
-
-![](https://openclipart.org/image/300px/svg_to_png/310297/1542412865.png)
+# Etusivu
 
 | Mitä | Vastuullinen | Muuta | Huomiota | 
 |:-:|:-:|:-:|:-:|
