@@ -50,7 +50,8 @@ Yhteensä: 17h
 | Mikko Vornanen | 24.1.2019 | 5h | Sprint 02 |
 | Mikko Vornanen | 31.1.2019 | 5h | Sprint 03 |
 | Mikko Vornanen | 1.2.2019 | 5h| Avoimien säärajapintojen testausta |
-| Mikko Vornanen | - | - | - |
+| Mikko Vornanen | 7.2.2019 | 3h | MindMap |
+| Mikko Vornanen | 14.2.2019 | 3h | Julkaisusuunnitelma ja featuret |
 
 Yhteensä: 29.25h
 
