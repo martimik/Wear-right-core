@@ -22,7 +22,7 @@ Tarjouksen laatiminen toimeksiantajalle, testauksien suunnittelu, vaatimusmäär
   * Valmistaudutaan E1-katselmointiin
   * Tarjous toimeksiantajalle
 
-[Issuet](https://gitlab.labranet.jamk.fi/team-b-2019/core/boards/1212?milestone_title=Sprint%2004&)
+[Issuet](https://gitlab.labranet.jamk.fi/team-b-2019/core/boards/1214?milestone_title=Sprint%2006&)
 
 
 # Tärkeitä linkkejä / Useful links
