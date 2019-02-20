@@ -35,9 +35,9 @@ Yhteensä: 18h
 | Mikko Martikainen | 24.1.2019 | 5h | Sprint 02 |
 | Mikko Martikainen | 31.1.2019 | 4h | Sprint 03 |
 | Mikko Martikainen | 7.2.2019 | 3h | Sprint 04 |
-| Mikko Martikainen | - | - | - |
+| Mikko Martikainen | 14.2.2019 | 4h | Sprint 05 |
 
-Yhteensä: 17h
+Yhteensä: 21h
 
 
 ### Mikko Vornanen
