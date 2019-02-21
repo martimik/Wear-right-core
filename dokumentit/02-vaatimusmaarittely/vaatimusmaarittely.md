@@ -146,7 +146,7 @@ Lasse Lehtisen asiakaspolku. Hän aikoo lähteä työmatkalle.
 |:-:|:-:|:-:|
 | US-01 | Retkeilijänä haluan saada tietää eri paikkojen säästä hyvissä ajoin etukäteen, koska en viivy kauaa yhdessä paikassa. | [Sääinfo](ominaisuus4.md) |
 | US-02 | Lapsiperheen äitinä haluan, että pääsen näkemään nopeasti lapsille säähän sopivat vaatteet, koska olen hyvin kiireinen ihminen. | [Sivuprofiilit](ominaisuus2.md) |
-| US-03 | Käyttäjänä haluan, että tietoni pysyisi sovelluksen tiedoissa, koska se olisi kätevää. | [Käyttäjätiedot ft2](ft2-ominaisuus.md) |
+| US-03 | Käyttäjänä haluan, että tietoni pysyisi sovelluksen tiedoissa, koska se olisi kätevää. | [Profiilin luonti](ominaisuus1.md) |
 
 
 ## Palveluun liittyvät tärkeimmät toiminnalliset vaatimukset (Functional Requirements)
