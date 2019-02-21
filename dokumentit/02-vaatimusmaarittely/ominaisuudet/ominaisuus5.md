@@ -26,8 +26,6 @@ Näytetään käyttäjälle visuaalisesti mitä tietyllä ajankohdalla on puetta
 
 ### Alustavat käyttäjätarinat (User Storys)
 
-*Kirjataan User Storyt alustavasti tähän*
-
 * Käyttäjän haluan, että voin pikaisesti katsoa palvelusta mitä minun puettava
 päälleni tai mitä sivuprofiileilleni on puettava.
 
