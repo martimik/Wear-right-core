@@ -1,27 +1,19 @@
-# Ominaisuus -pohja
-
-[![](http://img.youtube.com/vi/45aSdlg6NK0/0.jpg)](http://www.youtube.com/watch?v=45aSdlg6NK0 "")
-
+# Ominaisuus5 - Pukeutumis kuva
 
 | | |
 |:-:|:-:|
-| Ominaisuus ID |esim. FT0101 |
-| Osajärjestelmä, mihin ominaisuus liittyy | esim laskutus |
-| Ominaisuuden vastuuhenkilö | esim. Mauri Myyrä |
-| Status | esim. hyväksytty |
+| Ominaisuus ID | FT005 |
+| Osajärjestelmä, mihin ominaisuus liittyy | Palvelu |
+| Ominaisuuden vastuuhenkilö |  |
+| Status | hyväksytty |
+
 
 ### Kuvaus
 
-*Kerro mitä ominaisuudella tarkoitetaan ja mitä sen avulla saavutetaan*
-
-Sed non nisi id ligula interdum mattis. Fusce vel ullamcorper nunc. Nulla pharetra dui ut enim semper semper. 
-Aenean ut leo tortor. Fusce felis nibh, malesuada vitae nibh at, rhoncus feugiat leo. Nam vehicula vitae ligula 
-vitae condimentum. Ut maximus metus nec lorem ultrices elementum.
+Näytetään käyttäjälle visuaalisesti mitä tietyllä ajankohdalla on puettava päälle.
 
 
 ### Ominaisuuteen liittyvät rajaukset, vaatimukset käyttötapaukset
-
-*Kerätään tähän kaikki oleelliset asiat, jotka liittyvät ominaisuuden määrittelyyn tai osaltaan määrittävät sitä*
 
 | | |
 |:-:|:-:|
@@ -31,23 +23,13 @@ vitae condimentum. Ut maximus metus nec lorem ultrices elementum.
 | [Vaatimus ReqID]() |  | 
 | [Vaatimus ReqID]() |  | 
 
+
 ### Alustavat käyttäjätarinat (User Storys)
 
 *Kirjataan User Storyt alustavasti tähän*
 
-* Käyttäjän haluan, että voin.....
-* Ylläpitäjänä haluan, että voin.....
-
-**Nämä kannattaa siirtää pian issue kuvauksiksi*
-
-esim. #8 #2
-
-
-### Käyttöliittymänäkymä/mock 
-
-*Tähän kuva/mockup -linkki, joka liittyy oleellisesti ominaisuuteen/toiminnallisuuteen*
-
-![](https://openclipart.org/image/300px/svg_to_png/247488/1461589195.png)
+* Käyttäjän haluan, että voin pikaisesti katsoa palvelusta mitä minun puettava
+päälleni tai mitä sivuprofiileilleni on puettava.
 
 
 ### Testaus / mahdolliset hyväksyntä kriteerit 
@@ -56,11 +38,10 @@ esim. #8 #2
 
 | Testitapaus  | Testin lähde  | Kuka vastaa  |
 |:-: | :-:|:-:|
-| [Testitapaus 1]()  | vaatimus id?   |   |
-| [Testitapaus 2]()  | vaatimus id?   |   |
-| [Testitapaus 3]()  | vaatimus id?   |   |
-| [Testitapaus 4]()  | vaatimus id?   |   |
-| | |
+| [Näkymän pitää päivittyä säätietojen muuttuessa]()  | vaatimus id?   |   |
+| [Näkymässä täytyy näkyä vain henkilön ikään sopivia vaatteita]()  | vaatimus id?   |   |
+| [Näkymässä täytyy näkyä vain henkilön sukuopleen vastaavia vaatteita]()  | vaatimus id?   |   |
+| [Näkymässä pitää näkyä ainakin housut ja paita]()  | vaatimus id?   |   |
 
 
 
