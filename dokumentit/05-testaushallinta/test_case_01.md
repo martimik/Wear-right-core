@@ -1,0 +1,45 @@
+### Testitapaus ID  : TCID001
+
+  * Testitapauksen suunnittelija: Jesse Heikkinen
+  * Luontipvm : 21.02.2019
+
+
+### Päivityshistoria
+
+* versio 0.1 - 21.02.2019 - Jesse Heikkinen - testitapaus luotu
+
+
+### Testitapauksen kuvaus
+
+Testataan kirjautumisen merkkisyötteen oikeellisuuden tarkistusta nimi kentälle
+
+
+### Lähde testille
+
+* [Ominaisuus 1](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/02-vaatimusmaarittely/ominaisuudet/ominaisuus1.md)
+
+
+Minkä pohjalta testi on suunniteltu?
+
+* Ominaisuus 1 - Kirjautuminen
+
+
+### Alkutilanne (Pre-state): 
+
+* Palvelu avattuna selaimeen
+
+
+### Testiaskeleet (Test Steps)
+
+Askel ja odotettu tulos
+
+ 1. Syötetään nimi kenttään nimi, joka sisältää numeron
+ 2. Täytetään muut kentät oikein
+ 3. Painetaan kirjautumis nappia
+ 4. Palvelu näyttää virheilmoituksen
+ 5. Virhe ilmoius kertoo, että nimi kentässä kielettyjä merkkejä
+ 
+ 
+### Huomioitava testin aikana
+
+-
