@@ -27,20 +27,15 @@ Testauksella pyritään selvittämään sovelluksen/palvelun toimivuus. Tarkiste
 
 | Ominaisuus | Otsikko 2 | Otsikko 3 |
 |:-:|:-:|:-:|
-| [Feature1]() | | 
-| [Feature2]() | | 
-| | | 
-| | | 
+| [Feature1](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/02-vaatimusmaarittely/ominaisuudet/ominaisuus1.md) | Profiilin luonti | 
+| [Feature2](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/02-vaatimusmaarittely/ominaisuudet/ominaisuus2.md) | Sivuprofiilit | 
+| [Feature3](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/02-vaatimusmaarittely/ominaisuudet/ominaisuus4.md)| Sääinfo | 
 
 ### Ei-testattavat ominaisuudet (Non tested Features)
 
 | Otsikko 1 | Otsikko 2 | Otsikko 3 |
 |:-:|:-:|:-:|
-| [Feature100]() | | 
-| [Feature21]() | | 
-| [Feature90]() | | 
-| | | 
-
+| [Feature100](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/02-vaatimusmaarittely/ominaisuudet/ominaisuus3.md) | Matkan suunnittelu | 
 
 ## Testausympäristöt (Testing Environments)
 
@@ -48,7 +43,6 @@ Testausympäristönä Testlink.
 
 ### Resurssit ja vastuut (Resources and ...)
 
-* [Linkkit resurssisuunnitelmaan ]()
 
 | Resurssi | Vastuus | Muuta | Yritys |
 |:-:|:-:|:-:|:-:|
@@ -81,18 +75,16 @@ Testataan modulien yhteistoimintaa.
 
 Testataan yksittäisten modulien toimivuutta.
 
-## Testisuunnittelusta
-
-
 
 ## Testaus ja vianhallinnan prosessit
 
 Tutkitaan löytyykö sovelluksesta vikoja. Jos löytyy ne kirjataan ja korjataan. Kun ominaisuus läpäisee testin ja saadaan toivottu lopputulos, se hyväksytään.
 
 * Yleiset hyväksyntä kriteerit?
+Testistä saadaan haluttu tulos
 
 * Yleiset hylkäys kriteerit?
-
+Testi epäonnistuu ja löytyy virheitä
 
 ## Valittu testausstrategia
 
@@ -100,7 +92,7 @@ Testataan mahdollisimman paljon ja usealla tasolla laadun varmistamiseksi.
 
 ## Käytetyt testityövälineet ja ohjelmistot
 
-
+Testlink
 
 ### Toiminnallinentestaus - Functional Testing
 * http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1210
