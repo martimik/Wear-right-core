@@ -72,8 +72,7 @@ Testausympäristönä Testlink.
 
 
 ### Järjestelmän integraatio testaus (System Integration Testing)
-* 
-http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1244
+* http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1244
 
 
 
