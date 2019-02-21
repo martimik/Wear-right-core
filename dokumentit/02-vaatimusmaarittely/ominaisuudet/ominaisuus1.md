@@ -40,11 +40,11 @@ Sukupuoli, Ikä. Nämä oikeellisesti syötettyään hän pääsee käyttämää
 
 | Testitapaus  | Testin lähde  | Kuka vastaa  |
 |:-: | :-:|:-:|
-| [Testitapaus 1]()  | vaatimus id?   |   |
-| [Testitapaus 2]()  | vaatimus id?   |   |
-| [Testitapaus 3]()  | vaatimus id?   |   |
-| [Testitapaus 4]()  | vaatimus id?   |   |
-| | |
+| [Nimi ei voi sisältää muuta kuina aakkosia]()  | vaatimus id?   |   |
+| [Sukupuolta ei voi jättää valitsematta]()  | vaatimus id?   |   |
+| [Paikkakunta voi sisältää vain aakkosia]()  | vaatimus id?   |   |
+| [Ikä ei voi olla pienempi kuin 0]()  | vaatimus id?   |   |
+| [Kirjautua ei voi jos kaikki kentät eivät ole täytetty]() | vaatimus id? |   |
 
 
 
