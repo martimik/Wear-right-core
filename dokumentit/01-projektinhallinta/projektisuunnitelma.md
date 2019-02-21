@@ -85,7 +85,7 @@ Ja valvoo, että projekti etenee hänen haluamaansa suuntaan.
 
 **Mikko Martikainen**
 
-* Koodaus
+* Projektipäälikkö
 
 
 # 3. Projektin ajalliset tavoitteet	
