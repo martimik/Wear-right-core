@@ -76,18 +76,23 @@ Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vul
 In ultricies ultricies ligula, ut suscipit nulla ullamcorper non. Nunc aliquet finibus lorem. Vivamus pretium malesuada nulla a posuere. Pellentesque et bibendum massa. Mauris euismod erat orci, pretium elementum dolor pellentesque et. Vivamus laoreet justo sit amet est ultricies, sit amet rutrum lectus semper. Pellentesque gravida pulvinar ante non semper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras vel dolor fermentum, porttitor mi at, condimentum velit. Pellentesque ut turpis pulvinar, tempor felis sit amet, placerat felis. In hac habitasse platea dictumst.
 
 ### Hyväksyntätestaus (Acceptance Testing)
+* http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1221
 
 suscipit id, commodo id diam. Aliquam lorem urna, maximus in pretium pharetra, mollis eu lacus. Nam nunc erat, aliquet rutrum ultrices quis, fermentum vitae metus. In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus eget, 
 
 ### Järjestelmätestaus (System Testing)
+* http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1209
 
 suscipit id, commodo id diam. Aliquam lorem urna, maximus in pretium pharetra, mollis eu lacus. Nam nunc erat, aliquet rutrum ultrices quis, fermentum vitae metus. In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus eget, 
 
 ### Järjestelmän integraatio testaus (System Integration Testing)
+* 
+http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1244
 
 suscipit id, commodo id diam. Aliquam lorem urna, maximus in pretium pharetra, mollis eu lacus. Nam nunc erat, aliquet rutrum ultrices quis, fermentum vitae metus. In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus eget, 
 
 ### Moduli/komponenttitason testaus (Module / Component Testing)
+* http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1246
 
 suscipit id, commodo id diam. Aliquam lorem urna, maximus in pretium pharetra, mollis eu lacus. Nam nunc erat, aliquet rutrum ultrices quis, fermentum vitae metus. In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus eget, 
 
@@ -109,26 +114,32 @@ In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus ege
 
 ## Käytetyt testityövälineet ja ohjelmistot
 
-### Suorituskykytestaus - Performance Testing
-
-
-Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
-
-* [Liitteeksi esim. ko. osa-alueen testitapaukset](https://gitlab.labranet.jamk.fi/TTOS0800-TTOS0900/esimerkki-projekti-v1/blob/master/projektidokumentit/Exmple_of_test_case_pool.pdf)
-
 ### Toiminnallinentestaus - Functional Testing
+* http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1210
 
 Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
 
 * [Liitteeksi esim. ko. osa-alueen testitapaukset](https://gitlab.labranet.jamk.fi/TTOS0800-TTOS0900/esimerkki-projekti-v1/blob/master/projektidokumentit/Exmple_of_test_case_pool.pdf)
+
+
+### Suorituskykytestaus - Performance Testing
+* http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1212
+
+
+Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
+
+* [Liitteeksi esim. ko. osa-alueen testitapaukset](https://gitlab.labranet.jamk.fi/TTOS0800-TTOS0900/esimerkki-projekti-v1/blob/master/projektidokumentit/Exmple_of_test_case_pool.pdf)
+
 
 ### Tietoturvatestaus
+* http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1214
 
 Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
 
 * [Liitteeksi esim. ko. osa-alueen testitapaukset](https://gitlab.labranet.jamk.fi/TTOS0800-TTOS0900/esimerkki-projekti-v1/blob/master/projektidokumentit/Exmple_of_test_case_pool.pdf)
 
 ### Kuormitustestaus
+* http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1243
 
 Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
 
