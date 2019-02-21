@@ -35,7 +35,7 @@ Testauksella pyritään selvittämään sovelluksen/palvelun toimivuus. Tarkiste
 
 | Otsikko 1 | Otsikko 2 | Otsikko 3 |
 |:-:|:-:|:-:|
-| [Feature100](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/02-vaatimusmaarittely/ominaisuudet/ominaisuus3.md) | Matkan suunnittelu | Tämä poistettiin mockupista | 
+| [Feature100](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/02-vaatimusmaarittely/ominaisuudet/ominaisuus3.md) | Matkan suunnittelu | Poistettiin mockupista | 
 
 ## Testausympäristöt (Testing Environments)
 
