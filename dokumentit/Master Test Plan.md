@@ -52,51 +52,52 @@ Testausympäristönä Testlink.
 
 | Resurssi | Vastuus | Muuta | Yritys |
 |:-:|:-:|:-:|:-:|
-| Henkilö X | Suorituskykytestaus | lomalla heinäkuun | Firm Oy | 
-| Henkilö Y | Tietoturvatestas | Maaliskuun matkoilla | Firm Oy | 
-| Henkilö Z | Toiminnnallinen testaus | 
-| Henkilö Å | Kokeilevat testaus | 
+| Henkilö X | Suorituskykytestaus |  | X | 
+| Henkilö Y | Tietoturvatestas |  | X | 
+| Henkilö Z | Toiminnnallinen testaus |  | X |
+| Henkilö Å | Kokeilevat testaus |  | X |
 
 ## Testaustasot (Testing Levels)
 
-In ultricies ultricies ligula, ut suscipit nulla ullamcorper non. Nunc aliquet finibus lorem. Vivamus pretium malesuada nulla a posuere. Pellentesque et bibendum massa. Mauris euismod erat orci, pretium elementum dolor pellentesque et. Vivamus laoreet justo sit amet est ultricies, sit amet rutrum lectus semper. Pellentesque gravida pulvinar ante non semper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras vel dolor fermentum, porttitor mi at, condimentum velit. Pellentesque ut turpis pulvinar, tempor felis sit amet, placerat felis. In hac habitasse platea dictumst.
+
 
 ### Hyväksyntätestaus (Acceptance Testing)
 * http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1221
 
-suscipit id, commodo id diam. Aliquam lorem urna, maximus in pretium pharetra, mollis eu lacus. Nam nunc erat, aliquet rutrum ultrices quis, fermentum vitae metus. In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus eget, 
+
 
 ### Järjestelmätestaus (System Testing)
 * http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1209
 
-suscipit id, commodo id diam. Aliquam lorem urna, maximus in pretium pharetra, mollis eu lacus. Nam nunc erat, aliquet rutrum ultrices quis, fermentum vitae metus. In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus eget, 
+
 
 ### Järjestelmän integraatio testaus (System Integration Testing)
 * 
 http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1244
 
-suscipit id, commodo id diam. Aliquam lorem urna, maximus in pretium pharetra, mollis eu lacus. Nam nunc erat, aliquet rutrum ultrices quis, fermentum vitae metus. In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus eget, 
+
 
 ### Moduli/komponenttitason testaus (Module / Component Testing)
 * http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1246
 
-suscipit id, commodo id diam. Aliquam lorem urna, maximus in pretium pharetra, mollis eu lacus. Nam nunc erat, aliquet rutrum ultrices quis, fermentum vitae metus. In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus eget, 
+
 
 ## Testisuunnittelusta
 
-Vestibulum molestie diam sit amet pretium pharetra. Praesent sagittis auctor convallis. Nulla augue sapien, ornare vel suscipit id, commodo id diam. Aliquam lorem urna, maximus in pretium pharetra, mollis eu lacus. Nam nunc erat, aliquet rutrum ultrices quis, fermentum vitae metus. In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus eget, ultrices at nibh. Aenean vel turpis eu quam laoreet lobortis in eget tortor. Nunc vel arcu accumsan, finibus erat at, hendrerit elit. Ut fringilla eros a sollicitudin tincidunt.
+
 
 ## Testaus ja vianhallinnan prosessit
 
-Vestibulum molestie diam sit amet pretium pharetra. Praesent sagittis auctor convallis. Nulla augue sapien, ornare vel suscipit id, commodo id diam. Aliquam lorem urna, maximus in pretium pharetra, mollis eu lacus. Nam nunc erat, aliquet rutrum ultrices quis, fermentum vitae metus. In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus eget, ultrices at nibh. Aenean vel turpis eu quam laoreet lobortis in eget tortor. Nunc vel arcu accumsan, finibus erat at, hendrerit elit. Ut fringilla eros a sollicitudin tincidunt.
+Tutkitaan löytyykö sovelluksesta vikoja. Jos löytyy ne kirjataan ja korjataan. Kun ominaisuus läpäisee testin ja saadaan toivottu lopputulos, se hyväksytään.
 
 * Yleiset hyväksyntä kriteerit?
+
 * Yleiset hylkäys kriteerit?
 
 
 ## Valittu testausstrategia
 
-In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus eget, ultrices at nibh. Aenean vel turpis eu quam laoreet lobortis in eget tortor. Nunc vel arcu accumsan, finibus erat at, hendrerit elit. Ut fringilla eros a sollicitudin tincidunt.
+
 
 ## Käytetyt testityövälineet ja ohjelmistot
 
@@ -122,7 +123,6 @@ Testataan, että sovellukseen kirjautuminen on turvallista ja sovellus luotettav
 Testataan, että sovellus kestää useamman käyttäjän yhtäaikaisen käytön ja että sovellukseen pystyy luomaan useampia toimivia lisäkäyttäjiä.
 
 ## Liitteet
-
 
 * http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=816
  
