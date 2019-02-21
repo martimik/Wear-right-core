@@ -136,6 +136,8 @@ Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollici
 ## Liitteet
 
 * [Liitteeksi testitapaukset](https://gitlab.labranet.jamk.fi/TTOS0800-TTOS0900/esimerkki-projekti-v1/blob/master/projektidokumentit/Exmple_of_test_case_pool.pdf)
+* http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=816
+* 
 
 
 
