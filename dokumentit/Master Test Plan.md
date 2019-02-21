@@ -27,15 +27,15 @@ Testauksella pyritään selvittämään sovelluksen/palvelun toimivuus. Tarkiste
 
 | Ominaisuus | Otsikko 2 | Otsikko 3 |
 |:-:|:-:|:-:|
-| [Feature1](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/02-vaatimusmaarittely/ominaisuudet/ominaisuus1.md) | Profiilin luonti | 
-| [Feature2](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/02-vaatimusmaarittely/ominaisuudet/ominaisuus2.md) | Sivuprofiilit | 
-| [Feature3](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/02-vaatimusmaarittely/ominaisuudet/ominaisuus4.md)| Sääinfo | 
+| [Feature1](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/02-vaatimusmaarittely/ominaisuudet/ominaisuus1.md) | Profiilin luonti |  | 
+| [Feature2](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/02-vaatimusmaarittely/ominaisuudet/ominaisuus2.md) | Sivuprofiilit |  | 
+| [Feature3](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/02-vaatimusmaarittely/ominaisuudet/ominaisuus4.md)| Sääinfo |  | 
 
 ### Ei-testattavat ominaisuudet (Non tested Features)
 
 | Otsikko 1 | Otsikko 2 | Otsikko 3 |
 |:-:|:-:|:-:|
-| [Feature100](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/02-vaatimusmaarittely/ominaisuudet/ominaisuus3.md) | Matkan suunnittelu | 
+| [Feature100](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/02-vaatimusmaarittely/ominaisuudet/ominaisuus3.md) | Matkan suunnittelu | Tämä poistettiin mockupista | 
 
 ## Testausympäristöt (Testing Environments)
 
