@@ -22,7 +22,7 @@ Yhteensä: 16h
 | Jesse Heikkinen | 24.1.2019 | 5h | Sprint 02 |
 | Jesse Heikkinen | 31.1.2019 | 4h | Sprint 03 |
 | Jesse Heikkinen | 7.2.2019 | 4h | Sprint 04 |
-| Jesse Heikkinen | 14.2.2019 | - | Sprint 05 |
+| Jesse Heikkinen | 14.2.2019 | 2h | Sprint 05 |
 
 Yhteensä: 18h
 
