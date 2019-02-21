@@ -34,7 +34,11 @@ Käyttäjä voi oman profiilin lisäksi tehdä sivuprofiileja, joille asuvalinna
 
 | Testitapaus  | Testin lähde  | Kuka vastaa  |
 |:-: | :-:|:-:|
-| -  | -   |   |
+| [Sivuprofiilia ei voi luoda syöttämättä hänelle ikää]()  | vaatimus id? |   |
+| [Sivuprofiilia ei voi luoda valitsematta hänelle sukupuolta]()  | vaatimus id? |   |
+| [Ikä voi sisältää vain numeroita]()  | vaatimus id? |   |
+| [Nimi voi sisältää vain aakkosia]()  | vaatimus id? |   |
+| [Paikkakunta voi sisältää vain aakkosia]()  | vaatimus id? |   |
 
 
 
