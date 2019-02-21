@@ -59,27 +59,27 @@ Testausympäristönä Testlink.
 
 ## Testaustasot (Testing Levels)
 
-
+Testejä suoritetaan useammalla eri tasolla laadun varmistamiseksi.
 
 ### Hyväksyntätestaus (Acceptance Testing)
 * http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1221
 
-
+Testataan, että sovellus toimii oikealla tavalla.
 
 ### Järjestelmätestaus (System Testing)
 * http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1209
 
-
+Testataan, että sovellus toimii kokonaisuudessaan vaaditulla tavalla.
 
 ### Järjestelmän integraatio testaus (System Integration Testing)
 * http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1244
 
-
+Testataan modulien yhteistoimintaa.
 
 ### Moduli/komponenttitason testaus (Module / Component Testing)
 * http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1246
 
-
+Testataan yksittäisten modulien toimivuutta.
 
 ## Testisuunnittelusta
 
