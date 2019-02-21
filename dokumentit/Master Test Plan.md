@@ -96,9 +96,11 @@ Tutkitaan löytyykö sovelluksesta vikoja. Jos löytyy ne kirjataan ja korjataan
 
 ## Valittu testausstrategia
 
-
+Testataan mahdollisimman paljon ja usealla tasolla laadun varmistamiseksi.
 
 ## Käytetyt testityövälineet ja ohjelmistot
+
+
 
 ### Toiminnallinentestaus - Functional Testing
 * http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1210
