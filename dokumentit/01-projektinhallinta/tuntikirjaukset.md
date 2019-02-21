@@ -101,7 +101,7 @@ Yhteensä: 40€
 
 | Kuluerä | määrä |  hinta a | Yhteensä |
 |:-:|:-:|:-:|:-:|
-| Työtunnit | 178 | 50 € | 8900€ |   
+| Työtunnit | 138 | 50 € | 6900€ |   
 | Hankinnat | 0 | 0 € | 0 € |
 | *Yhteensä:* |- | - | 4287.5 € |
 
