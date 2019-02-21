@@ -38,11 +38,10 @@ Luodun matkan säätietoja voi tarkistella sliderin avulla, joka liikkuu matkan 
 
 | Testitapaus  | Testin lähde  | Kuka vastaa  |
 |:-: | :-:|:-:|
-| [Testitapaus 1]()  | vaatimus id?   |   |
-| [Testitapaus 2]()  | vaatimus id?   |   |
-| [Testitapaus 3]()  | vaatimus id?   |   |
-| [Testitapaus 4]()  | vaatimus id?   |   |
-| | |
+| [Jos kaupunkia ei löydy täytyy näyttää virhe ilmoitus]()  | vaatimus id?   |   |
+| [Kaupungin nimi saa sisältää vain aakkosia]()  | vaatimus id?   |   |
+| [Kaupungin täytyy sijaita Suomessa]()  | vaatimus id?   |   |
+| [Matkalle täytyy valita tulevia päivämääriä]()  | vaatimus id?   |   |
 
 
 
