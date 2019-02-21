@@ -48,7 +48,7 @@ Testausympäristönä Testlink.
 
 ### Resurssit ja vastuut (Resources and ...)
 
-* [Linkkit resurssisuunnitelmaan ?]()
+* [Linkkit resurssisuunnitelmaan ]()
 
 | Resurssi | Vastuus | Muuta | Yritys |
 |:-:|:-:|:-:|:-:|
