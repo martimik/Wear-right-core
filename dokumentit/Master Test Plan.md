@@ -1,32 +1,18 @@
 # Yleis/päätestaussuunnitelma (Master Test Plan)
 
-![](https://www.youtube.com/upload_thumbnail?v=yKpIpE_bSGQ&t=3)(https://youtu.be/yKpIpE_bSGQ)
-
-![](https://youtu.be/yKpIpE_bSGQ)
-
-
-*Dokumentin versio* 
-
-*omistaja*
-
-# Esimerkkejä:
-
-* [Contriboard MTP](https://github.com/N4SJAMK/teamboard-meta/wiki/master-test-plan)
-* https://www.tampere3.fi/filebank/4380-Liite_9_kaytettavyystestauksen_testaussuunnitelma.pdf
-* http://tryqa.com/what-are-master-test-plans-level-test-plan-examples-when-to-use/
 
 
 # Yleistä 
 
-Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
+Tässä tiedostossa tarkennettua tietoa sovelluksen testaamisesta.
 
 ## Testikohteesta (Test Target / System Under Test)
 
-Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
+Testaamisen kohteena on sovellus, joka kertoo käyttäjälle mitä hänen kannattaisi pukea kyseisenä päivänä ylleen.
 
 ## Testauksen yleiset tavoitteet ja tärkeimmät tehtävät (Test goals and primary needs)
 
-Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
+Testauksella pyritään selvittämään sovelluksen/palvelun toimivuus. Tarkistetaan että sovellus kykenee suorittamaan vaaditut tehtävät toivotulla tavalla. Mahdolliset viat selvitetään ja korjataan. 
 
 ## Aikataulu (Schedule)
 
@@ -58,7 +44,7 @@ Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vul
 
 ## Testausympäristöt (Testing Environments)
 
-Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
+Testausympäristönä Testlink.
 
 ### Resurssit ja vastuut (Resources and ...)
 
@@ -117,38 +103,29 @@ In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus ege
 ### Toiminnallinentestaus - Functional Testing
 * http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1210
 
-Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
-
-* [Liitteeksi esim. ko. osa-alueen testitapaukset](https://gitlab.labranet.jamk.fi/TTOS0800-TTOS0900/esimerkki-projekti-v1/blob/master/projektidokumentit/Exmple_of_test_case_pool.pdf)
-
+Testataan sovelluksen toiminnallisia ominaisuuksia. Painikkeita painamalla pitää saada haluttu toiminta käynnistymään. 
 
 ### Suorituskykytestaus - Performance Testing
 * http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1212
 
-
-Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
-
-* [Liitteeksi esim. ko. osa-alueen testitapaukset](https://gitlab.labranet.jamk.fi/TTOS0800-TTOS0900/esimerkki-projekti-v1/blob/master/projektidokumentit/Exmple_of_test_case_pool.pdf)
+Testataan, että sovellus toimii annetuissa aikarajoissa. 
 
 
 ### Tietoturvatestaus
 * http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1214
 
-Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
-
-* [Liitteeksi esim. ko. osa-alueen testitapaukset](https://gitlab.labranet.jamk.fi/TTOS0800-TTOS0900/esimerkki-projekti-v1/blob/master/projektidokumentit/Exmple_of_test_case_pool.pdf)
+Testataan, että sovellukseen kirjautuminen on turvallista ja sovellus luotettava.
 
 ### Kuormitustestaus
 * http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=1243
 
-Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
-
+Testataan, että sovellus kestää useamman käyttäjän yhtäaikaisen käytön ja että sovellukseen pystyy luomaan useampia toimivia lisäkäyttäjiä.
 
 ## Liitteet
 
-* [Liitteeksi testitapaukset](https://gitlab.labranet.jamk.fi/TTOS0800-TTOS0900/esimerkki-projekti-v1/blob/master/projektidokumentit/Exmple_of_test_case_pool.pdf)
+
 * http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=TCB&item=testsuite&id=816
-* 
+ 
 
 
 
