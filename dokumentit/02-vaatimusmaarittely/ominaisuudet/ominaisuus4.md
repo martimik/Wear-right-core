@@ -35,4 +35,4 @@ Infolaatikko sivuilla, josta n채kee valitun p채iv채n ja siit채 valitun tunnin s�
 
 | Testitapaus  | Testin l채hde  | Kuka vastaa  |
 |:-: | :-:|:-:|
-| [Testitapaus 1]()  | vaatimus id?   |   |
+| [Infolaatikon on p채ivitytt채v채 ajankohdan muuttuessa]()  | vaatimus id?   |   |
