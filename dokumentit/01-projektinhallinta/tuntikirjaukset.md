@@ -24,7 +24,7 @@ Yhteensä: 16h
 | Jesse Heikkinen | 7.2.2019 | 4h | Sprint 04 |
 | Jesse Heikkinen | 14.2.2019 | 2h | Sprint 05 |
 
-Yhteensä: 18h
+Yhteensä: 20h
 
 
 ### Mikko Martikainen
