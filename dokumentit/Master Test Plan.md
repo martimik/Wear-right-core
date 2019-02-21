@@ -16,11 +16,11 @@ Testauksella pyritään selvittämään sovelluksen/palvelun toimivuus. Tarkiste
 
 ## Aikataulu (Schedule)
 
-* [Linkki projektisuunnitelmaan?]()
+* [Linkki projektisuunnitelmaan](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/01-projektinhallinta/projektisuunnitelma.md)
 
 ## Julkaisusuunnitelma (Release Plan)
 
-* [Linkki alustavaan julkaisusuunnitelmaan ?]()
+* [Linkki alustavaan julkaisusuunnitelmaan ](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/04-julkaisusuunnitelma/julkaisusuunnitelma.md)
 
 ### Testattavat ominaisuudet (Tested Features)
 
