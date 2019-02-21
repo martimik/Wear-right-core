@@ -1,7 +1,7 @@
 # Riskihallintasuunnitelma
 
-| RISKI ID |	Kuvaus | Vakavuus | Todennäköisyys | Kuka vastaa | Miten toimitaan, jos riski "eskaloituu" | 
-|:--:|:--:|:--:|:--:|:--:|:--:|
+| RISKI ID |	Kuvaus | Vakavuus | Todennäköisyys | Miten toimitaan, jos riski "eskaloituu" | 
+|:--:|:--:|:--:|:--:|:--:|
 | RIS01 | Ryhmän jäsen sairastuu  |  V4 | 100% | Ilmoita tiimille. |
 | RIS02 | Ryhmän jäsen keskeyttää kurssin suorituksen | V2 | ~5% | Sovitaan uudesta työnjaosta projektiryhmän kesken |
 | RIS03 | Projektissa käytettävä säätiedon rajapinta suljetaan | V2 | <1% | Sovitaan projektiryhmän kesken uudesta käytettävästä rajapinnasta |
