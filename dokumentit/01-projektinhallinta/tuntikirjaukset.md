@@ -63,24 +63,24 @@ Yhteensä: 29.25h
 | Oskari Seppä | 17.1.2019 | 7.25h | - |
 | Oskari Seppä | 24.1.2019 | 5h | Sprint 02 |
 | Oskari Seppä | 31.1.2019 | 5h | Sprint 03 |
-| Oskari Seppä | 7.2.2019 | 5h | Sprint 04 |
-| Oskari Seppä | 14.2.2019 | 5h | Sprint 05 |
-| Oskari Seppä | 21.2.2019 | - | Sprint 06 |
+| Oskari Seppä | 7.2.2019 | - | - |
+| Oskari Seppä | - | - | - |
 
-Yhteensä: 27.25h
+Yhteensä: 7.25h
 
 
 ### Suvi Lauritsalo
 
 | Tekijä | Päivämäärä | Tunnit | Mitä tehtiin |
 |:-:|:-:|:-:|:-:|
-| Suvi Lauritsalo | 17.1.2019 | 7.25h | - |
-| Suvi Lauritsalo | - | - | - |
-| Suvi Lauritsalo | - | - | - |
-| Suvi Lauritsalo | - | - | - |
-| Suvi Lauritsalo | - | - | - |
+| Suvi Lauritsalo | 17.1.2019 | 7.25h | Sprint 01 |
+| Suvi Lauritsalo | 24.1.2019 | 5h | Sprint 02|
+| Suvi Lauritsalo | 31.1.2019 | 2h | Sprint 03 |
+| Suvi Lauritsalo | 7.2.2019 | 2h | Sprint 04 |
+| Suvi Lauritsalo | 14.2.2019 | 3h | Sprint 05, Testlink |
+| Suvi Lauritsalo | 14.2.2019 | - | Sprint 06 |
 
-Yhteensä: 7.25h
+Yhteensä: 24,25h
 
 
 ### Hankinnat projektille
