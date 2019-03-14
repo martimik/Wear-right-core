@@ -1,15 +1,14 @@
 # Status
 
-* Date: 19.2.2019
+* Date: 14.3.2019
 * Team: Team Hydralist
-* Cumulative-working-hours: 144
+* Cumulative-working-hours: 150
 * Current-bill: 1 000 000€
 
 
 # Miten homma etenee / Current Progress
 
-Tarjouksen laatiminen toimeksiantajalle, testauksien suunnittelu, vaatimusmäärrittelyn viimeistely ym
-
+* Palvelun kehitysversio on saatu ajettua ylös ja kirjautuminen sekä säätietojen hakeminen onnistuu.
 
 # Ongelmakohdat / Problems ahead
 
@@ -18,9 +17,10 @@ Tarjouksen laatiminen toimeksiantajalle, testauksien suunnittelu, vaatimusmäär
 
 # Mitä seuraavaksi / What next
 
-* Sprint 6
-  * Valmistaudutaan E1-katselmointiin
-  * Tarjous toimeksiantajalle
+* Ominaisuuksien kehittämistä
+
+* Sprint 9
+  * Valmistaudutaan E2-katselmointiin
 
 [Issuet](https://gitlab.labranet.jamk.fi/team-b-2019/core/boards/1214?milestone_title=Sprint%2006&)
 
