@@ -36,11 +36,11 @@ Versio 1.0
 | [Tunti-slider](Featuret/Tunti-slider.md) | 1.0 | 25.02.2019 | 10.03.2019 |
 | [Sääinfo](Featuret/Sääinfo.md) | 1.0 | 25.02.2019 | 10.03.2019 |
 | [Tietojen päivitys](Featuret/Tietojenpäivitys.md) | 1.0 | 29.02.2019 | 06.03.2019 |
-| [Vaateinfo(tekstinä)](Featuret/Vaateinfo(tekstinä).md) | 1.0 | 03.03.2019 | 10.03.2019 |
-| [Suosikkipaikkakunta](Featuret/Suosikkipaikkakunta.md) | 1.0 | 03.03.2019 | 10.03.2019 |
+| [Vaateinfo(tekstinä)](Featuret/Vaateinfo(tekstinä).md) | 1.0 | 21.03.2019 | 10.03.2019 |
+| [Suosikkipaikkakunta](Featuret/Suosikkipaikkakunta.md) | 1.0 | 21.03.2019 | 10.03.2019 |
 | [Vaateinfo(kuvina)](Featuret/Vaateinfo(kuvina).md) | 1.0 | 30.03.2019 | TBD |
 | [Sivuprofiilit](Featuret/Sivuprofiilit.md) | 1.0 | 15.03.2019 | 01.04.2019 |
-| [Sivuprofiilivaateinfo(tekstinä)](Featuret/Sivuprofiilivaateinfo(tekstinä).md) | 1.0 | 15.03.2019 | 01.04.2019 |
+| [Sivuprofiilivaateinfo(tekstinä)](Featuret/Sivuprofiilivaateinfo(tekstinä).md) | 1.0 | 21.03.2019 | 01.04.2019 |
 | [Sivuprofiilivaateinfo(kuvina)](Featuret/Sivuprofiilivaateinfo(kuvina).md) | 1.0 | 30.03.2019 | TBD|
 | [Matkat](Featuret/Matkat.md) | 1.0 | 30.03.2019 | TBD |
 
