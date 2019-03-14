@@ -256,7 +256,7 @@ Tässä on palvelun prototyyppi:
 
 ### Tietokantakuvaus (Database ER-diagram)
 
- Tähän esim alustava __ER-kaavio__
+![wrdb](kuvat/wrdb_eer.png)
 
 # Testauksen vaatimukset (Testing requirements)
 
