@@ -70,9 +70,11 @@ Yhteensä: 29.25h
 | Oskari Seppä | 31.1.2019 | 5h | Sprint 03 |
 | Oskari Seppä | 7.2.2019 | 5h | Sprint 04 |
 | Oskari Seppä | 14.2.2019 | 5h | Sprint 05 |
-| Oskari Seppä | 21.2.2019 | - | Sprint 06 |
+| Oskari Seppä | 21.2.2019 | 4h | Sprint 06 |
+| Oskari Seppä | 14.3.2019 | 3h | Sprint 08 |
+| Oskari Seppä | 21.3.2019 | 3h | Sprint 08 |
 
-Yhteensä: 27.25h
+Yhteensä: 37.25h
 
 
 
