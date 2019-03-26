@@ -13,13 +13,13 @@
 
 # Ongelmakohdat / Problems ahead
 
-*
+* 
 
 
 # Mitä seuraavaksi / What next
 
 ## Ominaisuuksien kehitys
-* Matkan luomine
+* Matkan luominen
 * Kuvalliset vaatesuositukset
 
 [Issuet](https://gitlab.labranet.jamk.fi/team-b-2019/core/boards/1214?milestone_title=Sprint%2006&)
