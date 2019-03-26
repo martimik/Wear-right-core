@@ -8,7 +8,7 @@
 
 # Miten homma etenee / Current Progress
 
-* Palvelun kehitysversio on saatu ajettua ylös ja kirjautuminen sekä säätietojen hakeminen onnistuu.
+* Palvelun kehitysversio on saatu ajettua ylös. Profiilin luominen, sivuprofiilien lisääminen sekä säätietojen hakeminen eri kaupungeista onnistuu.
 
 
 # Ongelmakohdat / Problems ahead
