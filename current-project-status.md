@@ -8,8 +8,11 @@
 
 # Miten homma etenee / Current Progress
 
-* Palvelun kehitysversio on saatu ajettua ylös. Profiilin luominen, sivuprofiilien lisääminen sekä säätietojen hakeminen eri kaupungeista onnistuu
-
+* Palvelun kehitysversio on saatu ajettua ylös.
+* Profiilin luominen.
+* Tietojen tallentaminen paikallisesti.
+* Sivuprofiilien lisääminen.
+* Säätietojen hakeminen eri kaupungeista.
 
 # Ongelmakohdat / Problems ahead
 
@@ -20,7 +23,8 @@
 
 ## Ominaisuuksien kehitys
 * Matkan luominen
-* Kuvalliset vaatesuositukset
+* Kuvalliset vaatesuositukse
+* Säätietojen hakeminen lokaatiotietojen avulla
 
 [Issuet](https://gitlab.labranet.jamk.fi/team-b-2019/core/boards/1214?milestone_title=Sprint%2006&)
 
