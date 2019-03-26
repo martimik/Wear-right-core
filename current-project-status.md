@@ -1,14 +1,14 @@
 # Status
 
-* Date: 14.3.2019
+* Date: 21.3.2019
 * Team: Team Hydralist
-* Cumulative-working-hours: 158
+* Cumulative-working-hours: 198h
 * Current-bill: 6900€
 
 
 # Miten homma etenee / Current Progress
 
-* Palvelun kehitysversio on saatu ajettua ylös. Profiilin luominen, sivuprofiilien lisääminen sekä säätietojen hakeminen eri kaupungeista onnistuu.
+* Palvelun kehitysversio on saatu ajettua ylös. Profiilin luominen, sivuprofiilien lisääminen sekä säätietojen hakeminen eri kaupungeista onnistuu
 
 
 # Ongelmakohdat / Problems ahead
@@ -18,9 +18,9 @@
 
 # Mitä seuraavaksi / What next
 
-* Ominaisuuksien kehittämistä
-* Sprint 9
-  * Valmistaudutaan E2-katselmointiin
+## Ominaisuuksien kehitys
+* Matkan luomine
+* Kuvalliset vaatesuositukset
 
 [Issuet](https://gitlab.labranet.jamk.fi/team-b-2019/core/boards/1214?milestone_title=Sprint%2006&)
 
