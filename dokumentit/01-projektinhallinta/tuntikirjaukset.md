@@ -78,6 +78,7 @@ Yhteensä: 34h
 | Mikko Vornanen | 22.3.2019 | 3h | Prototyypin työstöä / frontend koodia |
 | Mikko Vornanen | 25.3.2019 | 2h | Prototyypin työstöä / frontend koodia |
 | Mikko Vornanen | 25.3.2019 | 1h | Katselmointi E2 |
+
 Yhteensä: ~100h
 
 
