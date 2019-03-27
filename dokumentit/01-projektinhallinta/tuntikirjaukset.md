@@ -59,8 +59,26 @@ Yhteensä: 34h
 | Mikko Vornanen | 1.2.2019 | 5h| Avoimien säärajapintojen testausta |
 | Mikko Vornanen | 7.2.2019 | 3h | MindMap |
 | Mikko Vornanen | 14.2.2019 | 3h | Julkaisusuunnitelma ja featuret |
-
-Yhteensä: 29.25h
+| Mikko Vornanen | 21.2.2019 | 4h | Prototyypin työstöä / frontend koodia |
+| Mikko Vornanen | 24.2.2019 | 4h | Prototyypin työstöä / frontend koodia |
+| Mikko Vornanen | 25.2.2019 | 4h | Prototyypin työstöä / frontend koodia |
+| Mikko Vornanen | 26.2.2019 | 4h | Prototyypin työstöä / frontend koodia |
+| Mikko Vornanen | 27.2.2019 | 5h | Prototyypin työstöä / frontend koodia |
+| Mikko Vornanen | 3.3.2019 | 2h | Prototyypin työstöä / frontend koodia |
+| Mikko Vornanen | 4.3.2019 | 3h | Prototyypin työstöä / frontend koodia |
+| Mikko Vornanen | 5.3.2019 | 4h | Prototyypin työstöä / frontend koodia |
+| Mikko Vornanen | 7.3.2019 | 4h | Prototyypin työstöä / frontend koodia |
+| Mikko Vornanen | 10.3.2019 | 2h | Prototyypin työstöä / frontend koodia |
+| Mikko Vornanen | 17.3.2019 | 3h | Prototyypin työstöä / frontend koodia |
+| Mikko Vornanen | 18.3.2019 | 4h | Prototyypin työstöä / frontend koodia |
+| Mikko Vornanen | 19.3.2019 | 5h | Prototyypin työstöä / frontend koodia |
+| Mikko Vornanen | 20.3.2019 | 5h | Prototyypin työstöä / frontend koodia |
+| Mikko Vornanen | 21.3.2019 | 2h | Prototyypin työstöä / frontend koodia |
+| Mikko Vornanen | 21.3.2019 | 3h | Sprint 8 |
+| Mikko Vornanen | 22.3.2019 | 3h | Prototyypin työstöä / frontend koodia |
+| Mikko Vornanen | 25.3.2019 | 2h | Prototyypin työstöä / frontend koodia |
+| Mikko Vornanen | 25.3.2019 | 1h | Katselmointi E2 |
+Yhteensä: ~100h
 
 
 ### Oskari Seppä
