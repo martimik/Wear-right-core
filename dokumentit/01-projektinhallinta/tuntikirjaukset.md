@@ -97,8 +97,9 @@ Yhteensä: ~100h
 | Oskari Seppä | 21.2.2019 | 4h | Sprint 06 |
 | Oskari Seppä | 14.3.2019 | 3h | Sprint 08 |
 | Oskari Seppä | 21.3.2019 | 3h | Sprint 08 |
+| Oskari Seppä | 21.3.2019 | 2.5h | Käytettävyystestaus |
 
-Yhteensä: 37.25h
+Yhteensä: 39.75h
 
 
 
