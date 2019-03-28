@@ -2,8 +2,8 @@
 
 * Date: 21.3.2019
 * Team: Team Hydralist
-* Cumulative-working-hours: 198h
-* Current-bill: 6900€
+* Cumulative-working-hours: ~247h
+* Current-bill: 12 365€
 
 
 # Miten homma etenee / Current Progress
@@ -20,6 +20,8 @@
 
 
 # Mitä seuraavaksi / What next
+
+* käytettävyystestaus
 
 ## Ominaisuuksien kehitys
 * Matkan luominen
