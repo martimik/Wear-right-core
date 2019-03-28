@@ -44,9 +44,10 @@ Yhteensä: 20h
 | Mikko Martikainen | 21.3.2019 | 3h | Sprint 08 |
 | Mikko Martikainen | 22.3.2019 | 2h | testlink |
 | Mikko Martikainen | 25.3.2019 | 1h | Katselmointi E2 |
+| Mikko Martikainen | 28.3.2019 | 4h | Käytettävyystestaus |
 
 
-Yhteensä: 35h
+Yhteensä: 39h
 
 
 ### Mikko Vornanen
