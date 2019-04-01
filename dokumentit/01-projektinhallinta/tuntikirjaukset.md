@@ -112,9 +112,11 @@ Yhteensä: 39.75h
 | Suvi Lauritsalo | 31.1.2019 | 2h | Sprint 03 |
 | Suvi Lauritsalo | 7.2.2019 | 2h | Sprint 04 |
 | Suvi Lauritsalo | 14.2.2019 | 3h | Sprint 05, Testlink |
-| Suvi Lauritsalo | 14.2.2019 | - | Sprint 06 |
+| Suvi Lauritsalo | 21.2.2019 | 1h | Sprint 6 |
+| Suvi Lauritsalo | 7.3.2019 | 2h | Sprint 8 |
+| Suvi Lauritsalo | 21.3.2019 | 2h | Sprint 9, Testlink |
 
-Yhteensä: 24,25h
+Yhteensä: 24.25h
 
 
 ### Hankinnat projektille
