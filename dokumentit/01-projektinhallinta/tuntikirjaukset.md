@@ -33,7 +33,7 @@ Yhteensä: 35.5h
 | Jesse Heikkinen | 21.3.2019 | 3h | Database |
 | Jesse Heikkinen | 4.4.2019 | 3h | Database |
 
-Yhteensä: 32h
+Yhteensä: 35h
 
 
 ### Mikko Martikainen
