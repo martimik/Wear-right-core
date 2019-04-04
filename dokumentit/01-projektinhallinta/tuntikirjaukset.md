@@ -38,17 +38,17 @@ Yhteensä: 20h
 | Mikko Martikainen | 17.1.2019 | 5h | Projektinhallinta |
 | Mikko Martikainen | 24.1.2019 | 5h | Sprint 02 |
 | Mikko Martikainen | 31.1.2019 | 4h | Sprint 03 |
-| Mikko Martikainen | 7.2.2019 | 3h | Sprint 04 |
-| Mikko Martikainen | 14.2.2019 | 4h | Sprint 05 |
+| Mikko Martikainen | 7.2.2019 | 4h | Sprint 04 |
+| Mikko Martikainen | 14.2.2019 | 5h | Sprint 05 |
 | Mikko Martikainen | 21.2.2019 | 4h | Sprint 06 |
 | Mikko Martikainen | 14.3.2019 | 4h | Sprint 08 |
 | Mikko Martikainen | 21.3.2019 | 3h | Sprint 08 |
-| Mikko Martikainen | 22.3.2019 | 2h | testlink |
+| Mikko Martikainen | 22.3.2019 | 4h | testlink testitapaukset |
 | Mikko Martikainen | 25.3.2019 | 1h | Katselmointi E2 |
 | Mikko Martikainen | 28.3.2019 | 4h | Käytettävyystestaus |
 
 
-Yhteensä: 39h
+Yhteensä: 43h
 
 
 ### Mikko Vornanen
