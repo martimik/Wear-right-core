@@ -31,6 +31,7 @@ Yhteensä: 35.5h
 | Jesse Heikkinen | 7.3.2019 | 2h | Sprint 08 |
 | Jesse Heikkinen | 14.3.2019 | 3h | Sprint 08 |
 | Jesse Heikkinen | 21.3.2019 | 3h | Database |
+| Jesse Heikkinen | 4.4.2019 | 3h | Database |
 
 Yhteensä: 32h
 
