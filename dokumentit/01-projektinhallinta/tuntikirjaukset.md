@@ -50,9 +50,10 @@ Yhteensä: 32h
 | Mikko Martikainen | 22.3.2019 | 4h | testlink testitapaukset |
 | Mikko Martikainen | 25.3.2019 | 1h | Katselmointi E2 |
 | Mikko Martikainen | 28.3.2019 | 4h | Käytettävyystestaus |
+| Mikko Martikainen | 4.4.2019 | 4h | Käytettävyystestaus |
 
 
-Yhteensä: 43h
+Yhteensä: 47h
 
 
 ### Mikko Vornanen
