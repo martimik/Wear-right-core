@@ -7,7 +7,7 @@
 
 
 ## Palautelomake
-*[Linkki lomakkeeseen](https://forms.gle/AN3aC5TM7AMQFXAm9)
+* [Linkki lomakkeeseen](https://forms.gle/AN3aC5TM7AMQFXAm9)
 
 ## Mistä saa lisää tietoa tiimistä?
 
