@@ -122,8 +122,9 @@ Yhteensä: 44.25h
 | Suvi Lauritsalo | 21.2.2019 | 1h | Sprint 6 |
 | Suvi Lauritsalo | 7.3.2019 | 2h | Sprint 8 |
 | Suvi Lauritsalo | 21.3.2019 | 2h | Sprint 9, Testlink |
+| Suvi Lauritsalo | 6.4.2019 | 2h | Ylläpidettävyys raportti |
 
-Yhteensä: 24.25h
+Yhteensä: 26.25h
 
 
 ### Hankinnat projektille
