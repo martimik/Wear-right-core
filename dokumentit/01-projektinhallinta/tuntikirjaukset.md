@@ -14,8 +14,11 @@ Tuntikirjaukset ja kulut projektissa Wear-Right
 | Claudia Viita | 7.3.2019 | 3h | Sprint 8 |
 | Claudia Viita | 21.3.2019 | 3.5h | Sprint 9 |
 | Claudia Viita | 28.3.2019 | 4h | Asustegrafiikan suunnittelu |
+| Claudia Viita | 4.4.2019 | 2.5h | Asustegrafiikan suunnittelu |
+| Claudia Viita | 11.4.2019 | 3.5h | Asustegrafiikan suunnittelu |
+| Claudia Viita | 16.4.2019 | 6h | Asustegrafiikan suunnittelu |
 
-Yhteensä: 35.5h
+Yhteensä: 47h
 
 
 ### Jesse Heikkinen
