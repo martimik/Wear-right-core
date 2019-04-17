@@ -31,12 +31,13 @@ Yhteensä: 47h
 | Jesse Heikkinen | 7.2.2019 | 4h | Sprint 04 |
 | Jesse Heikkinen | 14.2.2019 | 2h | Sprint 05 |
 | Jesse Heikkinen | 21.2.2019 | 4h | Sprint 06 |
-| Jesse Heikkinen | 7.3.2019 | 2h | Sprint 08 |
+| Jesse Heikkinen | 7.3.2019 | 3h | Sprint 08 |
 | Jesse Heikkinen | 14.3.2019 | 3h | Sprint 08 |
-| Jesse Heikkinen | 21.3.2019 | 3h | Database |
-| Jesse Heikkinen | 4.4.2019 | 3h | Database |
+| Jesse Heikkinen | 21.3.2019 | 4h | Database |
+| Jesse Heikkinen | 4.4.2019 | 4h | Database |
+| Jesse Heikkinen | 11.4.2019 | 6h | Testisuunnitteli/Regressiotestaus |
 
-Yhteensä: 35h
+Yhteensä: 44h
 
 
 ### Mikko Martikainen
