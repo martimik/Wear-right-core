@@ -1,28 +1,20 @@
 # Projektin loppuraportti
 
-[![](https://i.ytimg.com/vi/ovEr1fBB7kU/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBn8onqOvY-j6AbsUazWUWsp1zQ8g)](https://www.youtube.com/watch?v=ovEr1fBB7kU&list=PLOyRnRI1_Cl47Q6tiFByWSVBialcz_bxp&index=7)
-
-
 # 1.	JOHDANTO	
-Loppuraportissa tulee ensisijaisesti vastata kysymyksiin: mitä ja miten tehtiin, miksi tehtiin, missä onnistuttiin, mikä meni pieleen, miksi ja miten ongelmat ratkaistiin ja mitä itse asiassa opittiin.
-Kerro johdannossa aluksi lyhyesti mihin projektiin tämä dokumentti liittyy, mitä osapuolia projektissa oli mukana (projektin organisaatio) ja mikä on tämän dokumentin tarkoitus ja sisältö.
+
+ Tässä dokumentissa käsitellään Team-B:n tuottamaa Wear-Right palvelua ja sitä, kuinka projektille asetetut tavoitteet saavutettiin. Työn tilaajana toimi Marja-Leena Tenhunen ja opintojakson ohjaajana Marko Rintamäki.
 
 # 2.	TEHTÄVÄ, TAVOITE, TULOKSET
 
-
-
 ## 2.1.	Yhteenveto projektin toteumasta
 
-* Koko projektin toteuma (projektisuunnitelman tavoitteisiin ja tehtäviin peilaten): 
-* mitä piti tehdä (eli kertokaa ensin lyhyesti projektin tavoite/tarkoitus), 
-* mitä tehtiin (liitteenä voi olla projektin tulosten yhteenveto), 
-* miten onnistuttiin
+Projektin tavoitteena oli luoda web-pohjainen palvelu, jonka pääasiallisena toimintona on antaa pukeutumissuosituksia säätietojen mukaan. Palvelusta saatiin aikaan demo, jossa palveluun voidaan luoda käyttäjä joka tallentuu laitteeseen, muokata profiilia sekä lisätä sivuprofiileja, hakea säätietoja ja vaatesuosituksia tietyltä ajankohdalta sekä eri paikkakunnilta. Toisena pääominaisuutena haluttu matkojen suunnittelu jäi demoversiossa vielä keskeneräiseksi ajan loppuessa. Projektin tuotoksessa onnistuttiin kohtalaisen hyvin, palvelun päätoiminnallisuudet toimivat stabiilisti ja käyttöliittymä on selkeä sekä miellyttävä käyttää. 
+
+[Linkki palvelun demoversioon](http://team-b-2019.pages.labranet.jamk.fi/source/login)
 
 ## 2.2.	 Projektin onnistuminen (suunnitelma vs. toteutuma)
-Projektiprosessin osalta raportissa esitellään ainakin seuraavat asiakokonaisuudet:
-*	prosessin rakenne: vaiheet ja tehtävät, niiden toteutusperiaatteet ja aikataulut
-*	projektin sisäiset aikaresurssit: suunnitellut ja toteutuneet vaiheittain ja viikoittain, jakauma tehtävittäin (varsinainen sisältö ja projektin hallinta)
-*	projektin ulkopuoliset resurssit: konsultaatiot, koulutus, katselmoinnit, testaukset jne.
+
+Projektiin kuului useita vaiheita kuten suunnittelu, tekninen dokumentaatio, demopalvelun koodaus sekä testaus. Näiden ohella osana projektia oli myös asiakastapaamiset, katselmoinnit sekä sopimuksen allekirjoittaminen. Kaikki vaiheet toteutettiin jaetusti projektiryhmän kesken ja yleinen aikautulusuunnitelma löytyy [täältä](http://ttos0800-ttos0900.pages.labranet.jamk.fi/amk-2019/yleiset/aikataulu/). Projektin aikaresurssien suunniteltu jakauma ja toteutuneet tunnit osa-alueittain mukaan löytyvät [tuntikirjauksista](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/01-projektinhallinta/tuntikirjaukset.md). Ulkopuolisista resursseista vastasivat tuotteen tilaaja sekä kurssin ohjaaja.
 
 # 3.	ONGELMAT JA NIIDEN RATKAISUT
 
