@@ -58,9 +58,9 @@ Yhteensä: 44h
 | Mikko Martikainen | 25.3.2019 | 1h | Katselmointi E2 |
 | Mikko Martikainen | 28.3.2019 | 4h | Käytettävyystestaus |
 | Mikko Martikainen | 4.4.2019 | 4h | Käytettävyystestaus |
+| Mikko Martikainen | 18.4.2019 | 5h | Loppudokumentaatio |
 
-
-Yhteensä: 47h
+Yhteensä: 52h
 
 
 ### Mikko Vornanen
