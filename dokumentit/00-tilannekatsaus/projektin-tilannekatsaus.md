@@ -2,7 +2,7 @@
 
 * Date: 18.4.2019
 * Team: Team Hydralist
-* Cumulative-working-hours: 310
+* Cumulative-working-hours: 311
 * Current-bill: 1 000 000€
 
 
