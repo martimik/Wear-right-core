@@ -4,60 +4,58 @@
 
 ## Lyhesti tiimistä
 
-Nec alterum legimus persecuti in, ea duo consul utroque percipitur. Nec tale aliquam mnesarchum ea. In elit noluisse moderatius qui. Has ea doctus officiis concludaturque, amet dicat suavitate nam te.
+Team-B: 
+
+* Projektipäälikkö: Mikko Martikainen
+* Front-end dev: Mikko Vornanen
+* Backend dev: Oskari Seppä
+* Graafinen suunnittelija: Claudia Viita
+* Testaus: Jesse Heikkinen ja Suvi Lauritsalo
 
 
 ## Mitä asiakas tilasi?
 
-Id propriae reprehendunt nec, audiam oportere in nam. No alia abhorreant mel, at eam erat reque conceptam. No eum audire habemus principes, ut exerci persius usu. Vis an quando epicuri conclusionemque.
+Wear-Right palvelu, joka tarjoaa pukeutumissuosituksia halutulle ajankohdalle ja paikkakunnalle säätietojen mukaan. Palveluun saadaan myös tallennettua profiili joka sisältää käyttäjän perustiedot sekä sivuprofiilit. Lisäksi palvelun avulla tulisi pystyä suunnittelemaan matka ja saada sille säätiedot sekä pukeutumissuositukset.
 
 
 ## Mihin keskityttiin ja miten työ eteni?
 
-Ut copiosae phaedrum ullamcorper vix, ea vis alia aliquam. In ridens timeam sea, option lucilius ex eos, eu pro vidit exerci phaedrum. In nec case mucius facilisis. Ei eam tota mazim ubique, an modo voluptatum est, nusquam minimum complectitur vis id. Volutpat intellegat forensibus in sit.
+Aloitusvaiheen dokumentaation jälkeen päätimme edetä ominaisuus kerrallaan ja niin pitkälle kuin aika riittää. Suunnittelusta ja ratkaisuista keskusteltiin ryhmän kesken ja päätökset saatiin tehtyä. 
+
+Palvelun teknologioiksi valikoituivat VueJS, NodeJs, MySql ja säärajapinnaksi openweathermap.
 
 
 ## Käytetyt resurssit
 
-Per tamquam complectitur id, modus scribentur cu cum. Pri sint nusquam insolens eu, ea vix mundi recusabo constituto, no ius equidem ornatus admodum. Cu pro pericula forensibus concludaturque. Vix ne utinam phaedrum.
+Työtunteja projektiin kului yhteensä x h
 
 
 ## Mitä saatiin aikaan?
 
-Cum velit laoreet no, vim invenire voluptaria id. Ei unum graecis delicatissimi his. Sit ne aliquip dolores. Falli partem fabulas ei duo, sed diam consequuntur ne, principes deseruisse qui id.
+Palvelusta tuotettu demo sisältää profiilin luomisen, sivuprofiilien lisäämisen, tietojen muokkaamisen, säätietojen haun eri ajankohdille ja vaatesuositukset pää- sekä sivuprofiileille.
 
+Palvelun sivusto saatiin pyörimään gitlab-ympäristöön ja palvelinohjelmisto sekä tietokanta digital ocean-palveluun. 
 
 
 ## Demo
 
-Odio lobortis nec ut, ut theophrastus definitiones mei. Ex primis sanctus mei. Vix ad sale vitae viderer. At nec zril docendi, numquam noluisse ea sed. Volutpat temporibus vix te, duo meliore mandamus postulant et.
+[Linkki demoon](http://team-b-2019.pages.labranet.jamk.fi/source/)
 
 
 ## Ongelmat
 
 ## Saavutukset/voitot
 
-Habemus suscipit est in. Summo feugiat te duo. Ne pro maiorum facilisis, duo id persequeris necessitatibus. Ea discere luptatum deseruisse ius. Id vim magna maiorum mentitum, illud dicant eos ut.
-
+Palvelu saatiin toimimaan tavoitteiden mukaan.
 
 
 ## Mitä opittiin?
 
-In dictas quaestio cotidieque mei. Scaevola accusata ocurreret mei no, facete impetus sensibus ex quo, usu at nostrud civibus eleifend. Ei debitis temporibus vix. Ut commodo eligendi dissentias vis, duo ut vivendo menandri. At usu odio dicta facete, nec rebum dolor placerat cu.
+- Dokumentaatio
+- Projektin suunnittelu ja läpivienti
+- Työskentely ryhmässä
+- Teknologiat (VueJs)
+- Testlinkin käyttö
+- RobotFrameworkin käyttö
 
 ## Mitä teemme tulevaisuudessa?
-
-Odio lobortis nec ut, ut theophrastus definitiones mei. Ex primis sanctus mei. Vix ad sale vitae viderer. At nec zril docendi, numquam noluisse ea sed. Volutpat temporibus vix te, duo meliore mandamus postulant et.
-
-
-
-
-
-
-
-
-
-
-
-
-

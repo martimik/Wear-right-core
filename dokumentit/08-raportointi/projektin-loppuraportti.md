@@ -30,11 +30,14 @@ Projektiin kuului useita vaiheita kuten suunnittelu, tekninen dokumentaatio, dem
 
 ## 4.1.	Keskeiset opit
 
-* Listatkaa opitut asiat esim. henkilöittäin ja/tai vaiheittain. Mainitkaa myös hyvin toimineet työskentelytavat, työkalut ja menetelmät (nk. best practises).
+- Testlinkin käyttö
+- RobotFrameworkin käyttö
+- Dokumentaatio
+- Projektin suunnittelu ja läpivienti
+- Työskentely ryhmässä
+- Teknologiat (VueJs)
 
 ## 4.2.	Itsearviointi
-
-* Arvioikaa seuraavia:
 
 ### 4.2.1.	Ryhmätyö
 
@@ -49,6 +52,8 @@ Projektiin kuului useita vaiheita kuten suunnittelu, tekninen dokumentaatio, dem
 *	ryhmäprosessi (ryhmällä eri kehitysvaiheita (joukko, klikki, ME, tiimi), miten kehittynyt?)
 *	kriisit ja niistä selviäminen 
 *	oman työn kriittinen kehittäminen	
+
+- Suunnittelussa saatiin hyvää keskustelua ryhmän kesken ja ratkaisuja saatiin aikaan.
 
 ### 4.2.2.	Suunnitelmallisuus (projektityöskentely) 
 
@@ -84,6 +89,7 @@ Projektiin kuului useita vaiheita kuten suunnittelu, tekninen dokumentaatio, dem
 *	yhteydenpitovälineiden käyttö (mikä on järkevä väline eri tilanteisiin, palaverit kallista ajankäyttöä)
 *	vuorovaikutuksen tuloksellisuus (Jory, sähköposti, muut)
 
+
 ### 4.2.4.	Asenne
 
 *	tehtävään 
@@ -103,8 +109,12 @@ Projektiin kuului useita vaiheita kuten suunnittelu, tekninen dokumentaatio, dem
 
 ## 4.3.	Arvosanaehdotukset
 
-* Mikä on mielestänne arvosana, jonka ansaitsemme em. kriteerien perusteella?
-* Voitte jakaa arvosanaehdotuksen ryhmän sisällä siten, että joku enemmän töitä tehnyt saisi paremman arvosanan (tai työhön vähäisesti osallistunut huonomman).
+- Mikko Martikainen: 
+- Mikko Vornanen: 
+- Oskari Seppä: 
+- Claudia Viita:
+- Jesse Heikkinen:
+- Suvi Lauritsalo: 
 
 # LÄHTEET
 
