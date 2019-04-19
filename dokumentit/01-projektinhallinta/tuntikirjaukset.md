@@ -39,7 +39,7 @@ Yhteensä: 50h
 | Jesse Heikkinen | 4.4.2019 | 4h | Database |
 | Jesse Heikkinen | 11.4.2019 | 6h | Testisuunnitteli/Regressiotestaus |
 | Jesse Heikkinen | 18.4.2019 | 2h | Sprint 14 |
-| Jesse Heikkinen | 19.4.2019 | 6h | Robotframework and selenium2library |
+| Jesse Heikkinen | 19.4.2019 | 6h | Robotframework/Selenium2library |
 
 Yhteensä: 53h
 
