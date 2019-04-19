@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.1 (Python 3.7.1 on win32)" generated="20190420 00:46:51.773" rpa="false">
+<suite id="s1" name="Login Tests" source="C:\Users\heikk\RobotFrameWork\login_tests">
+<suite id="s1-s1" name="Invalid Login" source="C:\Users\heikk\RobotFrameWork\login_tests\invalid_login.robot">
+<test id="s1-s1-t1" name="Invalid Login Empty Name">
+<kw name="Open Browser To Login Page" library="resource">
+<kw name="Open Browser" library="SeleniumLibrary">
+<doc>Opens a new browser instance to the given ``url``.</doc>
+<arguments>
+<arg>${HOME URL}</arg>
+<arg>${BROWSER}</arg>
+</arguments>
+<msg timestamp="20190420 00:46:51.962" level="INFO">Opening browser 'Chrome' to base url 'http://team-b-2019.pages.labranet.jamk.fi/source/'.</msg>
+<status status="PASS" starttime="20190420 00:46:51.962" endtime="20190420 00:46:56.323"></status>
+</kw>
+<kw name="Maximize Browser Window" library="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" starttime="20190420 00:46:56.323" endtime="20190420 00:46:57.450"></status>
+</kw>
+<kw name="Set Selenium Speed" library="SeleniumLibrary">
+<doc>Sets the delay that is waited after each Selenium command.</doc>
+<arguments>
+<arg>${DELAY}</arg>
+</arguments>
+<status status="PASS" starttime="20190420 00:46:57.450" endtime="20190420 00:46:57.451"></status>
+</kw>
+<kw name="Login Page Should Be Open" library="resource">
+<kw name="Title Should Be" library="SeleniumLibrary">
+<doc>Verifies that current page title equals ``title``.</doc>
+<arguments>
+<arg>Wear Right</arg>
+</arguments>
+<msg timestamp="20190420 00:46:58.455" level="INFO">Page title is 'Wear Right'.</msg>
+<status status="PASS" starttime="20190420 00:46:57.451" endtime="20190420 00:46:58.455"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:46:57.451" endtime="20190420 00:46:58.455"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:46:51.962" endtime="20190420 00:46:58.455"></status>
+</kw>
+<kw name="Input City" library="resource">
+<arguments>
+<arg>Helsinki</arg>
+</arguments>
+<kw name="Input Text" library="SeleniumLibrary">
+<doc>Types the given ``text`` into text field identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[2]/div/div[1]/div[1]/input</arg>
+<arg>${city}</arg>
+</arguments>
+<msg timestamp="20190420 00:46:58.456" level="INFO">Typing text 'Helsinki' into text field 'xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[2]/div/div[1]/div[1]/input'.</msg>
+<status status="PASS" starttime="20190420 00:46:58.456" endtime="20190420 00:47:01.815"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[3]/div/div/div/a/div/div</arg>
+</arguments>
+<msg timestamp="20190420 00:47:01.815" level="INFO">Clicking element 'xpath://*[@id="mainapp"]/div[3]/div/div/div/a/div/div'.</msg>
+<status status="PASS" starttime="20190420 00:47:01.815" endtime="20190420 00:47:03.897"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:46:58.456" endtime="20190420 00:47:03.897"></status>
+</kw>
+<kw name="Input Age" library="resource">
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[3]</arg>
+</arguments>
+<msg timestamp="20190420 00:47:03.898" level="INFO">Clicking element 'xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[3]'.</msg>
+<status status="PASS" starttime="20190420 00:47:03.898" endtime="20190420 00:47:05.974"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[2]/div/div/div[3]/a/div/div</arg>
+</arguments>
+<msg timestamp="20190420 00:47:05.974" level="INFO">Clicking element 'xpath://*[@id="mainapp"]/div[2]/div/div/div[3]/a/div/div'.</msg>
+<status status="PASS" starttime="20190420 00:47:05.974" endtime="20190420 00:47:08.060"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:47:03.897" endtime="20190420 00:47:08.060"></status>
+</kw>
+<kw name="Input Gender" library="resource">
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[4]</arg>
+</arguments>
+<msg timestamp="20190420 00:47:08.061" level="INFO">Clicking element 'xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[4]'.</msg>
+<status status="PASS" starttime="20190420 00:47:08.061" endtime="20190420 00:47:10.240"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[1]/div/div/div[1]/a/div/div</arg>
+</arguments>
+<msg timestamp="20190420 00:47:10.240" level="INFO">Clicking element 'xpath://*[@id="mainapp"]/div[1]/div/div/div[1]/a/div/div'.</msg>
+<status status="PASS" starttime="20190420 00:47:10.240" endtime="20190420 00:47:12.316"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:47:08.060" endtime="20190420 00:47:12.316"></status>
+</kw>
+<kw name="Submit Credentials" library="resource">
+<kw name="Click Button" library="SeleniumLibrary">
+<doc>Clicks button identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/button</arg>
+</arguments>
+<msg timestamp="20190420 00:47:12.317" level="INFO">Clicking button 'xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/button'.</msg>
+<status status="PASS" starttime="20190420 00:47:12.317" endtime="20190420 00:47:17.421"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:47:12.316" endtime="20190420 00:47:17.421"></status>
+</kw>
+<kw name="Login Should Have Failed">
+<kw name="Location Should Be" library="SeleniumLibrary">
+<doc>Verifies that current URL is exactly ``url``.</doc>
+<arguments>
+<arg>${LOGIN URL}</arg>
+</arguments>
+<msg timestamp="20190420 00:47:18.432" level="INFO">Current location is 'http://team-b-2019.pages.labranet.jamk.fi/source/login'.</msg>
+<status status="PASS" starttime="20190420 00:47:17.423" endtime="20190420 00:47:18.432"></status>
+</kw>
+<kw name="Title Should Be" library="SeleniumLibrary">
+<doc>Verifies that current page title equals ``title``.</doc>
+<arguments>
+<arg>Wear Right</arg>
+</arguments>
+<msg timestamp="20190420 00:47:19.438" level="INFO">Page title is 'Wear Right'.</msg>
+<status status="PASS" starttime="20190420 00:47:18.432" endtime="20190420 00:47:19.438"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:47:17.422" endtime="20190420 00:47:19.438"></status>
+</kw>
+<kw name="Close Browser" library="SeleniumLibrary" type="teardown">
+<doc>Closes the current browser.</doc>
+<status status="PASS" starttime="20190420 00:47:19.440" endtime="20190420 00:47:22.501"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:46:51.961" endtime="20190420 00:47:22.501" critical="yes"></status>
+</test>
+<test id="s1-s1-t2" name="Invalid Login Empty City">
+<kw name="Open Browser To Login Page" library="resource">
+<kw name="Open Browser" library="SeleniumLibrary">
+<doc>Opens a new browser instance to the given ``url``.</doc>
+<arguments>
+<arg>${HOME URL}</arg>
+<arg>${BROWSER}</arg>
+</arguments>
+<msg timestamp="20190420 00:47:22.504" level="INFO">Opening browser 'Chrome' to base url 'http://team-b-2019.pages.labranet.jamk.fi/source/'.</msg>
+<status status="PASS" starttime="20190420 00:47:22.504" endtime="20190420 00:47:26.305"></status>
+</kw>
+<kw name="Maximize Browser Window" library="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" starttime="20190420 00:47:26.305" endtime="20190420 00:47:28.426"></status>
+</kw>
+<kw name="Set Selenium Speed" library="SeleniumLibrary">
+<doc>Sets the delay that is waited after each Selenium command.</doc>
+<arguments>
+<arg>${DELAY}</arg>
+</arguments>
+<status status="PASS" starttime="20190420 00:47:28.426" endtime="20190420 00:47:28.426"></status>
+</kw>
+<kw name="Login Page Should Be Open" library="resource">
+<kw name="Title Should Be" library="SeleniumLibrary">
+<doc>Verifies that current page title equals ``title``.</doc>
+<arguments>
+<arg>Wear Right</arg>
+</arguments>
+<msg timestamp="20190420 00:47:29.432" level="INFO">Page title is 'Wear Right'.</msg>
+<status status="PASS" starttime="20190420 00:47:28.427" endtime="20190420 00:47:29.432"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:47:28.426" endtime="20190420 00:47:29.432"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:47:22.503" endtime="20190420 00:47:29.432"></status>
+</kw>
+<kw name="Input Username" library="resource">
+<arguments>
+<arg>testi</arg>
+</arguments>
+<kw name="Input Text" library="SeleniumLibrary">
+<doc>Types the given ``text`` into text field identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[1]/div/div[1]/div/input</arg>
+<arg>${username}</arg>
+</arguments>
+<msg timestamp="20190420 00:47:29.433" level="INFO">Typing text 'testi' into text field 'xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[1]/div/div[1]/div/input'.</msg>
+<status status="PASS" starttime="20190420 00:47:29.433" endtime="20190420 00:47:32.697"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:47:29.433" endtime="20190420 00:47:32.697"></status>
+</kw>
+<kw name="Input Age" library="resource">
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[3]</arg>
+</arguments>
+<msg timestamp="20190420 00:47:32.701" level="INFO">Clicking element 'xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[3]'.</msg>
+<status status="PASS" starttime="20190420 00:47:32.700" endtime="20190420 00:47:34.808"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[2]/div/div/div[3]/a/div/div</arg>
+</arguments>
+<msg timestamp="20190420 00:47:34.809" level="INFO">Clicking element 'xpath://*[@id="mainapp"]/div[2]/div/div/div[3]/a/div/div'.</msg>
+<status status="PASS" starttime="20190420 00:47:34.808" endtime="20190420 00:47:36.963"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:47:32.698" endtime="20190420 00:47:36.963"></status>
+</kw>
+<kw name="Input Gender" library="resource">
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[4]</arg>
+</arguments>
+<msg timestamp="20190420 00:47:36.964" level="INFO">Clicking element 'xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[4]'.</msg>
+<status status="PASS" starttime="20190420 00:47:36.964" endtime="20190420 00:47:39.083"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[1]/div/div/div[1]/a/div/div</arg>
+</arguments>
+<msg timestamp="20190420 00:47:39.084" level="INFO">Clicking element 'xpath://*[@id="mainapp"]/div[1]/div/div/div[1]/a/div/div'.</msg>
+<status status="PASS" starttime="20190420 00:47:39.083" endtime="20190420 00:47:41.177"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:47:36.963" endtime="20190420 00:47:41.177"></status>
+</kw>
+<kw name="Submit Credentials" library="resource">
+<kw name="Click Button" library="SeleniumLibrary">
+<doc>Clicks button identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/button</arg>
+</arguments>
+<msg timestamp="20190420 00:47:41.180" level="INFO">Clicking button 'xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/button'.</msg>
+<status status="PASS" starttime="20190420 00:47:41.179" endtime="20190420 00:47:46.376"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:47:41.178" endtime="20190420 00:47:46.376"></status>
+</kw>
+<kw name="Login Should Have Failed">
+<kw name="Location Should Be" library="SeleniumLibrary">
+<doc>Verifies that current URL is exactly ``url``.</doc>
+<arguments>
+<arg>${LOGIN URL}</arg>
+</arguments>
+<kw name="Capture Page Screenshot" library="SeleniumLibrary">
+<doc>Takes screenshot of the current page and embeds it into log file.</doc>
+<msg timestamp="20190420 00:47:48.860" level="INFO" html="yes">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-1.png"&gt;&lt;img src="selenium-screenshot-1.png" width="800px"&gt;&lt;/a&gt;</msg>
+<status status="PASS" starttime="20190420 00:47:47.384" endtime="20190420 00:47:48.860"></status>
+</kw>
+<msg timestamp="20190420 00:47:48.862" level="FAIL">Location should have been 'http://team-b-2019.pages.labranet.jamk.fi/source/login' but was 'http://team-b-2019.pages.labranet.jamk.fi/source/'.</msg>
+<status status="FAIL" starttime="20190420 00:47:46.377" endtime="20190420 00:47:48.862"></status>
+</kw>
+<status status="FAIL" starttime="20190420 00:47:46.377" endtime="20190420 00:47:48.862"></status>
+</kw>
+<kw name="Close Browser" library="SeleniumLibrary" type="teardown">
+<doc>Closes the current browser.</doc>
+<status status="PASS" starttime="20190420 00:47:48.863" endtime="20190420 00:47:51.904"></status>
+</kw>
+<status status="FAIL" starttime="20190420 00:47:22.503" endtime="20190420 00:47:51.905" critical="yes">Location should have been 'http://team-b-2019.pages.labranet.jamk.fi/source/login' but was 'http://team-b-2019.pages.labranet.jamk.fi/source/'.</status>
+</test>
+<test id="s1-s1-t3" name="Invalid Login Empty Age">
+<kw name="Open Browser To Login Page" library="resource">
+<kw name="Open Browser" library="SeleniumLibrary">
+<doc>Opens a new browser instance to the given ``url``.</doc>
+<arguments>
+<arg>${HOME URL}</arg>
+<arg>${BROWSER}</arg>
+</arguments>
+<msg timestamp="20190420 00:47:51.912" level="INFO">Opening browser 'Chrome' to base url 'http://team-b-2019.pages.labranet.jamk.fi/source/'.</msg>
+<status status="PASS" starttime="20190420 00:47:51.911" endtime="20190420 00:47:55.782"></status>
+</kw>
+<kw name="Maximize Browser Window" library="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" starttime="20190420 00:47:55.782" endtime="20190420 00:47:57.917"></status>
+</kw>
+<kw name="Set Selenium Speed" library="SeleniumLibrary">
+<doc>Sets the delay that is waited after each Selenium command.</doc>
+<arguments>
+<arg>${DELAY}</arg>
+</arguments>
+<status status="PASS" starttime="20190420 00:47:57.917" endtime="20190420 00:47:57.918"></status>
+</kw>
+<kw name="Login Page Should Be Open" library="resource">
+<kw name="Title Should Be" library="SeleniumLibrary">
+<doc>Verifies that current page title equals ``title``.</doc>
+<arguments>
+<arg>Wear Right</arg>
+</arguments>
+<msg timestamp="20190420 00:47:58.929" level="INFO">Page title is 'Wear Right'.</msg>
+<status status="PASS" starttime="20190420 00:47:57.919" endtime="20190420 00:47:58.929"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:47:57.919" endtime="20190420 00:47:58.929"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:47:51.910" endtime="20190420 00:47:58.930"></status>
+</kw>
+<kw name="Input Username" library="resource">
+<arguments>
+<arg>testi</arg>
+</arguments>
+<kw name="Input Text" library="SeleniumLibrary">
+<doc>Types the given ``text`` into text field identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[1]/div/div[1]/div/input</arg>
+<arg>${username}</arg>
+</arguments>
+<msg timestamp="20190420 00:47:58.933" level="INFO">Typing text 'testi' into text field 'xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[1]/div/div[1]/div/input'.</msg>
+<status status="PASS" starttime="20190420 00:47:58.931" endtime="20190420 00:48:02.217"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:47:58.931" endtime="20190420 00:48:02.217"></status>
+</kw>
+<kw name="Input City" library="resource">
+<arguments>
+<arg>Helsinki</arg>
+</arguments>
+<kw name="Input Text" library="SeleniumLibrary">
+<doc>Types the given ``text`` into text field identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[2]/div/div[1]/div[1]/input</arg>
+<arg>${city}</arg>
+</arguments>
+<msg timestamp="20190420 00:48:02.218" level="INFO">Typing text 'Helsinki' into text field 'xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[2]/div/div[1]/div[1]/input'.</msg>
+<status status="PASS" starttime="20190420 00:48:02.218" endtime="20190420 00:48:05.437"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[3]/div/div/div/a/div/div</arg>
+</arguments>
+<msg timestamp="20190420 00:48:05.437" level="INFO">Clicking element 'xpath://*[@id="mainapp"]/div[3]/div/div/div/a/div/div'.</msg>
+<status status="PASS" starttime="20190420 00:48:05.437" endtime="20190420 00:48:07.637"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:48:02.218" endtime="20190420 00:48:07.637"></status>
+</kw>
+<kw name="Input Gender" library="resource">
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[4]</arg>
+</arguments>
+<msg timestamp="20190420 00:48:07.638" level="INFO">Clicking element 'xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[4]'.</msg>
+<status status="PASS" starttime="20190420 00:48:07.638" endtime="20190420 00:48:09.704"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[1]/div/div/div[1]/a/div/div</arg>
+</arguments>
+<msg timestamp="20190420 00:48:09.704" level="INFO">Clicking element 'xpath://*[@id="mainapp"]/div[1]/div/div/div[1]/a/div/div'.</msg>
+<status status="PASS" starttime="20190420 00:48:09.704" endtime="20190420 00:48:11.808"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:48:07.637" endtime="20190420 00:48:11.808"></status>
+</kw>
+<kw name="Submit Credentials" library="resource">
+<kw name="Click Button" library="SeleniumLibrary">
+<doc>Clicks button identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/button</arg>
+</arguments>
+<msg timestamp="20190420 00:48:11.809" level="INFO">Clicking button 'xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/button'.</msg>
+<status status="PASS" starttime="20190420 00:48:11.809" endtime="20190420 00:48:16.915"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:48:11.809" endtime="20190420 00:48:16.915"></status>
+</kw>
+<kw name="Login Should Have Failed">
+<kw name="Location Should Be" library="SeleniumLibrary">
+<doc>Verifies that current URL is exactly ``url``.</doc>
+<arguments>
+<arg>${LOGIN URL}</arg>
+</arguments>
+<msg timestamp="20190420 00:48:17.926" level="INFO">Current location is 'http://team-b-2019.pages.labranet.jamk.fi/source/login'.</msg>
+<status status="PASS" starttime="20190420 00:48:16.917" endtime="20190420 00:48:17.926"></status>
+</kw>
+<kw name="Title Should Be" library="SeleniumLibrary">
+<doc>Verifies that current page title equals ``title``.</doc>
+<arguments>
+<arg>Wear Right</arg>
+</arguments>
+<msg timestamp="20190420 00:48:18.935" level="INFO">Page title is 'Wear Right'.</msg>
+<status status="PASS" starttime="20190420 00:48:17.926" endtime="20190420 00:48:18.935"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:48:16.916" endtime="20190420 00:48:18.935"></status>
+</kw>
+<kw name="Close Browser" library="SeleniumLibrary" type="teardown">
+<doc>Closes the current browser.</doc>
+<status status="PASS" starttime="20190420 00:48:18.936" endtime="20190420 00:48:21.975"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:47:51.909" endtime="20190420 00:48:21.976" critical="yes"></status>
+</test>
+<test id="s1-s1-t4" name="Invalid Login Empty Gender">
+<kw name="Open Browser To Login Page" library="resource">
+<kw name="Open Browser" library="SeleniumLibrary">
+<doc>Opens a new browser instance to the given ``url``.</doc>
+<arguments>
+<arg>${HOME URL}</arg>
+<arg>${BROWSER}</arg>
+</arguments>
+<msg timestamp="20190420 00:48:21.983" level="INFO">Opening browser 'Chrome' to base url 'http://team-b-2019.pages.labranet.jamk.fi/source/'.</msg>
+<status status="PASS" starttime="20190420 00:48:21.982" endtime="20190420 00:48:25.892"></status>
+</kw>
+<kw name="Maximize Browser Window" library="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" starttime="20190420 00:48:25.892" endtime="20190420 00:48:28.009"></status>
+</kw>
+<kw name="Set Selenium Speed" library="SeleniumLibrary">
+<doc>Sets the delay that is waited after each Selenium command.</doc>
+<arguments>
+<arg>${DELAY}</arg>
+</arguments>
+<status status="PASS" starttime="20190420 00:48:28.010" endtime="20190420 00:48:28.010"></status>
+</kw>
+<kw name="Login Page Should Be Open" library="resource">
+<kw name="Title Should Be" library="SeleniumLibrary">
+<doc>Verifies that current page title equals ``title``.</doc>
+<arguments>
+<arg>Wear Right</arg>
+</arguments>
+<msg timestamp="20190420 00:48:29.023" level="INFO">Page title is 'Wear Right'.</msg>
+<status status="PASS" starttime="20190420 00:48:28.011" endtime="20190420 00:48:29.023"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:48:28.011" endtime="20190420 00:48:29.023"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:48:21.982" endtime="20190420 00:48:29.023"></status>
+</kw>
+<kw name="Input Username" library="resource">
+<arguments>
+<arg>testi</arg>
+</arguments>
+<kw name="Input Text" library="SeleniumLibrary">
+<doc>Types the given ``text`` into text field identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[1]/div/div[1]/div/input</arg>
+<arg>${username}</arg>
+</arguments>
+<msg timestamp="20190420 00:48:29.024" level="INFO">Typing text 'testi' into text field 'xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[1]/div/div[1]/div/input'.</msg>
+<status status="PASS" starttime="20190420 00:48:29.024" endtime="20190420 00:48:32.271"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:48:29.024" endtime="20190420 00:48:32.271"></status>
+</kw>
+<kw name="Input City" library="resource">
+<arguments>
+<arg>Helsinki</arg>
+</arguments>
+<kw name="Input Text" library="SeleniumLibrary">
+<doc>Types the given ``text`` into text field identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[2]/div/div[1]/div[1]/input</arg>
+<arg>${city}</arg>
+</arguments>
+<msg timestamp="20190420 00:48:32.272" level="INFO">Typing text 'Helsinki' into text field 'xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[2]/div/div[1]/div[1]/input'.</msg>
+<status status="PASS" starttime="20190420 00:48:32.272" endtime="20190420 00:48:35.513"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[3]/div/div/div/a/div/div</arg>
+</arguments>
+<msg timestamp="20190420 00:48:35.513" level="INFO">Clicking element 'xpath://*[@id="mainapp"]/div[3]/div/div/div/a/div/div'.</msg>
+<status status="PASS" starttime="20190420 00:48:35.513" endtime="20190420 00:48:37.597"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:48:32.271" endtime="20190420 00:48:37.597"></status>
+</kw>
+<kw name="Input Age" library="resource">
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[3]</arg>
+</arguments>
+<msg timestamp="20190420 00:48:37.600" level="INFO">Clicking element 'xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[3]'.</msg>
+<status status="PASS" starttime="20190420 00:48:37.599" endtime="20190420 00:48:39.693"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[2]/div/div/div[3]/a/div/div</arg>
+</arguments>
+<msg timestamp="20190420 00:48:39.694" level="INFO">Clicking element 'xpath://*[@id="mainapp"]/div[2]/div/div/div[3]/a/div/div'.</msg>
+<status status="PASS" starttime="20190420 00:48:39.693" endtime="20190420 00:48:41.831"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:48:37.599" endtime="20190420 00:48:41.831"></status>
+</kw>
+<kw name="Submit Credentials" library="resource">
+<kw name="Click Button" library="SeleniumLibrary">
+<doc>Clicks button identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/button</arg>
+</arguments>
+<msg timestamp="20190420 00:48:41.832" level="INFO">Clicking button 'xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/button'.</msg>
+<status status="PASS" starttime="20190420 00:48:41.832" endtime="20190420 00:48:46.974"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:48:41.832" endtime="20190420 00:48:46.974"></status>
+</kw>
+<kw name="Login Should Have Failed">
+<kw name="Location Should Be" library="SeleniumLibrary">
+<doc>Verifies that current URL is exactly ``url``.</doc>
+<arguments>
+<arg>${LOGIN URL}</arg>
+</arguments>
+<msg timestamp="20190420 00:48:47.979" level="INFO">Current location is 'http://team-b-2019.pages.labranet.jamk.fi/source/login'.</msg>
+<status status="PASS" starttime="20190420 00:48:46.974" endtime="20190420 00:48:47.979"></status>
+</kw>
+<kw name="Title Should Be" library="SeleniumLibrary">
+<doc>Verifies that current page title equals ``title``.</doc>
+<arguments>
+<arg>Wear Right</arg>
+</arguments>
+<msg timestamp="20190420 00:48:48.989" level="INFO">Page title is 'Wear Right'.</msg>
+<status status="PASS" starttime="20190420 00:48:47.980" endtime="20190420 00:48:48.989"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:48:46.974" endtime="20190420 00:48:48.989"></status>
+</kw>
+<kw name="Close Browser" library="SeleniumLibrary" type="teardown">
+<doc>Closes the current browser.</doc>
+<status status="PASS" starttime="20190420 00:48:48.990" endtime="20190420 00:48:52.035"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:48:21.979" endtime="20190420 00:48:52.035" critical="yes"></status>
+</test>
+<doc>A test suite containing tests related to invalid login.
+
+These tests are data-driven by their nature. They use a single
+keyword, specified with Test Template setting, that is called
+with different arguments to cover different scenarios.</doc>
+<status status="FAIL" starttime="20190420 00:46:51.800" endtime="20190420 00:48:52.038"></status>
+</suite>
+<suite id="s1-s2" name="Valid Login" source="C:\Users\heikk\RobotFrameWork\login_tests\valid_login.robot">
+<test id="s1-s2-t1" name="Valid Login">
+<kw name="Open Browser To Login Page" library="resource">
+<kw name="Open Browser" library="SeleniumLibrary">
+<doc>Opens a new browser instance to the given ``url``.</doc>
+<arguments>
+<arg>${HOME URL}</arg>
+<arg>${BROWSER}</arg>
+</arguments>
+<msg timestamp="20190420 00:48:52.053" level="INFO">Opening browser 'Chrome' to base url 'http://team-b-2019.pages.labranet.jamk.fi/source/'.</msg>
+<status status="PASS" starttime="20190420 00:48:52.053" endtime="20190420 00:48:56.980"></status>
+</kw>
+<kw name="Maximize Browser Window" library="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" starttime="20190420 00:48:56.980" endtime="20190420 00:48:59.102"></status>
+</kw>
+<kw name="Set Selenium Speed" library="SeleniumLibrary">
+<doc>Sets the delay that is waited after each Selenium command.</doc>
+<arguments>
+<arg>${DELAY}</arg>
+</arguments>
+<status status="PASS" starttime="20190420 00:48:59.102" endtime="20190420 00:48:59.102"></status>
+</kw>
+<kw name="Login Page Should Be Open" library="resource">
+<kw name="Title Should Be" library="SeleniumLibrary">
+<doc>Verifies that current page title equals ``title``.</doc>
+<arguments>
+<arg>Wear Right</arg>
+</arguments>
+<msg timestamp="20190420 00:49:00.107" level="INFO">Page title is 'Wear Right'.</msg>
+<status status="PASS" starttime="20190420 00:48:59.103" endtime="20190420 00:49:00.107"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:48:59.102" endtime="20190420 00:49:00.107"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:48:52.052" endtime="20190420 00:49:00.107"></status>
+</kw>
+<kw name="Input Username" library="resource">
+<arguments>
+<arg>demo</arg>
+</arguments>
+<kw name="Input Text" library="SeleniumLibrary">
+<doc>Types the given ``text`` into text field identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[1]/div/div[1]/div/input</arg>
+<arg>${username}</arg>
+</arguments>
+<msg timestamp="20190420 00:49:00.108" level="INFO">Typing text 'demo' into text field 'xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[1]/div/div[1]/div/input'.</msg>
+<status status="PASS" starttime="20190420 00:49:00.108" endtime="20190420 00:49:03.352"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:49:00.108" endtime="20190420 00:49:03.352"></status>
+</kw>
+<kw name="Input City" library="resource">
+<arguments>
+<arg>Helsinki</arg>
+</arguments>
+<kw name="Input Text" library="SeleniumLibrary">
+<doc>Types the given ``text`` into text field identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[2]/div/div[1]/div[1]/input</arg>
+<arg>${city}</arg>
+</arguments>
+<msg timestamp="20190420 00:49:03.355" level="INFO">Typing text 'Helsinki' into text field 'xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[2]/div/div[1]/div[1]/input'.</msg>
+<status status="PASS" starttime="20190420 00:49:03.354" endtime="20190420 00:49:06.635"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[3]/div/div/div/a/div/div</arg>
+</arguments>
+<msg timestamp="20190420 00:49:06.635" level="INFO">Clicking element 'xpath://*[@id="mainapp"]/div[3]/div/div/div/a/div/div'.</msg>
+<status status="PASS" starttime="20190420 00:49:06.635" endtime="20190420 00:49:08.740"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:49:03.353" endtime="20190420 00:49:08.740"></status>
+</kw>
+<kw name="Input Age" library="resource">
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[3]</arg>
+</arguments>
+<msg timestamp="20190420 00:49:08.741" level="INFO">Clicking element 'xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[3]'.</msg>
+<status status="PASS" starttime="20190420 00:49:08.741" endtime="20190420 00:49:10.811"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[2]/div/div/div[3]/a/div/div</arg>
+</arguments>
+<msg timestamp="20190420 00:49:10.811" level="INFO">Clicking element 'xpath://*[@id="mainapp"]/div[2]/div/div/div[3]/a/div/div'.</msg>
+<status status="PASS" starttime="20190420 00:49:10.811" endtime="20190420 00:49:12.920"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:49:08.741" endtime="20190420 00:49:12.920"></status>
+</kw>
+<kw name="Input Gender" library="resource">
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[4]</arg>
+</arguments>
+<msg timestamp="20190420 00:49:12.921" level="INFO">Clicking element 'xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/div[4]'.</msg>
+<status status="PASS" starttime="20190420 00:49:12.921" endtime="20190420 00:49:15.011"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[1]/div/div/div[1]/a/div/div</arg>
+</arguments>
+<msg timestamp="20190420 00:49:15.011" level="INFO">Clicking element 'xpath://*[@id="mainapp"]/div[1]/div/div/div[1]/a/div/div'.</msg>
+<status status="PASS" starttime="20190420 00:49:15.011" endtime="20190420 00:49:17.119"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:49:12.921" endtime="20190420 00:49:17.119"></status>
+</kw>
+<kw name="Submit Credentials" library="resource">
+<kw name="Click Button" library="SeleniumLibrary">
+<doc>Clicks button identified by ``locator``.</doc>
+<arguments>
+<arg>xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/button</arg>
+</arguments>
+<msg timestamp="20190420 00:49:17.120" level="INFO">Clicking button 'xpath://*[@id="mainapp"]/div[4]/main/div/div/div/div/div/form/button'.</msg>
+<status status="PASS" starttime="20190420 00:49:17.120" endtime="20190420 00:49:22.305"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:49:17.119" endtime="20190420 00:49:22.305"></status>
+</kw>
+<kw name="Home Page Should Be Open" library="resource">
+<kw name="Location Should Be" library="SeleniumLibrary">
+<doc>Verifies that current URL is exactly ``url``.</doc>
+<arguments>
+<arg>${HOME URL}</arg>
+</arguments>
+<msg timestamp="20190420 00:49:23.316" level="INFO">Current location is 'http://team-b-2019.pages.labranet.jamk.fi/source/'.</msg>
+<status status="PASS" starttime="20190420 00:49:22.307" endtime="20190420 00:49:23.316"></status>
+</kw>
+<kw name="Title Should Be" library="SeleniumLibrary">
+<doc>Verifies that current page title equals ``title``.</doc>
+<arguments>
+<arg>Wear Right</arg>
+</arguments>
+<msg timestamp="20190420 00:49:24.321" level="INFO">Page title is 'Wear Right'.</msg>
+<status status="PASS" starttime="20190420 00:49:23.316" endtime="20190420 00:49:24.321"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:49:22.306" endtime="20190420 00:49:24.321"></status>
+</kw>
+<kw name="Close Browser" library="SeleniumLibrary" type="teardown">
+<doc>Closes the current browser.</doc>
+<status status="PASS" starttime="20190420 00:49:24.322" endtime="20190420 00:49:27.391"></status>
+</kw>
+<status status="PASS" starttime="20190420 00:48:52.051" endtime="20190420 00:49:27.391" critical="yes"></status>
+</test>
+<doc>A test suite with a single test for valid login.
+
+This test has a workflow that is created using keywords in
+the imported resource file.</doc>
+<status status="PASS" starttime="20190420 00:48:52.044" endtime="20190420 00:49:27.394"></status>
+</suite>
+<status status="FAIL" starttime="20190420 00:46:51.774" endtime="20190420 00:49:27.399"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="4" fail="1">Critical Tests</stat>
+<stat pass="4" fail="1">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="4" fail="1" id="s1" name="Login Tests">Login Tests</stat>
+<stat pass="3" fail="1" id="s1-s1" name="Invalid Login">Login Tests.Invalid Login</stat>
+<stat pass="1" fail="0" id="s1-s2" name="Valid Login">Login Tests.Valid Login</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
