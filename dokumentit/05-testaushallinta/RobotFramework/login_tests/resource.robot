@@ -4,6 +4,10 @@ Documentation     A resource file with reusable keywords and variables.
 ...               The system specific keywords created here form our own
 ...               domain specific language. They utilize keywords provided
 ...               by the imported SeleniumLibrary.
+...
+...               Delay must be set to atleast 1, so comboboxes have time to
+...               appear. Otherwise doing the test will run into exception,
+...               because it is trying to click an element that isn't there yet.
 Library           SeleniumLibrary
 
 *** Variables ***
