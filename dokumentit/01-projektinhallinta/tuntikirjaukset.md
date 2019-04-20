@@ -40,8 +40,9 @@ Yhteensä: 50h
 | Jesse Heikkinen | 11.4.2019 | 6h | Testisuunnitteli/Regressiotestaus |
 | Jesse Heikkinen | 18.4.2019 | 2h | Sprint 14 |
 | Jesse Heikkinen | 19.4.2019 | 6h | Robotframework/Selenium2library |
+| Jesse Heikkinen | 19.4.2019 | 1h | Robotframework/Selenium2library |
 
-Yhteensä: 53h
+Yhteensä: 54h
 
 
 ### Mikko Martikainen
