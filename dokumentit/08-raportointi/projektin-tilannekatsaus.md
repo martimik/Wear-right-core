@@ -24,7 +24,6 @@ Aloitusvaiheen dokumentaation jälkeen päätimme edetä ominaisuus kerrallaan j
 
 Palvelun teknologioiksi valikoituivat VueJS, NodeJs, MySql ja säärajapinnaksi openweathermap.
 
-Palvelulle saatiin myös tuotettua ja ajettua yksi RobotFramework -testi.
 
 
 ## Käytetyt resurssit
@@ -36,7 +35,9 @@ Työtunteja projektiin kului yhteensä x h
 
 Palvelusta tuotettu demo sisältää profiilin luomisen, sivuprofiilien lisäämisen, tietojen muokkaamisen, säätietojen haun eri ajankohdille ja vaatesuositukset pää- sekä sivuprofiileille.
 
-Palvelun sivusto saatiin pyörimään gitlab-ympäristöön ja palvelinohjelmisto sekä tietokanta digital ocean-palveluun. 
+Palvelun sivusto saatiin pyörimään gitlab-ympäristöön ja palvelinohjelmisto sekä tietokanta digital ocean-palveluun.
+
+Palvelulle saatiin myös tuotettua ja ajettua yksi RobotFramework -testi.
 
 
 ## Demo
