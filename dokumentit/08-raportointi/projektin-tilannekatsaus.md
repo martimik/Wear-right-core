@@ -24,6 +24,8 @@ Aloitusvaiheen dokumentaation jälkeen päätimme edetä ominaisuus kerrallaan j
 
 Palvelun teknologioiksi valikoituivat VueJS, NodeJs, MySql ja säärajapinnaksi openweathermap.
 
+Palvelulle saatiin myös tuotettua ja ajettua yksi RobotFramework -testi.
+
 
 ## Käytetyt resurssit
 
