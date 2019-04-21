@@ -23,7 +23,7 @@ hakea säätietoja ja vaatesuosituksia tietyltä ajankohdalta sekä eri paikkaku
 stabiilisti ja käyttöliittymä on selkeä sekä miellyttävä käyttää. Järjestelmätestaukseen liittyen palvelulle suunniteltiin hyväksyntätestejä ja toiminnallisiin- sekä 
 ei-toiminnaliisiin ominaisuuksiin liittyviä testejä TestLink-ympäristössä. Näiden lisäksi palvelulle tuotettiin yksi RobotFrameWork-testi.
 
-[Linkki palvelun demoversioon](http://team-b-2019.pages.labranet.jamk.fi/source/login)
+[Linkki palvelun demoversioon](http://team-b-2019.pages.labranet.jamk.fi/source)
 
 ## 2.2.	 Projektin onnistuminen (suunnitelma vs. toteutuma)
 
