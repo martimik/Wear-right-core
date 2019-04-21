@@ -62,8 +62,9 @@ Yhteensä: 54h
 | Mikko Martikainen | 28.3.2019 | 4h | Käytettävyystestaus |
 | Mikko Martikainen | 4.4.2019 | 4h | Käytettävyystestaus |
 | Mikko Martikainen | 18.4.2019 | 5h | Loppudokumentaatio |
+| Mikko Martikainen | 21.4.2019 | 2h | Loppudokumentaatio |
 
-Yhteensä: 52h
+Yhteensä: 54h
 
 
 ### Mikko Vornanen
