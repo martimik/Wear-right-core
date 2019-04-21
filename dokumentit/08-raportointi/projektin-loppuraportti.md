@@ -20,7 +20,7 @@
 Projektin tavoitteena oli luoda web-pohjainen palvelu, jonka pääasiallisena toimintona on antaa pukeutumissuosituksia säätietojen mukaan. 
 Palvelusta saatiin aikaan demo jossa palveluun voidaan luoda käyttäjä joka tallentuu laitteeseen, muokata profiilia sekä lisätä sivuprofiileja, 
 hakea säätietoja ja vaatesuosituksia tietyltä ajankohdalta sekä eri paikkakunnilta. Toisena pääominaisuutena haluttu matkojen suunnittelu saatiin myös toteutettua. Projektin tuotoksessa onnistuttiin kohtalaisen hyvin, palvelun päätoiminnallisuudet toimivat 
-stabiilisti ja käyttöliittymä on selkeä sekä miellyttävä käyttää. Järjestelmätestaukseen liittyen palvelulle suunniteltiin hyväksyntätestejä ja toiminnallisiin- sekä 
+halutusti ja käyttöliittymä on selkeä sekä miellyttävä käyttää. Järjestelmätestaukseen liittyen palvelulle suunniteltiin hyväksyntätestejä ja toiminnallisiin- sekä 
 ei-toiminnaliisiin ominaisuuksiin liittyviä testejä TestLink-ympäristössä. Näiden lisäksi palvelulle tuotettiin yksi RobotFrameWork-testi.
 
 [Linkki palvelun demoversioon](http://team-b-2019.pages.labranet.jamk.fi/source)
