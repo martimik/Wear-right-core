@@ -2,15 +2,24 @@
 
 # 1.	JOHDANTO	
 
- Tässä dokumentissa käsitellään Team-B:n tuottamaa Wear-Right palvelua ja sitä, kuinka projektille asetetut tavoitteet saavutettiin. Työn tilaajana toimi Marja-Leena Tenhunen ja opintojakson ohjaajana Marko Rintamäki.
+ Tässä dokumentissa käsitellään Team-B:n tuottamaa Wear-Right palvelua ja sitä, kuinka projektille asetetut tavoitteet saavutettiin. Työn tilaajana toimi 
+ Marja-Leena Tenhunen ja opintojakson ohjaajana Marko Rintamäki.
+ 
+ B-Tiimin jäsenet: 
+ 
+* Projektipäälikkö: Mikko Martikainen
+* Front-end dev: Mikko Vornanen
+* Backend dev: Oskari Seppä
+* Graafinen suunnittelija: Claudia Viita
+* Testaus: Jesse Heikkinen ja Suvi Lauritsalo
 
 # 2.	TEHTÄVÄ, TAVOITE, TULOKSET
 
 ## 2.1.	Yhteenveto projektin toteumasta
 
 Projektin tavoitteena oli luoda web-pohjainen palvelu, jonka pääasiallisena toimintona on antaa pukeutumissuosituksia säätietojen mukaan. 
-Palvelusta saatiin aikaan demo jossa palveluun voidaan luoda käyttäjä, joka tallentuu laitteeseen, muokata profiilia sekä lisätä sivuprofiileja, 
-hakea säätietoja ja vaatesuosituksia tietyltä ajankohdalta sekä eri paikkakunnilta. Toisena pääominaisuutena haluttu matkojen suunnittelu saatiin myös tuotettua palveluun. Projektin tuotoksessa onnistuttiin kohtalaisen hyvin, palvelun päätoiminnallisuudet toimivat 
+Palvelusta saatiin aikaan demo jossa palveluun voidaan luoda käyttäjä joka tallentuu laitteeseen, muokata profiilia sekä lisätä sivuprofiileja, 
+hakea säätietoja ja vaatesuosituksia tietyltä ajankohdalta sekä eri paikkakunnilta. Toisena pääominaisuutena haluttu matkojen suunnittelu saatiin myös toteutettua. Projektin tuotoksessa onnistuttiin kohtalaisen hyvin, palvelun päätoiminnallisuudet toimivat 
 stabiilisti ja käyttöliittymä on selkeä sekä miellyttävä käyttää. Järjestelmätestaukseen liittyen palvelulle suunniteltiin hyväksyntätestejä ja toiminnallisiin- sekä 
 ei-toiminnaliisiin ominaisuuksiin liittyviä testejä TestLink-ympäristössä. Näiden lisäksi palvelulle tuotettiin yksi RobotFrameWork-testi.
 
