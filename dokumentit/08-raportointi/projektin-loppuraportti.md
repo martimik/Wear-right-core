@@ -29,7 +29,8 @@ ei-toiminnaliisiin ominaisuuksiin liittyviä testejä TestLink-ympäristössä. 
 
 Projektiin kuului useita vaiheita kuten suunnittelu, tekninen dokumentaatio, demopalvelun koodaus sekä testaus. Näiden ohella osana projektia oli 
 myös asiakastapaamiset, katselmoinnit sekä sopimuksen allekirjoittaminen. Kaikki vaiheet toteutettiin jaetusti projektiryhmän kesken ja yleinen 
-aikautulusuunnitelma löytyy [täältä](http://ttos0800-ttos0900.pages.labranet.jamk.fi/amk-2019/yleiset/aikataulu/). Projektin aikaresurssien suunniteltu 
+aikautulusuunnitelma löytyy [täältä](http://ttos0800-ttos0900.pages.labranet.jamk.fi/amk-2019/yleiset/aikataulu/). Palvelun demoversio saatiin toimintaan jo varhaisessa 
+vaiheessa, jonka jälkeen omanisuuksia alettiin lisäilemään niiden valmistuessa. Projektin aikaresurssien suunniteltu 
 jakauma ja toteutuneet tunnit osa-alueittain mukaan löytyvät [tuntikirjauksista](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/01-projektinhallinta/tuntikirjaukset.md). 
 Ulkopuolisista resursseista vastasivat tuotteen tilaaja sekä kurssin ohjaaja.
 
