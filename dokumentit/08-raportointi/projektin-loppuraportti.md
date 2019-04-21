@@ -8,13 +8,21 @@
 
 ## 2.1.	Yhteenveto projektin toteumasta
 
-Projektin tavoitteena oli luoda web-pohjainen palvelu, jonka pääasiallisena toimintona on antaa pukeutumissuosituksia säätietojen mukaan. Palvelusta saatiin aikaan demo, jossa palveluun voidaan luoda käyttäjä joka tallentuu laitteeseen, muokata profiilia sekä lisätä sivuprofiileja, hakea säätietoja ja vaatesuosituksia tietyltä ajankohdalta sekä eri paikkakunnilta. Toisena pääominaisuutena haluttu matkojen suunnittelu jäi demoversiossa vielä keskeneräiseksi ajan loppuessa. Projektin tuotoksessa onnistuttiin kohtalaisen hyvin, palvelun päätoiminnallisuudet toimivat stabiilisti ja käyttöliittymä on selkeä sekä miellyttävä käyttää. 
+Projektin tavoitteena oli luoda web-pohjainen palvelu, jonka pääasiallisena toimintona on antaa pukeutumissuosituksia säätietojen mukaan. 
+Palvelusta saatiin aikaan demo jossa palveluun voidaan luoda käyttäjä, joka tallentuu laitteeseen, muokata profiilia sekä lisätä sivuprofiileja, 
+hakea säätietoja ja vaatesuosituksia tietyltä ajankohdalta sekä eri paikkakunnilta. Toisena pääominaisuutena haluttu matkojen suunnittelu saatiin myös tuotettua palveluun. Projektin tuotoksessa onnistuttiin kohtalaisen hyvin, palvelun päätoiminnallisuudet toimivat 
+stabiilisti ja käyttöliittymä on selkeä sekä miellyttävä käyttää. Järjestelmätestaukseen liittyen palvelulle suunniteltiin hyväksyntätestejä ja toiminnallisiin- sekä 
+ei-toiminnaliisiin ominaisuuksiin liittyviä testejä TestLink-ympäristössä. Näiden lisäksi palvelulle tuotettiin yksi RobotFrameWork-testi.
 
 [Linkki palvelun demoversioon](http://team-b-2019.pages.labranet.jamk.fi/source/login)
 
 ## 2.2.	 Projektin onnistuminen (suunnitelma vs. toteutuma)
 
-Projektiin kuului useita vaiheita kuten suunnittelu, tekninen dokumentaatio, demopalvelun koodaus sekä testaus. Näiden ohella osana projektia oli myös asiakastapaamiset, katselmoinnit sekä sopimuksen allekirjoittaminen. Kaikki vaiheet toteutettiin jaetusti projektiryhmän kesken ja yleinen aikautulusuunnitelma löytyy [täältä](http://ttos0800-ttos0900.pages.labranet.jamk.fi/amk-2019/yleiset/aikataulu/). Projektin aikaresurssien suunniteltu jakauma ja toteutuneet tunnit osa-alueittain mukaan löytyvät [tuntikirjauksista](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/01-projektinhallinta/tuntikirjaukset.md). Ulkopuolisista resursseista vastasivat tuotteen tilaaja sekä kurssin ohjaaja.
+Projektiin kuului useita vaiheita kuten suunnittelu, tekninen dokumentaatio, demopalvelun koodaus sekä testaus. Näiden ohella osana projektia oli 
+myös asiakastapaamiset, katselmoinnit sekä sopimuksen allekirjoittaminen. Kaikki vaiheet toteutettiin jaetusti projektiryhmän kesken ja yleinen 
+aikautulusuunnitelma löytyy [täältä](http://ttos0800-ttos0900.pages.labranet.jamk.fi/amk-2019/yleiset/aikataulu/). Projektin aikaresurssien suunniteltu 
+jakauma ja toteutuneet tunnit osa-alueittain mukaan löytyvät [tuntikirjauksista](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/01-projektinhallinta/tuntikirjaukset.md). 
+Ulkopuolisista resursseista vastasivat tuotteen tilaaja sekä kurssin ohjaaja.
 
 # 3.	ONGELMAT JA NIIDEN RATKAISUT
 
