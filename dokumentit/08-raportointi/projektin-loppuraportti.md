@@ -141,7 +141,7 @@ jääköön muiden arvioitavaksi.
 - Mikko Martikainen: 
 - Mikko Vornanen: 4
 - Oskari Seppä: 
-- Claudia Viita:
+- Claudia Viita: 2
 - Jesse Heikkinen:
 - Suvi Lauritsalo: 
 
