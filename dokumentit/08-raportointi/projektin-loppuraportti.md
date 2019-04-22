@@ -49,6 +49,10 @@ Komponenttien suunnittelussa pitäisi miettiä paljon tarkemmin ja paremmin voik
 mm. kaupunkien hakuun tehty autocomplete ja niitä olisi pitänyt käyttää uudelleen projektissa sen sijaan että kopioitaisiin logiikkaa turhan monta kertaa uusiin isompiin näkymiin tai komponentteihin. 
 Sain käyttöliittymästä melkein samanlaisen, kuin toimeksiantajan esittelyssä toivottiin johon olen myös ihan tyytyväinen. 
 
+Muita havaittuja ongelmia oli mm. huonosti suunniteltu kolmannen osapuolen slider komponentti, joka tosin sai kesken projektin työstön päivityksen uuteen versioon ja sain sen paremmin toimintaan. Alunperin ajattelin, että selviän projektissa ilman Vuexia, mutta myöhemmin
+aloin siirtämään dataa ensin omaan storeen ja myöhemmin yritin jaotella moduuleihin. Hirveä homma, jonka olisi välttänyt jos olisi opetellut Vuex käytön ja aloittanut projektin datan keräämisen suoraan sinne. Ulkoasun suunnittelu ei ole tällä hetkellä mikään oma vahvuus, joten se 
+jääköön muiden arvioitavaksi.
+
 ## 3.3.	Muut ongelmat tai toteutuneet riskit ja niiden käsittely
 
 # 4.	YHTEENVETO
