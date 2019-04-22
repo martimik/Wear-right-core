@@ -44,10 +44,10 @@ Ulkopuolisista resursseista vastasivat tuotteen tilaaja sekä kurssin ohjaaja.
 
 #### Mikon kommentti Frontendin suunnittelusta ja toteutuksesta
 
-Tein ensimmäistä kertaa isompaa kokonaisuutta VueJS frameworkilla. Olen tekeleeseen ihan tyytyväinen ja tuli opittua myös samalla hyvin paljon. Komponenttien suunnittelussa  
-pitäisi miettiä paljon tarkemmin ja paremmin voiko kyseistä komponenttia käyttää uudelleen, onko siihen tarvetta ja rakentaa se sen mukaan. Myös pienempiä osia olisi pitänyt jakaa erillisiksi komponenteiksi  
-mm. kaupunkien hakuun tehty autocomplete ja niitä olisi pitänyt käyttää uudelleen projektissa sen sijaan että kopioitaisiin logiikkaa turhan monta kertaa uusiin isompiin näkymiin tai komponentteihin. Sain käyttöliittymästä melkein samanlaisen, kuin toimeksiantajan esittelyssä toivottiin  
-johon olen myös ihan tyytyväinen. 
+Tein ensimmäistä kertaa isompaa kokonaisuutta VueJS frameworkilla. Olen tekeleeseen ihan tyytyväinen ja tuli opittua myös samalla hyvin paljon. 
+Komponenttien suunnittelussa pitäisi miettiä paljon tarkemmin ja paremmin voiko kyseistä komponenttia käyttää uudelleen, onko siihen tarvetta ja rakentaa se sen mukaan. Myös pienempiä osia olisi pitänyt jakaa erillisiksi komponenteiksi 
+mm. kaupunkien hakuun tehty autocomplete ja niitä olisi pitänyt käyttää uudelleen projektissa sen sijaan että kopioitaisiin logiikkaa turhan monta kertaa uusiin isompiin näkymiin tai komponentteihin. 
+Sain käyttöliittymästä melkein samanlaisen, kuin toimeksiantajan esittelyssä toivottiin johon olen myös ihan tyytyväinen. 
 
 ## 3.3.	Muut ongelmat tai toteutuneet riskit ja niiden käsittely
 
