@@ -1,108 +1,68 @@
-*Tämä dokumentti on elävä dokumenttipohja, jota päivitetään tilanteen mukaan..*
-Versio 21.11.2018 By NarsuMan
-
-
 
 # Yleistestaussuunnitelma - Master Test Plan
-
-![](https://www.youtube.com/upload_thumbnail?v=yKpIpE_bSGQ&t=3)(https://youtu.be/yKpIpE_bSGQ)
-
-![](https://youtu.be/yKpIpE_bSGQ)
 
 
 *Dokumentin versio* 
 
 *omistaja*
 
-# Esimerkkejä:
-
-* [Contriboard MTP](https://github.com/N4SJAMK/teamboard-meta/wiki/master-test-plan)
-* https://www.tampere3.fi/filebank/4380-Liite_9_kaytettavyystestauksen_testaussuunnitelma.pdf
-* http://tryqa.com/what-are-master-test-plans-level-test-plan-examples-when-to-use/
-
-
 # Yleistä 
 
-Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
+Tähän koottu kasaan kaikkea testaukseen liittyvää.
 
 ## Testikohteesta (Test Target / System Under Test)
 
-Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
+Testikohteena on WearRight sovellus ja sen ominaisuudet kokonaisuudessaan.
 
 ## Testauksen yleiset tavoitteet ja tärkeimmät tehtävät (Test goals and primary needs)
 
-Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
+Testauksen tavoitteena on löytää sovelluksen mahdolliset virheet ja puutteet, jotta ne voidaan korjata. Testataan ymös sovelluksen rajat.
 
 ## Aikataulu (Schedule)
 
-* [Linkki projektisuunnitelmaan?]()
+* [Linkki projektisuunnitelmaan](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/01-projektinhallinta/projektisuunnitelma.md)
 
 ## Julkaisusuunnitelma (Release Plan)
 
-* [Linkki alustavaan julkaisusuunnitelmaan ?]()
+* [Linkki alustavaan julkaisusuunnitelmaan](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/04-julkaisusuunnitelma/julkaisusuunnitelma.md)
 
 ### Testattavat ominaisuudet (Tested Features)
 
-
-| Ominaisuus | Otsikko 2 | Otsikko 3 |
-|:-:|:-:|:-:|
-| [Feature1]() | | 
-| [Feature2]() | | 
-| | | 
-| | | 
-
-### Ei-testattavat ominaisuudet (Non tested Features)
-
-| Otsikko 1 | Otsikko 2 | Otsikko 3 |
-|:-:|:-:|:-:|
-| [Feature100]() | | 
-| [Feature21]() | | 
-| [Feature90]() | | 
-| | | 
+Kaikki sovelluksen ominaisuudet pyritään testaamaan
 
 
 ## Testausympäristöt (Testing Environments)
 
-Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
-
-### Resurssit ja vastuut (Resources and ...)
-
-* [Linkkit resurssisuunnitelmaan ?]()
-
-| Resurssi | Vastuus | Muuta | Yritys |
-|:-:|:-:|:-:|:-:|
-| Henkilö X | Suorituskykytestaus | lomalla heinäkuun | Firm Oy | 
-| Henkilö Y | Tietoturvatestas | Maaliskuun matkoilla | Firm Oy | 
-| Henkilö Z | Toiminnnallinen testaus | 
-| Henkilö Å | Kokeilevat testaus | 
+Testaukset suoritetaan Testlink palvelussa.
+ 
 
 ## Testaustasot (Testing Levels)
 
-In ultricies ultricies ligula, ut suscipit nulla ullamcorper non. Nunc aliquet finibus lorem. Vivamus pretium malesuada nulla a posuere. Pellentesque et bibendum massa. Mauris euismod erat orci, pretium elementum dolor pellentesque et. Vivamus laoreet justo sit amet est ultricies, sit amet rutrum lectus semper. Pellentesque gravida pulvinar ante non semper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras vel dolor fermentum, porttitor mi at, condimentum velit. Pellentesque ut turpis pulvinar, tempor felis sit amet, placerat felis. In hac habitasse platea dictumst.
+Testit suoritetaan usealla eri tasolla parhaan mahdollisen tuloksen saamiseksi
 
 ### Hyväksyntätestaus (Acceptance Testing)
 
-suscipit id, commodo id diam. Aliquam lorem urna, maximus in pretium pharetra, mollis eu lacus. Nam nunc erat, aliquet rutrum ultrices quis, fermentum vitae metus. In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus eget, 
+Validaatiotesteillä varmistetaan ohjelman vaatimusten mukainen toimivuus 
 
 ### Järjestelmätestaus (System Testing)
 
-suscipit id, commodo id diam. Aliquam lorem urna, maximus in pretium pharetra, mollis eu lacus. Nam nunc erat, aliquet rutrum ultrices quis, fermentum vitae metus. In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus eget, 
+Testataan kokonaista ohjelmaa, ja tarkastellaan vastaako ohjelma sille asetettuja vaatimuksia ja käyttötarkoitusta
 
 ### Järjestelmän integraatio testaus (System Integration Testing)
 
-suscipit id, commodo id diam. Aliquam lorem urna, maximus in pretium pharetra, mollis eu lacus. Nam nunc erat, aliquet rutrum ultrices quis, fermentum vitae metus. In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus eget, 
+Testataan useiden komponenttien yhteistoimintaa tavoitteena löytää virheitä, jotka eivät tulleet esiin yksikkötesteissä
 
 ### Moduli/komponenttitason testaus (Module / Component Testing)
 
-suscipit id, commodo id diam. Aliquam lorem urna, maximus in pretium pharetra, mollis eu lacus. Nam nunc erat, aliquet rutrum ultrices quis, fermentum vitae metus. In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus eget, 
+ Testataan yksittäisiä komponentteja ja niiden toimintaa etsien mahdollisia virheitä
 
 ## Testisuunnittelusta
 
-Vestibulum molestie diam sit amet pretium pharetra. Praesent sagittis auctor convallis. Nulla augue sapien, ornare vel suscipit id, commodo id diam. Aliquam lorem urna, maximus in pretium pharetra, mollis eu lacus. Nam nunc erat, aliquet rutrum ultrices quis, fermentum vitae metus. In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus eget, ultrices at nibh. Aenean vel turpis eu quam laoreet lobortis in eget tortor. Nunc vel arcu accumsan, finibus erat at, hendrerit elit. Ut fringilla eros a sollicitudin tincidunt.
+
 
 ## Testaus ja vianhallinnan prosessit
 
-Vestibulum molestie diam sit amet pretium pharetra. Praesent sagittis auctor convallis. Nulla augue sapien, ornare vel suscipit id, commodo id diam. Aliquam lorem urna, maximus in pretium pharetra, mollis eu lacus. Nam nunc erat, aliquet rutrum ultrices quis, fermentum vitae metus. In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus eget, ultrices at nibh. Aenean vel turpis eu quam laoreet lobortis in eget tortor. Nunc vel arcu accumsan, finibus erat at, hendrerit elit. Ut fringilla eros a sollicitudin tincidunt.
+
 
 * Yleiset hyväksyntä kriteerit?
 * Yleiset hylkäys kriteerit?
@@ -110,37 +70,39 @@ Vestibulum molestie diam sit amet pretium pharetra. Praesent sagittis auctor con
 
 ## Valittu testausstrategia
 
-In at nibh eu dui ultrices ultrices. Vestibulum mi mi, ultricies sed maximus eget, ultrices at nibh. Aenean vel turpis eu quam laoreet lobortis in eget tortor. Nunc vel arcu accumsan, finibus erat at, hendrerit elit. Ut fringilla eros a sollicitudin tincidunt.
+
 
 ## Käytetyt testityövälineet ja ohjelmistot
 
+Testattu Testlink palvelussa
+
 ### Suorituskykytestaus - Performance Testing
 
+Testataan sovelluksen suorituskykyä
 
-Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
-
-* [Liitteeksi esim. ko. osa-alueen testitapaukset](https://gitlab.labranet.jamk.fi/TTOS0800-TTOS0900/esimerkki-projekti-v1/blob/master/projektidokumentit/Exmple_of_test_case_pool.pdf)
+* [Liitteeksi esim. ko. osa-alueen testitapaukset](http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=CBT&item=testsuite&id=563)
 
 ### Toiminnallinentestaus - Functional Testing
 
-Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
+Testataan sovelluksen toiminnallisia ominaisuuksia
 
-* [Liitteeksi esim. ko. osa-alueen testitapaukset](https://gitlab.labranet.jamk.fi/TTOS0800-TTOS0900/esimerkki-projekti-v1/blob/master/projektidokumentit/Exmple_of_test_case_pool.pdf)
+* [Liitteeksi esim. ko. osa-alueen testitapaukset](http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=CBT&item=testsuite&id=25)
 
 ### Tietoturvatestaus
 
-Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
+Testataan sovelluksen tietoturva
 
-* [Liitteeksi esim. ko. osa-alueen testitapaukset](https://gitlab.labranet.jamk.fi/TTOS0800-TTOS0900/esimerkki-projekti-v1/blob/master/projektidokumentit/Exmple_of_test_case_pool.pdf)
+* [Liitteeksi esim. ko. osa-alueen testitapaukset](http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=CBT&item=testsuite&id=581)
 
 ### Kuormitustestaus
 
-Phasellus dignissim tempor ipsum in rhoncus. Vestibulum eget mi sed arcu sollicitudin rutrum euismod ac nunc. Maecenas auctor tincidunt magna sed ullamcorper. Aliquam erat volutpat. Pellentesque neque mi, venenatis ut vestibulum at, elementum vitae libero. Maecenas iaculis a libero in tincidunt. Aenean laoreet, arcu non condimentum vulputate, nisl erat vestibulum felis, in vulputate nisi nunc ut nisi. Nam turpis magna, porta venenatis eleifend a, congue vitae diam.
+Testataan sovelluksen kuormituksen sieto
 
+* [Liitteeksi esim. ko. osa-alueen testitapaukset](http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=CBT&item=testsuite&id=575)
 
 ## Liitteet
 
-* [Liitteeksi testitapaukset](https://gitlab.labranet.jamk.fi/open-project-framework/opf-project-template-v1/raw/master/dokumentaatio/05-testaushallinta/Exmple_of_test_case_pool.pdf?inline=false)
+* [Liitteeksi testitapaukset](http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=CBT&item=testsuite&id=12)
 
 
 
