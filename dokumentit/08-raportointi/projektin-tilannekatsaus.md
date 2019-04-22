@@ -31,7 +31,7 @@ Työtunteja projektiin kului yhteensä 350 h.
 
 ## Mitä saatiin aikaan?
 
-Palvelusta tuotettu demo sisältää profiilin luomisen, sivuprofiilien lisäämisen, tietojen muokkaamisen, säätietojen haun eri ajankohdille ja vaatesuositukset pää- sekä sivuprofiileille.
+Palvelusta tuotettu demo sisältää profiilin luomisen, sivuprofiilien lisäämisen,tietojen muokkaamisen, säätietojen haun eri ajankohdille ja vaatesuositukset pää- sekä sivuprofiileille.
 
 Palvelun sivusto saatiin pyörimään gitlab-ympäristöön ja palvelinohjelmisto sekä tietokanta digital ocean-palveluun.
 
