@@ -24,11 +24,9 @@ Aloitusvaiheen dokumentaation jälkeen päätimme edetä ominaisuus kerrallaan j
 
 Palvelun teknologioiksi valikoituivat VueJS, NodeJs, MySql ja säärajapinnaksi openweathermap.
 
-
-
 ## Käytetyt resurssit
 
-Työtunteja projektiin kului yhteensä x h
+Työtunteja projektiin kului yhteensä 350 h.
 
 
 ## Mitä saatiin aikaan?
@@ -39,6 +37,8 @@ Palvelun sivusto saatiin pyörimään gitlab-ympäristöön ja palvelinohjelmist
 
 Palvelulle saatiin myös tuotettua ja ajettua yksi RobotFramework -testi.
 
+[Linkki tuloksiin](/dokumentit/05-testaushallinta/robotFramework/Results.PNG)
+
 
 ## Demo
 
@@ -47,9 +47,11 @@ Palvelulle saatiin myös tuotettua ja ajettua yksi RobotFramework -testi.
 
 ## Ongelmat
 
+Suurempia ongelmia ei projektin aikana ilmaantunut. Teknisellä puolella joidenkin VueJs:n komponenttien käytössä ilmeni hiukan ongelmia, mutta ne saatiin kuitenkin ratkaistua joko muuttamalla komponenttia tai vaihtamalla.
+
 ## Saavutukset/voitot
 
-Palvelu saatiin toimimaan tavoitteiden mukaan.
+Palvelu saatiin toimimaan tavoitteiden mukaan. Käyttöliittymä sekä ominaisuudet ovat sellaisia kuin toimeksiantaja toivoi. 
 
 
 ## Mitä opittiin?
@@ -60,5 +62,3 @@ Palvelu saatiin toimimaan tavoitteiden mukaan.
 - Teknologiat (VueJs)
 - Testlinkin käyttö
 - RobotFrameworkin käyttö
-
-## Mitä teemme tulevaisuudessa?

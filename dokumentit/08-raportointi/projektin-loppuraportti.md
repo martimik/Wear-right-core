@@ -70,81 +70,43 @@ jääköön muiden arvioitavaksi.
 
 ### 4.2.1.	Ryhmätyö
 
-*	projektipäällikkyys (ei henkilöön kohdistuvaa, vaan yleisemmällä tasolla)
-*	erilaisuuden hyödyntäminen
-*	ongelmanratkaisu (ei pelkästään teknisten ongelmien ratkaisemista, viestintä ym.)
-*	työnjako ja tehtävien hallinta
-*	ryhmän oma työ 
-*	toisten työ (esim. tukiryhmätoiminta)
-*	resurssien hyödyntäminen (mitkä ovat teidän resurssinne?)
-*	ohjaus ja sen käyttö (mitä muutakin kuin oma ohjaaja?)
-*	ryhmäprosessi (ryhmällä eri kehitysvaiheita (joukko, klikki, ME, tiimi), miten kehittynyt?)
-*	kriisit ja niistä selviäminen 
-*	oman työn kriittinen kehittäminen	
-
 - Suunnittelussa saatiin hyvää keskustelua ryhmän kesken ja ratkaisuja saatiin aikaan.
+- Ongelmatilanteissa ratkaisuja etsittiin ryhmän kanssa.
+- Tehtävien jakamisesta, aikataulujen noudattamisesta sekä tehtävien valmistumisesta olisi voinut pitää paremmin huolta.
+- Projektipäälikkö olisi voinut ottaa enemmän vastuuta projektin ohjaamisesta.
+- Ohjausta olisi voinut myös hyödyntää enemmän, vaikkei sille varsinaisesti ollut tarvetta.
+- Työnjaossa saatiin myös hyödynnettyä ryhmäläisten omia mielenkiinnon kohteita sekä taitoja.
+- Työmäärä jakautui kuitenkin hieman epätasaisesti ryhmän jäsenten välillä.
 
 ### 4.2.2.	Suunnitelmallisuus (projektityöskentely) 
 
-*	suunnitelmat
-*	mitä tehty?
-*	mitä käytetty/valvottu (miten näkynyt projektin arjessa)?
-*	mitä päivitetty ja miksi?
-*	miten hyvin tehty?
-*	resurssien hallinta
-*	suunniteltu
-*	valvonta
-*	toteutuminen
-*	projektiprosessin dokumentointi (mm. muistiot eri palavereista)
-*	projektiprosessin hallinta
+- Projektin suunnitelmallisuudesta vastasi pääosin alussa tuotettu dokumentaatio ja suunnitelmat
+- Suurempaa valvontaa ei pidetty vaan kaikki ryhmän jäsenet vastasivat omasta työskentelystään.
+- Dokumentit kirjoitettiin heti puhtaaksi eikä suurempia muutoksia tullut projektin edetessä. 
 
 ### 4.2.3.	Vuorovaikutus
 
-*	yhteydenpito sidosryhmiin (ketkä ovat sidosryhmiä?)
-*	tiedonhankinta (toimeksiantajalta tiedon saaminen)
-*	haastattelut ja niiden valmistelu, toteutus ja tiedon jalostus
-*	tiedottaminen
-*	asiakasorganisaatiossa
-*	erityiskohderyhmät
-*	ammattikorkeakoululle
-*	muut kohteet ja mediat (jos näkynyt esim. lehdissä, messuilla tms.)
-*	johtoryhmätyöskentely (valmistautuminen, tavoitteiden saavuttaminen, läpivienti)
-*	tehtävän kehittäminen ja rajaukset 
-*	miten tehty?
-*	kenen esityksestä ja millä tiedoilla?
-*	tukiryhmätoiminta (tiedon saaminen, asiantuntijoiden hyödyntäminen)
-*	”fiilis” ja sen syyt (jos ”alavireinen”, niin kuinka parannettu?)
-*	toisten työkiireiden huomioiminen yhteydenpidossa (ennakointi, matkat ym.)
-*	yhteydenpitovälineiden käyttö (mikä on järkevä väline eri tilanteisiin, palaverit kallista ajankäyttöä)
-*	vuorovaikutuksen tuloksellisuus (Jory, sähköposti, muut)
-
+- Kaikki ryhmän jäsenet pääsivät tapaamaan toimeksiantajan.
+- Yhteydenpidossa viestiryhmä saavutti hyvin kaikki jäsenet.
+- Ryhmän sisäisessä kommunikoinnissa aktiviisuutta uupui aika-ajoin.
 
 ### 4.2.4.	Asenne
 
-*	tehtävään 
-*	oppimiseen 
-*	ongelmiin
-*	ote projektista sen eri vaiheissa
-*	palautehakuisuus
+- Ryhmän jäseniltä löytyi pääosin hyvin mielenkiintoa projektia ja uusien asioiden oppimista kohtaan. 
 
 ### 4.2.5.	Tulos
 
-* Tulosta on kaikki, mitä projekti tavoitteellisesti tarjoaa ryhmän ulkopuolisten hyödyksi
-*	mitkä ovat projektin tulokset? 
-*	kuinka hyviä tuotokset ovat?
-*	onko projektilla ”aineettomia” tuloksia? (esim. asennemuutos)
-*	tulosten arvo organisaatiolle ja muille tahoille
-*	jatkotoimenpiteet
+- Projektin tuloksena saatiin luotua halutunlainen demosovellus.
+- Tuotos oli resursseihin nähden hyvä.
+- Tuloksena toimeksiantaja sai näkymän siitä, millainen palvelu tulisi olemaan.
 
 ## 4.3.	Arvosanaehdotukset
 
-- Mikko Martikainen: 
-- Mikko Vornanen: 4
-- Oskari Seppä: 
-- Claudia Viita: 2
-- Jesse Heikkinen:
-- Suvi Lauritsalo: 
+- Mikko Martikainen: 3
+- Mikko Vornanen: 5
+- Oskari Seppä: 5
+- Claudia Viita: 3
+- Jesse Heikkinen: 3
+- Suvi Lauritsalo: 2
 
-# LÄHTEET
-
-# LIITTEET
+# Allekirjoitukset

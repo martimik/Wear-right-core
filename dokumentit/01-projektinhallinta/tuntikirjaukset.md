@@ -63,8 +63,9 @@ Yhteensä: 54h
 | Mikko Martikainen | 4.4.2019 | 4h | Käytettävyystestaus |
 | Mikko Martikainen | 18.4.2019 | 5h | Loppudokumentaatio |
 | Mikko Martikainen | 21.4.2019 | 2h | Loppudokumentaatio |
+| Mikko Martikainen | 22.4.2019 | 3h | Loppudokumentaatio |
 
-Yhteensä: 54h
+Yhteensä: 57h
 
 
 ### Mikko Vornanen
@@ -140,27 +141,13 @@ Yhteensä: 44.25h
 Yhteensä: 26.25h
 
 
-### Hankinnat projektille
-
-| Hankinnatä | Päivämäärä | Hinta |
-|:-:|:-:|:-:|
-| - | - | - |
-| - | - | - |
-| - | - | - |
-| - | - | - |
-
-Yhteensä: 40€  
-
-
-### Projektin kokonaiskulut 5.1.2018
+### Projektin kokonaiskulut 22.4.2019
 
 | Kuluerä | määrä |  hinta a | Yhteensä |
 |:-:|:-:|:-:|:-:|
-| Työtunnit | 138 | 50 € | 6900€ |   
-| Hankinnat | 0 | 0 € | 0 € |
-| *Yhteensä:* |- | - | 4287.5 € |
+| Työtunnit | 350 | 50 € | 17 500€ |   
+| *Yhteensä:* |- | - | 17 500 € |
 
-Tai sitten [Toggl](https://www.toggl.com)
 
 ## Työmääräarvio
 

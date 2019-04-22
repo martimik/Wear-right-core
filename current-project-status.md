@@ -1,9 +1,9 @@
 # Status
 
-* Date: 21.3.2019
+* Date: 23.4.2019
 * Team: Team Hydralist
-* Cumulative-working-hours: ~247h
-* Current-bill: 12 365€
+* Cumulative-working-hours: 350 h
+* Current-bill: 17 500€
 
 
 # Miten homma etenee / Current Progress
@@ -13,20 +13,17 @@
 * Tietojen tallentaminen paikallisesti.
 * Sivuprofiilien lisääminen.
 * Säätietojen hakeminen eri kaupungeista.
+* Matkojen sunnittelu
+* Kuvalliset vaatesuositukset sekä lista vaatteista
 
 # Ongelmakohdat / Problems ahead
-
-* 
 
 
 # Mitä seuraavaksi / What next
 
-* käytettävyystestaus
+* Seminaari ja E4
 
 ## Ominaisuuksien kehitys
-* Matkan luominen
-* Kuvalliset vaatesuositukse
-* Säätietojen hakeminen lokaatiotietojen avulla
 
 [Issuet](https://gitlab.labranet.jamk.fi/team-b-2019/core/boards/1214?milestone_title=Sprint%2006&)
 
