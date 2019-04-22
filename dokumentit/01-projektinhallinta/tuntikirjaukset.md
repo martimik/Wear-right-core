@@ -98,8 +98,11 @@ Yhteensä: 54h
 | Mikko Vornanen | 22.3.2019 | 3h | Prototyypin työstöä / frontend koodia |
 | Mikko Vornanen | 25.3.2019 | 2h | Prototyypin työstöä / frontend koodia |
 | Mikko Vornanen | 25.3.2019 | 1h | Katselmointi E2 |
+| Mikko Vornanen | 9.3.2019 | 1h | Katselmointi E2 |
+| Mikko Vornanen | 4.4.2019 | 4h | Prototyypin työstöä / frontend koodia |
+| Mikko Vornanen | 18.4.2019 | 6h | Prototyypin työstöä / frontend koodia |
 
-Yhteensä: ~100h
+Yhteensä: 110h
 
 
 ### Oskari Seppä
