@@ -1,4 +1,3 @@
-
 # Yleistestaussuunnitelma - Master Test Plan
 
 
@@ -80,29 +79,29 @@ Testattu Testlink palvelussa
 
 Testataan sovelluksen suorituskykyä
 
-* [Liitteeksi esim. ko. osa-alueen testitapaukset](http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=CBT&item=testsuite&id=563)
+* [Testitapaukset](http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=CBT&item=testsuite&id=563)
 
 ### Toiminnallinentestaus - Functional Testing
 
 Testataan sovelluksen toiminnallisia ominaisuuksia
 
-* [Liitteeksi esim. ko. osa-alueen testitapaukset](http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=CBT&item=testsuite&id=25)
+* [Testitapaukset](http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=CBT&item=testsuite&id=25)
 
 ### Tietoturvatestaus
 
 Testataan sovelluksen tietoturva
 
-* [Liitteeksi esim. ko. osa-alueen testitapaukset](http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=CBT&item=testsuite&id=581)
+* [Testitapaukset](http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=CBT&item=testsuite&id=581)
 
 ### Kuormitustestaus
 
 Testataan sovelluksen kuormituksen sieto
 
-* [Liitteeksi esim. ko. osa-alueen testitapaukset](http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=CBT&item=testsuite&id=575)
+* [Testitapaukset](http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=CBT&item=testsuite&id=575)
 
 ## Liitteet
 
-* [Liitteeksi testitapaukset](http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=CBT&item=testsuite&id=12)
+* [Kaikki testitapaukset](http://testlink.labranet.jamk.fi/testlink/linkto.php?tprojectPrefix=CBT&item=testsuite&id=12)
 
 
 
