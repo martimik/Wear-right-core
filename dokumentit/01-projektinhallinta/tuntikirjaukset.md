@@ -137,8 +137,10 @@ Yhteensä: 44.25h
 | Suvi Lauritsalo | 7.3.2019 | 2h | Sprint 8 |
 | Suvi Lauritsalo | 21.3.2019 | 2h | Sprint 9, Testlink |
 | Suvi Lauritsalo | 6.4.2019 | 2h | Ylläpidettävyys raportti |
+| Suvi Lauritsalo | 22.4.2019 | 2h | Testaussuunnitelma |
+| Suvi Lauritsalo | 23.4.2019 | 1h | Ylläpidettävyys raportti |
 
-Yhteensä: 26.25h
+Yhteensä: 29.25h
 
 
 ### Projektin kokonaiskulut 22.4.2019
