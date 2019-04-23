@@ -39,6 +39,8 @@ Palvelulle saatiin myös tuotettua ja ajettua yksi RobotFramework -testi.
 
 [Linkki tuloksiin](/dokumentit/05-testaushallinta/robotFramework/Results.PNG)
 
+[Linkki Youtube-esittelyyn](https://www.youtube.com/watch?v=Gbdc0-LP28I&feature=youtu.be)
+
 
 ## Demo
 
