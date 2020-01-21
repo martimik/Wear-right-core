@@ -31,5 +31,3 @@
 # Tärkeitä linkkejä / Useful links
 
 * [Tuntikirjaus](https://gitlab.labranet.jamk.fi/team-b-2019/core/blob/master/dokumentit/01-projektinhallinta/tuntikirjaukset.md)
-* [Kotisivu](http://team-b-2019.pages.labranet.jamk.fi/site/#/)
-* [palvelun kehitysversio](http://team-b-2019.pages.labranet.jamk.fi/source/#)

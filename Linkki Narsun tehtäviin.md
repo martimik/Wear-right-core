@@ -1,1 +1,0 @@
-[Linkki](https://gitlab.labranet.jamk.fi/archieve-projects/ohjelmistoprojekti-ja-jarjestelmatestaus/tree/master/ttos0900-harjoitukset)
